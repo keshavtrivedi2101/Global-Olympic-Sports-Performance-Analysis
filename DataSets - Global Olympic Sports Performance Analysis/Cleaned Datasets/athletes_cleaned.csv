@@ -1,0 +1,1549 @@
+ID,Name,Sex,year,country,noc_code,region,sport_category,athletes_sent,sport_medals,avg_medals_per_athlete
+1.0,A Dijiang,M,1992.0,United States,USA,North America,Rowing,7.0,48.0,6.857
+2.0,A Lamusi,M,1994.0,China,CHN,Asia,Shooting,4.0,26.0,6.5
+3.0,Gunnar Nielsen Aaby,M,1996.0,Great Britain,GBR,Europe,Athletics,10.0,54.0,5.4
+4.0,Edgar Lindenau Aabye,M,1998.0,Germany,GER,Europe,Swimming,5.0,22.0,4.4
+5.0,Christine Jacoba Aaftink,F,2000.0,Russia,RUS,Europe/Asia,Gymnastics,8.0,41.0,5.125
+5.0,Christine Jacoba Aaftink,F,2002.0,Japan,JPN,Asia,Cycling,11.0,28.0,2.545
+5.0,Christine Jacoba Aaftink,F,2004.0,Australia,AUS,Oceania,Wrestling,6.0,20.0,3.333
+5.0,Christine Jacoba Aaftink,F,2006.0,France,FRA,Europe,Boxing,5.0,18.0,3.6
+5.0,Christine Jacoba Aaftink,F,2008.0,Italy,ITA,Europe,Judo,10.0,19.0,1.9
+5.0,Christine Jacoba Aaftink,F,2010.0,Canada,CAN,North America,Archery,4.0,13.0,3.25
+6.0,Per Knut Aaland,M,2012.0,South Korea,KOR,Asia,Alpine Skiing,11.0,13.0,1.182
+6.0,Per Knut Aaland,M,2014.0,Netherlands,NED,Europe,Figure Skating,3.0,4.0,1.333
+6.0,Per Knut Aaland,M,2016.0,Brazil,BRA,South America,Speed Skating,3.0,6.0,2.0
+6.0,Per Knut Aaland,M,2018.0,Norway,NOR,Europe,Biathlon,4.0,21.0,5.25
+6.0,Per Knut Aaland,M,2020.0,Sweden,SWE,Europe,Ice Hockey,7.0,33.0,4.714
+6.0,Per Knut Aaland,M,2022.0,Spain,ESP,Europe,Snowboarding,10.0,28.0,2.8
+6.0,Per Knut Aaland,M,2024.0,Switzerland,SUI,Europe,Cross-Country Skiing,9.0,46.0,5.111
+6.0,Per Knut Aaland,M,2026.0,Ukraine,UKR,Europe/Asia,Weightlifting,5.0,19.0,3.8
+7.0,John Aalberg,M,1992.0,Kenya,KEN,Africa,Fencing,9.0,35.0,3.889
+7.0,John Aalberg,M,1994.0,Jamaica,JAM,North America,Taekwondo,5.0,6.0,1.2
+7.0,John Aalberg,M,1996.0,New Zealand,NZL,Oceania,Canoeing,5.0,14.0,2.8
+7.0,John Aalberg,M,1998.0,Cuba,CUB,North America,Sailing,10.0,54.0,5.4
+7.0,John Aalberg,M,2000.0,Hungary,HUN,Europe,Equestrian,4.0,7.0,1.75
+7.0,John Aalberg,M,2002.0,Poland,POL,Europe,Triathlon,10.0,17.0,1.7
+7.0,John Aalberg,M,2004.0,South Africa,RSA,Africa,Badminton,5.0,24.0,4.8
+7.0,John Aalberg,M,2006.0,Ethiopia,ETH,Africa,Rowing,11.0,76.0,6.909
+8.0,"Cornelia ""Cor"" Aalten (-Strannood)",F,2008.0,Argentina,ARG,South America,Shooting,6.0,40.0,6.667
+8.0,"Cornelia ""Cor"" Aalten (-Strannood)",F,2010.0,Czech Republic,CZE,Europe,Athletics,9.0,22.0,2.444
+9.0,Antti Sami Aalto,M,2012.0,Austria,AUT,Europe,Swimming,5.0,11.0,2.2
+10.0,"Einar Ferdinand ""Einari"" Aalto",M,2014.0,Finland,FIN,Europe,Gymnastics,5.0,24.0,4.8
+11.0,Jorma Ilmari Aalto,M,2016.0,Romania,ROU,Europe,Cycling,10.0,54.0,5.4
+12.0,Jyri Tapani Aalto,M,2018.0,Denmark,DEN,Europe,Wrestling,8.0,25.0,3.125
+13.0,Minna Maarit Aalto,F,2020.0,Croatia,CRO,Europe,Boxing,5.0,9.0,1.8
+13.0,Minna Maarit Aalto,F,2022.0,Kazakhstan,KAZ,Europe/Asia,Judo,7.0,8.0,1.143
+14.0,Pirjo Hannele Aalto (Mattila-),F,2024.0,Belarus,BLR,Europe,Archery,4.0,12.0,3.0
+15.0,Arvo Ossian Aaltonen,M,2026.0,Bulgaria,BUL,Europe,Alpine Skiing,8.0,41.0,5.125
+15.0,Arvo Ossian Aaltonen,M,1992.0,Slovakia,SVK,Europe,Figure Skating,4.0,21.0,5.25
+15.0,Arvo Ossian Aaltonen,M,1994.0,Georgia,GEO,Europe/Asia,Speed Skating,9.0,28.0,3.111
+15.0,Arvo Ossian Aaltonen,M,1996.0,Azerbaijan,AZE,Europe/Asia,Biathlon,11.0,59.0,5.364
+15.0,Arvo Ossian Aaltonen,M,1998.0,Colombia,COL,South America,Ice Hockey,7.0,21.0,3.0
+16.0,Juhamatti Tapio Aaltonen,M,2000.0,Mexico,MEX,North America,Snowboarding,6.0,30.0,5.0
+17.0,Paavo Johannes Aaltonen,M,2002.0,India,IND,Asia,Cross-Country Skiing,4.0,14.0,3.5
+17.0,Paavo Johannes Aaltonen,M,2004.0,Belgium,BEL,Europe,Weightlifting,2.0,10.0,5.0
+17.0,Paavo Johannes Aaltonen,M,2006.0,Greece,GRE,Europe,Fencing,8.0,16.0,2.0
+17.0,Paavo Johannes Aaltonen,M,2008.0,Turkey,TUR,Europe/Asia,Taekwondo,5.0,23.0,4.6
+17.0,Paavo Johannes Aaltonen,M,2010.0,Iran,IRI,Asia,Canoeing,2.0,5.0,2.5
+17.0,Paavo Johannes Aaltonen,M,2012.0,North Korea,PRK,Asia,Sailing,5.0,6.0,1.2
+17.0,Paavo Johannes Aaltonen,M,2014.0,Thailand,THA,Asia,Equestrian,7.0,25.0,3.571
+17.0,Paavo Johannes Aaltonen,M,2016.0,Indonesia,INA,Asia,Triathlon,2.0,7.0,3.5
+17.0,Paavo Johannes Aaltonen,M,2018.0,Nigeria,NGR,Africa,Badminton,3.0,12.0,4.0
+17.0,Paavo Johannes Aaltonen,M,2020.0,Egypt,EGY,Africa,Rowing,3.0,20.0,6.667
+17.0,Paavo Johannes Aaltonen,M,2022.0,Morocco,MAR,Africa,Shooting,10.0,67.0,6.7
+17.0,Paavo Johannes Aaltonen,M,2024.0,Algeria,ALG,Africa,Athletics,11.0,43.0,3.909
+17.0,Paavo Johannes Aaltonen,M,2026.0,Tunisia,TUN,Africa,Swimming,6.0,28.0,4.667
+17.0,Paavo Johannes Aaltonen,M,1992.0,Chile,CHI,South America,Gymnastics,5.0,24.0,4.8
+17.0,Paavo Johannes Aaltonen,M,1994.0,Venezuela,VEN,South America,Cycling,10.0,24.0,2.4
+17.0,Paavo Johannes Aaltonen,M,1996.0,Fiji,FIJ,Oceania,Wrestling,7.0,30.0,4.286
+18.0,Timo Antero Aaltonen,M,1998.0,Slovenia,SLO,Europe,Boxing,4.0,11.0,2.75
+19.0,Win Valdemar Aaltonen,M,2000.0,Serbia,SRB,Europe,Judo,5.0,19.0,3.8
+20.0,Kjetil Andr Aamodt,M,2002.0,Ireland,IRL,Europe,Archery,7.0,15.0,2.143
+20.0,Kjetil Andr Aamodt,M,2004.0,United States,USA,North America,Alpine Skiing,9.0,29.0,3.222
+20.0,Kjetil Andr Aamodt,M,2006.0,China,CHN,Asia,Figure Skating,3.0,11.0,3.667
+20.0,Kjetil Andr Aamodt,M,2008.0,Great Britain,GBR,Europe,Speed Skating,8.0,15.0,1.875
+20.0,Kjetil Andr Aamodt,M,2010.0,Germany,GER,Europe,Biathlon,6.0,31.0,5.167
+20.0,Kjetil Andr Aamodt,M,2012.0,Russia,RUS,Europe/Asia,Ice Hockey,2.0,7.0,3.5
+20.0,Kjetil Andr Aamodt,M,2014.0,Japan,JPN,Asia,Snowboarding,2.0,5.0,2.5
+20.0,Kjetil Andr Aamodt,M,2016.0,Australia,AUS,Oceania,Cross-Country Skiing,8.0,43.0,5.375
+20.0,Kjetil Andr Aamodt,M,2018.0,France,FRA,Europe,Weightlifting,9.0,24.0,2.667
+20.0,Kjetil Andr Aamodt,M,2020.0,Italy,ITA,Europe,Fencing,7.0,20.0,2.857
+20.0,Kjetil Andr Aamodt,M,2022.0,Canada,CAN,North America,Taekwondo,2.0,8.0,4.0
+20.0,Kjetil Andr Aamodt,M,2024.0,South Korea,KOR,Asia,Canoeing,5.0,20.0,4.0
+20.0,Kjetil Andr Aamodt,M,2026.0,Netherlands,NED,Europe,Sailing,5.0,10.0,2.0
+20.0,Kjetil Andr Aamodt,M,1992.0,Brazil,BRA,South America,Equestrian,10.0,25.0,2.5
+20.0,Kjetil Andr Aamodt,M,1994.0,Norway,NOR,Europe,Triathlon,5.0,10.0,2.0
+20.0,Kjetil Andr Aamodt,M,1996.0,Sweden,SWE,Europe,Badminton,2.0,9.0,4.5
+20.0,Kjetil Andr Aamodt,M,1998.0,Spain,ESP,Europe,Rowing,5.0,34.0,6.8
+20.0,Kjetil Andr Aamodt,M,2000.0,Switzerland,SUI,Europe,Shooting,6.0,40.0,6.667
+20.0,Kjetil Andr Aamodt,M,2002.0,Ukraine,UKR,Europe/Asia,Athletics,5.0,18.0,3.6
+20.0,Kjetil Andr Aamodt,M,2004.0,Kenya,KEN,Africa,Swimming,3.0,9.0,3.0
+21.0,Ragnhild Margrethe Aamodt,F,2006.0,Jamaica,JAM,North America,Gymnastics,3.0,4.0,1.333
+22.0,Andreea Aanei,F,2008.0,New Zealand,NZL,Oceania,Cycling,2.0,8.0,4.0
+23.0,Fritz Aanes,M,2010.0,Cuba,CUB,North America,Wrestling,11.0,21.0,1.909
+23.0,Fritz Aanes,M,2012.0,Hungary,HUN,Europe,Boxing,2.0,8.0,4.0
+24.0,Nils Egil Aaness,M,2014.0,Poland,POL,Europe,Judo,10.0,22.0,2.2
+24.0,Nils Egil Aaness,M,2016.0,South Africa,RSA,Africa,Archery,9.0,26.0,2.889
+24.0,Nils Egil Aaness,M,2018.0,Ethiopia,ETH,Africa,Alpine Skiing,8.0,32.0,4.0
+25.0,Alf Lied Aanning,M,2020.0,Argentina,ARG,South America,Figure Skating,11.0,15.0,1.364
+26.0,Agnes Erika Aanonsen (-Eyde),F,2022.0,Czech Republic,CZE,Europe,Speed Skating,4.0,8.0,2.0
+27.0,Johan Aantjes,M,2024.0,Austria,AUT,Europe,Biathlon,7.0,9.0,1.286
+28.0,Jan-Erik Aarberg,M,2026.0,Finland,FIN,Europe,Ice Hockey,7.0,13.0,1.857
+28.0,Jan-Erik Aarberg,M,1992.0,Romania,ROU,Europe,Snowboarding,10.0,23.0,2.3
+29.0,Willemien Aardenburg,F,1994.0,Denmark,DEN,Europe,Cross-Country Skiing,3.0,11.0,3.667
+30.0,Pepijn Aardewijn,M,1996.0,Croatia,CRO,Europe,Weightlifting,6.0,22.0,3.667
+30.0,Pepijn Aardewijn,M,1998.0,Kazakhstan,KAZ,Europe/Asia,Fencing,10.0,32.0,3.2
+31.0,Evald rma (rman-),M,2000.0,Belarus,BLR,Europe,Taekwondo,3.0,14.0,4.667
+32.0,Olav Augunson Aarnes,M,2002.0,Bulgaria,BUL,Europe,Canoeing,4.0,5.0,1.25
+33.0,Mika Lauri Aarnikka,M,2004.0,Slovakia,SVK,Europe,Sailing,9.0,28.0,3.111
+33.0,Mika Lauri Aarnikka,M,2006.0,Georgia,GEO,Europe/Asia,Equestrian,8.0,33.0,4.125
+34.0,Jamale (Djamel-) Aarrass (Ahrass-),M,2008.0,Azerbaijan,AZE,Europe/Asia,Triathlon,7.0,9.0,1.286
+35.0,Dagfinn Sverre Aarskog,M,2010.0,Colombia,COL,South America,Badminton,5.0,6.0,1.2
+36.0,Stefan Remco Aartsen,M,2012.0,Mexico,MEX,North America,Rowing,6.0,41.0,6.833
+36.0,Stefan Remco Aartsen,M,2014.0,India,IND,Asia,Shooting,9.0,60.0,6.667
+36.0,Stefan Remco Aartsen,M,2016.0,Belgium,BEL,Europe,Athletics,8.0,15.0,1.875
+36.0,Stefan Remco Aartsen,M,2018.0,Greece,GRE,Europe,Swimming,11.0,23.0,2.091
+36.0,Stefan Remco Aartsen,M,2020.0,Turkey,TUR,Europe/Asia,Gymnastics,3.0,9.0,3.0
+37.0,Ann Kristin Aarnes,F,2022.0,Iran,IRI,Asia,Cycling,11.0,36.0,3.273
+38.0,Karl Jan Aas,M,2024.0,North Korea,PRK,Asia,Wrestling,11.0,56.0,5.091
+39.0,Lars Thorlaksn Aas,M,2026.0,Thailand,THA,Asia,Boxing,7.0,24.0,3.429
+39.0,Lars Thorlaksn Aas,M,1992.0,Indonesia,INA,Asia,Judo,8.0,31.0,3.875
+39.0,Lars Thorlaksn Aas,M,1994.0,Nigeria,NGR,Africa,Archery,10.0,25.0,2.5
+40.0,Roald Edgar Aas,M,1996.0,Egypt,EGY,Africa,Alpine Skiing,8.0,11.0,1.375
+40.0,Roald Edgar Aas,M,1998.0,Morocco,MAR,Africa,Figure Skating,10.0,36.0,3.6
+40.0,Roald Edgar Aas,M,2000.0,Algeria,ALG,Africa,Speed Skating,2.0,9.0,4.5
+40.0,Roald Edgar Aas,M,2002.0,Tunisia,TUN,Africa,Biathlon,2.0,9.0,4.5
+40.0,Roald Edgar Aas,M,2004.0,Chile,CHI,South America,Ice Hockey,7.0,14.0,2.0
+40.0,Roald Edgar Aas,M,2006.0,Venezuela,VEN,South America,Snowboarding,4.0,11.0,2.75
+41.0,Rolf Aas,M,2008.0,Fiji,FIJ,Oceania,Cross-Country Skiing,4.0,15.0,3.75
+42.0,Thomas Valentin Aas,M,2010.0,Slovenia,SLO,Europe,Weightlifting,6.0,8.0,1.333
+43.0,Morten Gjerdrum Aasen,M,2012.0,Serbia,SRB,Europe,Fencing,10.0,29.0,2.9
+44.0,Meelis Aasme,M,2014.0,Ireland,IRL,Europe,Taekwondo,4.0,17.0,4.25
+44.0,Meelis Aasme,M,2016.0,United States,USA,North America,Canoeing,4.0,8.0,2.0
+44.0,Meelis Aasme,M,2018.0,China,CHN,Asia,Sailing,10.0,42.0,4.2
+44.0,Meelis Aasme,M,2020.0,Great Britain,GBR,Europe,Equestrian,10.0,42.0,4.2
+44.0,Meelis Aasme,M,2022.0,Germany,GER,Europe,Triathlon,10.0,52.0,5.2
+45.0,Hakon Aasns,M,2024.0,Russia,RUS,Europe/Asia,Badminton,2.0,4.0,2.0
+46.0,Hans Aasns,M,2026.0,Japan,JPN,Asia,Rowing,7.0,48.0,6.857
+46.0,Hans Aasns,M,1992.0,Australia,AUS,Oceania,Shooting,9.0,60.0,6.667
+46.0,Hans Aasns,M,1994.0,France,FRA,Europe,Athletics,6.0,23.0,3.833
+46.0,Hans Aasns,M,1996.0,Italy,ITA,Europe,Swimming,2.0,9.0,4.5
+46.0,Hans Aasns,M,1998.0,Canada,CAN,North America,Gymnastics,6.0,10.0,1.667
+47.0,Erling Rudolf Aastad,M,2000.0,South Korea,KOR,Asia,Cycling,3.0,15.0,5.0
+47.0,Erling Rudolf Aastad,M,2002.0,Netherlands,NED,Europe,Wrestling,11.0,51.0,4.636
+47.0,Erling Rudolf Aastad,M,2004.0,Brazil,BRA,South America,Boxing,4.0,16.0,4.0
+47.0,Erling Rudolf Aastad,M,2006.0,Norway,NOR,Europe,Judo,8.0,13.0,1.625
+48.0,Abdelhak Aatakni,M,2008.0,Sweden,SWE,Europe,Archery,3.0,14.0,4.667
+49.0,Moonika Aava,F,2010.0,Spain,ESP,Europe,Alpine Skiing,11.0,44.0,4.0
+49.0,Moonika Aava,F,2012.0,Switzerland,SUI,Europe,Figure Skating,2.0,6.0,3.0
+50.0,Arvi Aavik,M,2014.0,Ukraine,UKR,Europe/Asia,Speed Skating,11.0,21.0,1.909
+50.0,Arvi Aavik,M,2016.0,Kenya,KEN,Africa,Biathlon,7.0,17.0,2.429
+51.0,Nstor Abad Sanjun,M,2018.0,Jamaica,JAM,North America,Ice Hockey,8.0,13.0,1.625
+51.0,Nstor Abad Sanjun,M,2020.0,New Zealand,NZL,Oceania,Snowboarding,11.0,54.0,4.909
+51.0,Nstor Abad Sanjun,M,2022.0,Cuba,CUB,North America,Cross-Country Skiing,9.0,14.0,1.556
+51.0,Nstor Abad Sanjun,M,2024.0,Hungary,HUN,Europe,Weightlifting,4.0,7.0,1.75
+51.0,Nstor Abad Sanjun,M,2026.0,Poland,POL,Europe,Fencing,5.0,14.0,2.8
+51.0,Nstor Abad Sanjun,M,1992.0,South Africa,RSA,Africa,Taekwondo,11.0,30.0,2.727
+52.0,Patrick Abada,M,1994.0,Ethiopia,ETH,Africa,Canoeing,3.0,13.0,4.333
+53.0,Talaat Abada,M,1996.0,Argentina,ARG,South America,Sailing,2.0,4.0,2.0
+54.0,Mohamed Jamshid Abadi,M,1998.0,Czech Republic,CZE,Europe,Equestrian,8.0,41.0,5.125
+55.0,Antonio Abadia Beci,M,2000.0,Austria,AUT,Europe,Triathlon,3.0,5.0,1.667
+56.0,Ren Abadie,M,2002.0,Finland,FIN,Europe,Badminton,9.0,36.0,4.0
+56.0,Ren Abadie,M,2004.0,Romania,ROU,Europe,Rowing,3.0,20.0,6.667
+57.0,Borislav Abadzhiev,M,2006.0,Denmark,DEN,Europe,Shooting,2.0,13.0,6.5
+58.0,Georgi Abadzhiev,M,2008.0,Croatia,CRO,Europe,Athletics,2.0,10.0,5.0
+58.0,Georgi Abadzhiev,M,2010.0,Kazakhstan,KAZ,Europe/Asia,Swimming,8.0,11.0,1.375
+59.0,Ivan Nikolov Abadzhiev,M,2012.0,Belarus,BLR,Europe,Gymnastics,6.0,18.0,3.0
+59.0,Ivan Nikolov Abadzhiev,M,2014.0,Bulgaria,BUL,Europe,Cycling,2.0,5.0,2.5
+60.0,Mikhail Abadzhiev,M,2016.0,Slovakia,SVK,Europe,Wrestling,4.0,16.0,4.0
+61.0,Stefan Abadzhiev,M,2018.0,Georgia,GEO,Europe/Asia,Boxing,10.0,32.0,3.2
+62.0,Giovanni Abagnale,M,2020.0,Azerbaijan,AZE,Europe/Asia,Judo,7.0,26.0,3.714
+63.0,Jos Luis Abajo Gmez,M,2022.0,Colombia,COL,South America,Archery,10.0,26.0,2.6
+64.0,M'Bairo Abakar,M,2024.0,Mexico,MEX,North America,Alpine Skiing,4.0,12.0,3.0
+65.0,Patimat Abakarova,F,2026.0,India,IND,Asia,Figure Skating,3.0,6.0,2.0
+66.0,Mohamed Abakkar,M,1992.0,Belgium,BEL,Europe,Speed Skating,9.0,20.0,2.222
+67.0,Mariya Vasilyevna Abakumova (-Tarabina),F,1994.0,Greece,GRE,Europe,Biathlon,2.0,7.0,3.5
+67.0,Mariya Vasilyevna Abakumova (-Tarabina),F,1996.0,Turkey,TUR,Europe/Asia,Ice Hockey,2.0,4.0,2.0
+68.0,Pablo Martn Abal,M,1998.0,Iran,IRI,Asia,Snowboarding,3.0,14.0,4.667
+68.0,Pablo Martn Abal,M,2000.0,North Korea,PRK,Asia,Cross-Country Skiing,10.0,21.0,2.1
+69.0,Tamara Abalde Daz,F,2002.0,Thailand,THA,Asia,Weightlifting,5.0,21.0,4.2
+70.0,Jess Iory Aball Martnez,M,2004.0,Indonesia,INA,Asia,Fencing,9.0,42.0,4.667
+71.0,Juan Antonio Aball Delgado,M,2006.0,Nigeria,NGR,Africa,Taekwondo,8.0,40.0,5.0
+71.0,Juan Antonio Aball Delgado,M,2008.0,Egypt,EGY,Africa,Canoeing,10.0,47.0,4.7
+72.0,Aleksey Aleksandrovich Abalmasov,M,2010.0,Morocco,MAR,Africa,Sailing,11.0,55.0,5.0
+72.0,Aleksey Aleksandrovich Abalmasov,M,2012.0,Algeria,ALG,Africa,Equestrian,3.0,11.0,3.667
+73.0,Luc Abalo,M,2014.0,Tunisia,TUN,Africa,Triathlon,8.0,36.0,4.5
+73.0,Luc Abalo,M,2016.0,Chile,CHI,South America,Badminton,6.0,27.0,4.5
+73.0,Luc Abalo,M,2018.0,Venezuela,VEN,South America,Rowing,7.0,48.0,6.857
+74.0,Mara Laura Abalo,F,2020.0,Fiji,FIJ,Oceania,Shooting,11.0,74.0,6.727
+75.0,Giorgos Abalof,M,2022.0,Slovenia,SLO,Europe,Athletics,7.0,13.0,1.857
+76.0,Jouan Patrice Abanda Etong,M,2024.0,Serbia,SRB,Europe,Swimming,4.0,17.0,4.25
+77.0,Antoine Abang,M,2026.0,Ireland,IRL,Europe,Gymnastics,10.0,33.0,3.3
+78.0,Salim Abanoz,M,1992.0,United States,USA,North America,Cycling,9.0,18.0,2.0
+79.0,Carlos Abarca Gonzlez,M,1994.0,China,CHN,Asia,Wrestling,10.0,16.0,1.6
+80.0,Jos Mara Abarca Plotas,M,1996.0,Great Britain,GBR,Europe,Boxing,7.0,30.0,4.286
+81.0,Georgios Abaris,M,1998.0,Germany,GER,Europe,Judo,11.0,21.0,1.909
+82.0,Enrique Abaroa Martnez,M,2000.0,Russia,RUS,Europe/Asia,Archery,9.0,31.0,3.444
+83.0,Carlos Arturo Abarza Chavez,M,2002.0,Japan,JPN,Asia,Alpine Skiing,9.0,37.0,4.111
+84.0,Stephen Anthony Abas,M,2004.0,Australia,AUS,Oceania,Figure Skating,10.0,42.0,4.2
+85.0,Alejandro Abascal Garca,M,2006.0,France,FRA,Europe,Speed Skating,10.0,44.0,4.4
+85.0,Alejandro Abascal Garca,M,2008.0,Italy,ITA,Europe,Biathlon,8.0,25.0,3.125
+85.0,Alejandro Abascal Garca,M,2010.0,Canada,CAN,North America,Ice Hockey,6.0,18.0,3.0
+86.0,Jos Manuel Abascal Gmez,M,2012.0,South Korea,KOR,Asia,Snowboarding,2.0,4.0,2.0
+86.0,Jos Manuel Abascal Gmez,M,2014.0,Netherlands,NED,Europe,Cross-Country Skiing,7.0,19.0,2.714
+87.0,Rost'om Omeris dze Abashidze,M,2016.0,Brazil,BRA,South America,Weightlifting,11.0,30.0,2.727
+88.0,Nunu Dzhansuhivna Abashydze (-Myslaieva),F,2018.0,Norway,NOR,Europe,Fencing,9.0,40.0,4.444
+89.0,Rodrigo Abasolo,M,2020.0,Sweden,SWE,Europe,Taekwondo,2.0,7.0,3.5
+90.0,Tamila Rashidovna Abasova,F,2022.0,Spain,ESP,Europe,Canoeing,10.0,49.0,4.9
+90.0,Tamila Rashidovna Abasova,F,2024.0,Switzerland,SUI,Europe,Sailing,9.0,40.0,4.444
+91.0,Emanuele Abate,M,2026.0,Ukraine,UKR,Europe/Asia,Equestrian,10.0,39.0,3.9
+92.0,Ignazio Abate,M,1992.0,Kenya,KEN,Africa,Triathlon,2.0,3.0,1.5
+93.0,Jol Marc Abati,M,1994.0,Jamaica,JAM,North America,Badminton,9.0,21.0,2.333
+93.0,Jol Marc Abati,M,1996.0,New Zealand,NZL,Oceania,Rowing,5.0,34.0,6.8
+94.0,Ral Abatte,M,1998.0,Cuba,CUB,North America,Shooting,3.0,20.0,6.667
+95.0,Georgia Abatzidou,F,2000.0,Hungary,HUN,Europe,Athletics,10.0,47.0,4.7
+96.0,Carlos Rodolfo Abaunza Balladares,M,2002.0,Poland,POL,Europe,Swimming,9.0,24.0,2.667
+97.0,Carlos Alberto Abaunza,M,2004.0,South Africa,RSA,Africa,Gymnastics,3.0,15.0,5.0
+98.0,Hctor Abaunza,M,2006.0,Ethiopia,ETH,Africa,Cycling,2.0,3.0,1.5
+98.0,Hctor Abaunza,M,2008.0,Argentina,ARG,South America,Wrestling,3.0,12.0,4.0
+98.0,Hctor Abaunza,M,2010.0,Czech Republic,CZE,Europe,Boxing,4.0,21.0,5.25
+99.0,Pter Abay,M,2012.0,Austria,AUT,Europe,Judo,7.0,11.0,1.571
+100.0,Oszkr Abay-Nemes,M,2014.0,Finland,FIN,Europe,Archery,10.0,31.0,3.1
+100.0,Oszkr Abay-Nemes,M,2016.0,Romania,ROU,Europe,Alpine Skiing,3.0,6.0,2.0
+101.0,Adeyemi Abayomi,M,2018.0,Denmark,DEN,Europe,Figure Skating,5.0,17.0,3.4
+102.0,Sayed Fahmy Abaza,M,2020.0,Croatia,CRO,Europe,Speed Skating,8.0,27.0,3.375
+102.0,Sayed Fahmy Abaza,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Biathlon,7.0,17.0,2.429
+103.0,Silvano Abba,M,2024.0,Belarus,BLR,Europe,Ice Hockey,9.0,22.0,2.444
+104.0,Gana Abba Kimet,M,2026.0,Bulgaria,BUL,Europe,Snowboarding,5.0,22.0,4.4
+105.0,Ilyas Abbadi,M,1992.0,Slovakia,SVK,Europe,Cross-Country Skiing,4.0,11.0,2.75
+105.0,Ilyas Abbadi,M,1994.0,Georgia,GEO,Europe/Asia,Weightlifting,10.0,39.0,3.9
+106.0,Agostino Abbagnale,M,1996.0,Azerbaijan,AZE,Europe/Asia,Fencing,3.0,6.0,2.0
+106.0,Agostino Abbagnale,M,1998.0,Colombia,COL,South America,Taekwondo,11.0,36.0,3.273
+106.0,Agostino Abbagnale,M,2000.0,Mexico,MEX,North America,Canoeing,2.0,3.0,1.5
+107.0,Carmine Abbagnale,M,2002.0,India,IND,Asia,Sailing,2.0,6.0,3.0
+107.0,Carmine Abbagnale,M,2004.0,Belgium,BEL,Europe,Equestrian,2.0,10.0,5.0
+107.0,Carmine Abbagnale,M,2006.0,Greece,GRE,Europe,Triathlon,8.0,37.0,4.625
+107.0,Carmine Abbagnale,M,2008.0,Turkey,TUR,Europe/Asia,Badminton,6.0,15.0,2.5
+108.0,Giuseppe Abbagnale,M,2010.0,Iran,IRI,Asia,Rowing,3.0,20.0,6.667
+108.0,Giuseppe Abbagnale,M,2012.0,North Korea,PRK,Asia,Shooting,6.0,40.0,6.667
+108.0,Giuseppe Abbagnale,M,2014.0,Thailand,THA,Asia,Athletics,8.0,16.0,2.0
+108.0,Giuseppe Abbagnale,M,2016.0,Indonesia,INA,Asia,Swimming,7.0,26.0,3.714
+109.0,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,2018.0,Nigeria,NGR,Africa,Gymnastics,11.0,37.0,3.364
+109.0,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,2020.0,Egypt,EGY,Africa,Cycling,10.0,53.0,5.3
+109.0,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,2022.0,Morocco,MAR,Africa,Wrestling,7.0,34.0,4.857
+110.0,Abubakar Abbas Abbas,M,2024.0,Algeria,ALG,Africa,Boxing,9.0,44.0,4.889
+111.0,Aqarab Abbas,M,2026.0,Tunisia,TUN,Africa,Judo,4.0,16.0,4.0
+112.0,Aziz Abbas,M,1992.0,Chile,CHI,South America,Archery,9.0,33.0,3.667
+113.0,Bassim Abbas Kati Al-Ogaili,M,1994.0,Venezuela,VEN,South America,Alpine Skiing,9.0,29.0,3.222
+114.0,Essa Abbas Faleh Hashem,M,1996.0,Fiji,FIJ,Oceania,Figure Skating,3.0,15.0,5.0
+115.0,Ghulam Abbas,M,1998.0,Slovenia,SLO,Europe,Speed Skating,7.0,20.0,2.857
+116.0,Hosni Mohamed Abbas,M,2000.0,Serbia,SRB,Europe,Biathlon,11.0,39.0,3.545
+116.0,Hosni Mohamed Abbas,M,2002.0,Ireland,IRL,Europe,Ice Hockey,7.0,38.0,5.429
+117.0,Maher Abbas,M,2004.0,United States,USA,North America,Snowboarding,2.0,4.0,2.0
+117.0,Maher Abbas,M,2006.0,China,CHN,Asia,Cross-Country Skiing,9.0,13.0,1.444
+118.0,Mahmoud Abbas,M,2008.0,Great Britain,GBR,Europe,Weightlifting,11.0,14.0,1.273
+119.0,Mohamed Fakhry Rifaat Abbas,M,2010.0,Germany,GER,Europe,Fencing,3.0,11.0,3.667
+120.0,Mohammed Abbas Sabih,M,2012.0,Russia,RUS,Europe/Asia,Taekwondo,10.0,12.0,1.2
+121.0,Muhammad Abbas,M,2014.0,Japan,JPN,Asia,Canoeing,10.0,16.0,1.6
+122.0,Nader Sufyan Abbas,M,2016.0,Australia,AUS,Oceania,Sailing,10.0,48.0,4.8
+123.0,Sohail Abbas,M,2018.0,France,FRA,Europe,Equestrian,3.0,9.0,3.0
+123.0,Sohail Abbas,M,2020.0,Italy,ITA,Europe,Triathlon,4.0,21.0,5.25
+123.0,Sohail Abbas,M,2022.0,Canada,CAN,North America,Badminton,11.0,17.0,1.545
+124.0,Youssef Mohamed Abbas,M,2024.0,South Korea,KOR,Asia,Rowing,3.0,20.0,6.667
+125.0,Zulkifli Abbas,M,2026.0,Netherlands,NED,Europe,Shooting,9.0,60.0,6.667
+126.0,Forough Abbasi,F,1992.0,Brazil,BRA,South America,Athletics,9.0,41.0,4.556
+127.0,Shakeel Abbasi,M,1994.0,Norway,NOR,Europe,Swimming,10.0,32.0,3.2
+127.0,Shakeel Abbasi,M,1996.0,Sweden,SWE,Europe,Gymnastics,6.0,25.0,4.167
+127.0,Shakeel Abbasi,M,1998.0,Spain,ESP,Europe,Cycling,10.0,23.0,2.3
+128.0,Soulmaz Abbasi Azad,F,2000.0,Switzerland,SUI,Europe,Wrestling,10.0,54.0,5.4
+129.0,Ruslan Abbasov,M,2002.0,Ukraine,UKR,Europe/Asia,Boxing,3.0,7.0,2.333
+130.0,Tural Abbasov,M,2004.0,Kenya,KEN,Africa,Judo,4.0,12.0,3.0
+131.0,Tran Abbasova,F,2006.0,Jamaica,JAM,North America,Archery,8.0,43.0,5.375
+132.0,Simona Abbate,F,2008.0,New Zealand,NZL,Oceania,Alpine Skiing,4.0,13.0,3.25
+133.0,Franz Abb,M,2010.0,Cuba,CUB,North America,Figure Skating,5.0,25.0,5.0
+134.0,Christian Abbiati,M,2012.0,Hungary,HUN,Europe,Speed Skating,4.0,17.0,4.25
+135.0,Lois Abbingh,F,2014.0,Poland,POL,Europe,Biathlon,6.0,19.0,3.167
+136.0,Alessandro Abbio,M,2016.0,South Africa,RSA,Africa,Ice Hockey,11.0,54.0,4.909
+137.0,Giordano Giulio Abbondati,M,2018.0,Ethiopia,ETH,Africa,Snowboarding,7.0,11.0,1.571
+137.0,Giordano Giulio Abbondati,M,2020.0,Argentina,ARG,South America,Cross-Country Skiing,5.0,15.0,3.0
+138.0,Salwan Jasim Abbood Abbood,M,2022.0,Czech Republic,CZE,Europe,Weightlifting,6.0,19.0,3.167
+139.0,"George ""Ioannis"" Abbot",M,2024.0,Austria,AUT,Europe,Fencing,6.0,17.0,2.833
+140.0,"William ""Bill"" Abbott Jr.",M,2026.0,Finland,FIN,Europe,Taekwondo,5.0,19.0,3.8
+140.0,"William ""Bill"" Abbott Jr.",M,1992.0,Romania,ROU,Europe,Canoeing,4.0,19.0,4.75
+141.0,Clare Abbott,F,1994.0,Denmark,DEN,Europe,Sailing,8.0,40.0,5.0
+141.0,Clare Abbott,F,1996.0,Croatia,CRO,Europe,Equestrian,5.0,25.0,5.0
+142.0,"David ""Dave"" Abbott",M,1998.0,Kazakhstan,KAZ,Europe/Asia,Triathlon,3.0,8.0,2.667
+143.0,"Desmond ""Des"" Abbott",M,2000.0,Belarus,BLR,Europe,Badminton,2.0,10.0,5.0
+144.0,Geoffrey Grant Abbott,M,2002.0,Bulgaria,BUL,Europe,Rowing,8.0,55.0,6.875
+145.0,Jeremy Abbott,M,2004.0,Slovakia,SVK,Europe,Shooting,10.0,67.0,6.7
+145.0,Jeremy Abbott,M,2006.0,Georgia,GEO,Europe/Asia,Athletics,3.0,11.0,3.667
+145.0,Jeremy Abbott,M,2008.0,Azerbaijan,AZE,Europe/Asia,Swimming,6.0,10.0,1.667
+146.0,Jeremy Abbott,M,2010.0,Colombia,COL,South America,Gymnastics,4.0,5.0,1.25
+147.0,Joanne Abbott,F,2012.0,Mexico,MEX,North America,Cycling,2.0,9.0,4.5
+148.0,"Kathryn ""Katie"" Abbott",F,2014.0,India,IND,Asia,Wrestling,3.0,6.0,2.0
+149.0,Mara Katherine Abbott,F,2016.0,Belgium,BEL,Europe,Boxing,10.0,28.0,2.8
+150.0,Margaret Ives Abbott (-Dunne),F,2018.0,Greece,GRE,Europe,Judo,5.0,23.0,4.6
+151.0,Mary Perkins Ives Abbott (Perkins-),F,2020.0,Turkey,TUR,Europe/Asia,Archery,2.0,5.0,2.5
+152.0,Matt Abbott,M,2022.0,Iran,IRI,Asia,Alpine Skiing,2.0,3.0,1.5
+153.0,Monica Cecilia Abbott,F,2024.0,North Korea,PRK,Asia,Figure Skating,9.0,38.0,4.222
+154.0,Khadija Abbouda,F,2026.0,Thailand,THA,Asia,Speed Skating,10.0,41.0,4.1
+155.0,Mohamed Ibrahim Abd El-Fatah Mohamed,M,1992.0,Indonesia,INA,Asia,Biathlon,5.0,17.0,3.4
+155.0,Mohamed Ibrahim Abd El-Fatah Mohamed,M,1994.0,Nigeria,NGR,Africa,Ice Hockey,3.0,11.0,3.667
+155.0,Mohamed Ibrahim Abd El-Fatah Mohamed,M,1996.0,Egypt,EGY,Africa,Snowboarding,8.0,11.0,1.375
+156.0,Mahmoud Abd El-Kader,M,1998.0,Morocco,MAR,Africa,Cross-Country Skiing,4.0,11.0,2.75
+157.0,Mohamed Ibrahim Abd El-Salam,M,2000.0,Algeria,ALG,Africa,Weightlifting,10.0,20.0,2.0
+157.0,Mohamed Ibrahim Abd El-Salam,M,2002.0,Tunisia,TUN,Africa,Fencing,2.0,6.0,3.0
+158.0,Noha Abd Rabo,F,2004.0,Chile,CHI,South America,Taekwondo,6.0,28.0,4.667
+159.0,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,2006.0,Venezuela,VEN,South America,Canoeing,9.0,33.0,3.667
+159.0,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,2008.0,Fiji,FIJ,Oceania,Sailing,3.0,14.0,4.667
+159.0,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,2010.0,Slovenia,SLO,Europe,Equestrian,9.0,42.0,4.667
+160.0,Ali Abdalla Afringi,M,2012.0,Serbia,SRB,Europe,Triathlon,4.0,14.0,3.5
+161.0,Hossam Abdalla,M,2014.0,Ireland,IRL,Europe,Badminton,7.0,38.0,5.429
+162.0,Hosam Abdallah,M,2016.0,United States,USA,North America,Rowing,8.0,55.0,6.875
+162.0,Hosam Abdallah,M,2018.0,China,CHN,Asia,Shooting,4.0,26.0,6.5
+163.0,Ismail Abdallah,M,2020.0,Great Britain,GBR,Europe,Athletics,9.0,21.0,2.333
+163.0,Ismail Abdallah,M,2022.0,Germany,GER,Europe,Swimming,9.0,45.0,5.0
+163.0,Ismail Abdallah,M,2024.0,Russia,RUS,Europe/Asia,Gymnastics,10.0,45.0,4.5
+163.0,Ismail Abdallah,M,2026.0,Japan,JPN,Asia,Cycling,3.0,10.0,3.333
+163.0,Ismail Abdallah,M,1992.0,Australia,AUS,Oceania,Wrestling,7.0,17.0,2.429
+163.0,Ismail Abdallah,M,1994.0,France,FRA,Europe,Boxing,9.0,15.0,1.667
+163.0,Ismail Abdallah,M,1996.0,Italy,ITA,Europe,Judo,7.0,27.0,3.857
+163.0,Ismail Abdallah,M,1998.0,Canada,CAN,North America,Archery,10.0,33.0,3.3
+164.0,Maged Abdallah,M,2000.0,South Korea,KOR,Asia,Alpine Skiing,4.0,6.0,1.5
+165.0,Nia Nicole Abdallah,F,2002.0,Netherlands,NED,Europe,Figure Skating,2.0,10.0,5.0
+166.0,Omari Abdallah,M,2004.0,Brazil,BRA,South America,Speed Skating,7.0,36.0,5.143
+166.0,Omari Abdallah,M,2006.0,Norway,NOR,Europe,Biathlon,9.0,27.0,3.0
+167.0,Ould Lamine Abdallah,M,2008.0,Sweden,SWE,Europe,Ice Hockey,4.0,6.0,1.5
+168.0,Younis Abdallah Rabee,M,2010.0,Spain,ESP,Europe,Snowboarding,9.0,13.0,1.444
+169.0,Raida Abdallah Bader,F,2012.0,Switzerland,SUI,Europe,Cross-Country Skiing,10.0,13.0,1.3
+170.0,Maha Abdalsalam Gouda,F,2014.0,Ukraine,UKR,Europe/Asia,Weightlifting,5.0,6.0,1.2
+171.0,Mahmoud Abdel Aziz,M,2016.0,Kenya,KEN,Africa,Fencing,9.0,12.0,1.333
+172.0,Mohamed Abdel Ellah,M,2018.0,Jamaica,JAM,North America,Taekwondo,2.0,8.0,4.0
+173.0,Mohamed Abdel Fatah,M,2020.0,New Zealand,NZL,Oceania,Canoeing,11.0,48.0,4.364
+174.0,Ali Mohamed Badawi Abdel Fattah Badawi,M,2022.0,Cuba,CUB,North America,Sailing,11.0,46.0,4.182
+175.0,Abdelgani Hassan Abdel Fattah,M,2024.0,Hungary,HUN,Europe,Equestrian,4.0,18.0,4.5
+176.0,Mahmoud Atter Abdel Fattah,M,2026.0,Poland,POL,Europe,Triathlon,10.0,35.0,3.5
+177.0,Mohamed Abdel Fattah,M,1992.0,South Africa,RSA,Africa,Badminton,10.0,23.0,2.3
+178.0,Sayed Abdel Gadir,M,1994.0,Ethiopia,ETH,Africa,Rowing,5.0,34.0,6.8
+178.0,Sayed Abdel Gadir,M,1996.0,Argentina,ARG,South America,Shooting,2.0,13.0,6.5
+179.0,Ibrahim Saad Abdel Galil,M,1998.0,Czech Republic,CZE,Europe,Athletics,4.0,11.0,2.75
+179.0,Ibrahim Saad Abdel Galil,M,2000.0,Austria,AUT,Europe,Swimming,9.0,26.0,2.889
+180.0,Heba Abdel Gawad,F,2002.0,Finland,FIN,Europe,Gymnastics,11.0,50.0,4.545
+180.0,Heba Abdel Gawad,F,2004.0,Romania,ROU,Europe,Cycling,9.0,25.0,2.778
+181.0,Sara Abdel Gawad,F,2006.0,Denmark,DEN,Europe,Wrestling,11.0,37.0,3.364
+182.0,Gamal Amin Abdel Ghani,M,2008.0,Croatia,CRO,Europe,Boxing,6.0,13.0,2.167
+183.0,Abdel Sattar Abdel Hadj,M,2010.0,Kazakhstan,KAZ,Europe/Asia,Judo,3.0,13.0,4.333
+184.0,Ragy Abdel Hady,M,2012.0,Belarus,BLR,Europe,Archery,3.0,9.0,3.0
+185.0,Osman Abdel Hafeez,M,2014.0,Bulgaria,BUL,Europe,Alpine Skiing,11.0,38.0,3.455
+185.0,Osman Abdel Hafeez,M,2016.0,Slovakia,SVK,Europe,Figure Skating,9.0,37.0,4.111
+185.0,Osman Abdel Hafeez,M,2018.0,Georgia,GEO,Europe/Asia,Speed Skating,6.0,28.0,4.667
+185.0,Osman Abdel Hafeez,M,2020.0,Azerbaijan,AZE,Europe/Asia,Biathlon,4.0,6.0,1.5
+185.0,Osman Abdel Hafeez,M,2022.0,Colombia,COL,South America,Ice Hockey,9.0,14.0,1.556
+186.0,Mohamed Abdel Hafiz,M,2024.0,Mexico,MEX,North America,Snowboarding,5.0,19.0,3.8
+187.0,Moustafa Ali Abdel Halim,M,2026.0,India,IND,Asia,Cross-Country Skiing,9.0,25.0,2.778
+188.0,Mohamed Abdel Hamed,M,1992.0,Belgium,BEL,Europe,Weightlifting,10.0,47.0,4.7
+189.0,Hwad Ibrahim Abdel Hamid Lumomba,M,1994.0,Greece,GRE,Europe,Fencing,10.0,40.0,4.0
+190.0,Ibrahim Abdel Hamid,M,1996.0,Turkey,TUR,Europe/Asia,Taekwondo,4.0,20.0,5.0
+191.0,Tamer Mohamed Abdel Hamid,M,1998.0,Iran,IRI,Asia,Canoeing,8.0,13.0,1.625
+192.0,Ahmed El-Sayed Abdel Hamid Mobarak,M,2000.0,North Korea,PRK,Asia,Sailing,11.0,39.0,3.545
+193.0,Dorri Abdel Kader Said,M,2002.0,Thailand,THA,Asia,Equestrian,5.0,8.0,1.6
+193.0,Dorri Abdel Kader Said,M,2004.0,Indonesia,INA,Asia,Triathlon,8.0,25.0,3.125
+193.0,Dorri Abdel Kader Said,M,2006.0,Nigeria,NGR,Africa,Badminton,6.0,21.0,3.5
+193.0,Dorri Abdel Kader Said,M,2008.0,Egypt,EGY,Africa,Rowing,5.0,34.0,6.8
+193.0,Dorri Abdel Kader Said,M,2010.0,Morocco,MAR,Africa,Shooting,7.0,47.0,6.714
+193.0,Dorri Abdel Kader Said,M,2012.0,Algeria,ALG,Africa,Athletics,8.0,36.0,4.5
+194.0,Moustafa Mounib Abdel Kader,M,2014.0,Tunisia,TUN,Africa,Swimming,11.0,23.0,2.091
+195.0,Mohamed Ali Abdel Kerim,M,2016.0,Chile,CHI,South America,Gymnastics,9.0,24.0,2.667
+195.0,Mohamed Ali Abdel Kerim,M,2018.0,Venezuela,VEN,South America,Cycling,4.0,20.0,5.0
+196.0,Mohamed Abdel Khaled,M,2020.0,Fiji,FIJ,Oceania,Wrestling,8.0,10.0,1.25
+197.0,Abdel Latif Abdel Latif,M,2022.0,Slovenia,SLO,Europe,Boxing,3.0,5.0,1.667
+198.0,Walid Abdel Maksoud,M,2024.0,Serbia,SRB,Europe,Judo,3.0,6.0,2.0
+199.0,Amir Abdel Meguid,M,2026.0,Ireland,IRL,Europe,Archery,10.0,28.0,2.8
+199.0,Amir Abdel Meguid,M,1992.0,United States,USA,North America,Alpine Skiing,10.0,22.0,2.2
+200.0,Mohamed Abdel Mohamed,M,1994.0,China,CHN,Asia,Figure Skating,9.0,23.0,2.556
+201.0,Karim Abdel Mohsen,M,1996.0,Great Britain,GBR,Europe,Speed Skating,4.0,21.0,5.25
+202.0,Awad Abdel Nabi Awad,M,1998.0,Germany,GER,Europe,Biathlon,9.0,32.0,3.556
+202.0,Awad Abdel Nabi Awad,M,2000.0,Russia,RUS,Europe/Asia,Ice Hockey,10.0,20.0,2.0
+203.0,Ahmed Abdel Naeim,M,2002.0,Japan,JPN,Asia,Snowboarding,10.0,18.0,1.8
+203.0,Ahmed Abdel Naeim,M,2004.0,Australia,AUS,Oceania,Cross-Country Skiing,4.0,15.0,3.75
+204.0,Moustafa Abdel Naser,M,2006.0,France,FRA,Europe,Weightlifting,3.0,14.0,4.667
+205.0,Ali Abdel Radi,M,2008.0,Italy,ITA,Europe,Fencing,4.0,9.0,2.25
+206.0,Amin Abdel Rahman,M,2010.0,Canada,CAN,North America,Taekwondo,5.0,16.0,3.2
+206.0,Amin Abdel Rahman,M,2012.0,South Korea,KOR,Asia,Canoeing,11.0,52.0,4.727
+207.0,Mohamed Fathallah Abdel Rahman,M,2014.0,Netherlands,NED,Europe,Sailing,7.0,21.0,3.0
+207.0,Mohamed Fathallah Abdel Rahman,M,2016.0,Brazil,BRA,South America,Equestrian,3.0,3.0,1.0
+207.0,Mohamed Fathallah Abdel Rahman,M,2018.0,Norway,NOR,Europe,Triathlon,8.0,14.0,1.75
+207.0,Mohamed Fathallah Abdel Rahman,M,2020.0,Sweden,SWE,Europe,Badminton,10.0,25.0,2.5
+207.0,Mohamed Fathallah Abdel Rahman,M,2022.0,Spain,ESP,Europe,Rowing,9.0,62.0,6.889
+207.0,Mohamed Fathallah Abdel Rahman,M,2024.0,Switzerland,SUI,Europe,Shooting,6.0,40.0,6.667
+207.0,Mohamed Fathallah Abdel Rahman,M,2026.0,Ukraine,UKR,Europe/Asia,Athletics,3.0,8.0,2.667
+208.0,Fathi Ali Abdel Rahman,M,1992.0,Kenya,KEN,Africa,Swimming,5.0,25.0,5.0
+209.0,Ibrahim Abdel Rahman,M,1994.0,Jamaica,JAM,North America,Gymnastics,2.0,8.0,4.0
+210.0,Khaled Abdel Rahman,M,1996.0,New Zealand,NZL,Oceania,Cycling,3.0,8.0,2.667
+211.0,Sameh Abdel Rahman,M,1998.0,Cuba,CUB,North America,Wrestling,2.0,2.0,1.0
+211.0,Sameh Abdel Rahman,M,2000.0,Hungary,HUN,Europe,Boxing,4.0,8.0,2.0
+211.0,Sameh Abdel Rahman,M,2002.0,Poland,POL,Europe,Judo,10.0,49.0,4.9
+212.0,Yasser Abdel Rahman Sakr,M,2004.0,South Africa,RSA,Africa,Archery,7.0,34.0,4.857
+213.0,Samy Abdel Razek,M,2006.0,Ethiopia,ETH,Africa,Alpine Skiing,8.0,12.0,1.5
+213.0,Samy Abdel Razek,M,2008.0,Argentina,ARG,South America,Figure Skating,5.0,12.0,2.4
+213.0,Samy Abdel Razek,M,2010.0,Czech Republic,CZE,Europe,Speed Skating,5.0,22.0,4.4
+214.0,Mohamed Youssef Abdel Razik,M,2012.0,Austria,AUT,Europe,Biathlon,7.0,10.0,1.429
+215.0,Ibrahim Ahmed Abdel Rehim,M,2014.0,Finland,FIN,Europe,Ice Hockey,5.0,12.0,2.4
+216.0,Kamal Abdel Rehim,M,2016.0,Romania,ROU,Europe,Snowboarding,2.0,4.0,2.0
+217.0,Reskalla Mohamed Abdel Rehim,M,2018.0,Denmark,DEN,Europe,Cross-Country Skiing,8.0,37.0,4.625
+218.0,Ahmed Ali Abdel Samad,M,2020.0,Croatia,CRO,Europe,Weightlifting,2.0,6.0,3.0
+219.0,Ali Abdel Sami,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Fencing,4.0,14.0,3.5
+220.0,Mohamed Abdel Sami,M,2024.0,Belarus,BLR,Europe,Taekwondo,6.0,19.0,3.167
+221.0,Sameh Abdel Waress Muhammad,M,2026.0,Bulgaria,BUL,Europe,Canoeing,9.0,23.0,2.556
+222.0,Mohamed Said Abdel Wehab,M,1992.0,Slovakia,SVK,Europe,Sailing,10.0,37.0,3.7
+223.0,Mahmoud Abdel-Aal,M,1994.0,Georgia,GEO,Europe/Asia,Equestrian,11.0,26.0,2.364
+223.0,Mahmoud Abdel-Aal,M,1996.0,Azerbaijan,AZE,Europe/Asia,Triathlon,11.0,39.0,3.545
+223.0,Mahmoud Abdel-Aal,M,1998.0,Colombia,COL,South America,Badminton,2.0,8.0,4.0
+223.0,Mahmoud Abdel-Aal,M,2000.0,Mexico,MEX,North America,Rowing,8.0,55.0,6.875
+223.0,Mahmoud Abdel-Aal,M,2002.0,India,IND,Asia,Shooting,10.0,67.0,6.7
+223.0,Mahmoud Abdel-Aal,M,2004.0,Belgium,BEL,Europe,Athletics,9.0,26.0,2.889
+223.0,Mahmoud Abdel-Aal,M,2006.0,Greece,GRE,Europe,Swimming,3.0,7.0,2.333
+223.0,Mahmoud Abdel-Aal,M,2008.0,Turkey,TUR,Europe/Asia,Gymnastics,6.0,14.0,2.333
+224.0,Mohamed Abdel-El,M,2010.0,Iran,IRI,Asia,Cycling,4.0,20.0,5.0
+225.0,Shaimaa Abdel-Latif-Hashad,F,2012.0,North Korea,PRK,Asia,Wrestling,4.0,21.0,5.25
+225.0,Shaimaa Abdel-Latif-Hashad,F,2014.0,Thailand,THA,Asia,Boxing,9.0,20.0,2.222
+225.0,Shaimaa Abdel-Latif-Hashad,F,2016.0,Indonesia,INA,Asia,Judo,5.0,9.0,1.8
+226.0,Sanad Bushara Abdel-Nadif,M,2018.0,Nigeria,NGR,Africa,Archery,3.0,15.0,5.0
+227.0,Ahmed Abdelaal,M,2020.0,Egypt,EGY,Africa,Alpine Skiing,11.0,15.0,1.364
+228.0,Mahmoud Abdelaal,M,2022.0,Morocco,MAR,Africa,Figure Skating,7.0,9.0,1.286
+229.0,Mohamed Ali Abdelaal,M,2024.0,Algeria,ALG,Africa,Speed Skating,7.0,22.0,3.143
+230.0,Moustafa Abdelal,M,2026.0,Tunisia,TUN,Africa,Biathlon,9.0,27.0,3.0
+230.0,Moustafa Abdelal,M,1992.0,Chile,CHI,South America,Ice Hockey,5.0,6.0,1.2
+230.0,Moustafa Abdelal,M,1994.0,Venezuela,VEN,South America,Snowboarding,10.0,39.0,3.9
+230.0,Moustafa Abdelal,M,1996.0,Fiji,FIJ,Oceania,Cross-Country Skiing,5.0,6.0,1.2
+230.0,Moustafa Abdelal,M,1998.0,Slovenia,SLO,Europe,Weightlifting,2.0,5.0,2.5
+230.0,Moustafa Abdelal,M,2000.0,Serbia,SRB,Europe,Fencing,2.0,3.0,1.5
+230.0,Moustafa Abdelal,M,2002.0,Ireland,IRL,Europe,Taekwondo,2.0,6.0,3.0
+230.0,Moustafa Abdelal,M,2004.0,United States,USA,North America,Canoeing,3.0,8.0,2.667
+231.0,Mahmod Abdelaly,M,2006.0,China,CHN,Asia,Sailing,2.0,10.0,5.0
+232.0,Ibrahim Ramadan Ibrahim Abdelbaki,M,2008.0,Great Britain,GBR,Europe,Equestrian,8.0,28.0,3.5
+232.0,Ibrahim Ramadan Ibrahim Abdelbaki,M,2010.0,Germany,GER,Europe,Triathlon,9.0,43.0,4.778
+233.0,Aziza Abdelfattah,F,2012.0,Russia,RUS,Europe/Asia,Badminton,6.0,26.0,4.333
+234.0,Abdalla Abdelgadir El-Sheikh,M,2014.0,Japan,JPN,Asia,Rowing,6.0,41.0,6.833
+235.0,Magdi Abdelghani Sayed Ahmed,M,2016.0,Australia,AUS,Oceania,Shooting,9.0,60.0,6.667
+236.0,Ragab Abdelhay Saad Abdelrazek Abdallah,M,2018.0,France,FRA,Europe,Athletics,3.0,12.0,4.0
+236.0,Ragab Abdelhay Saad Abdelrazek Abdallah,M,2020.0,Italy,ITA,Europe,Swimming,9.0,25.0,2.778
+237.0,Ben Ahmed Abdelkrim,M,2022.0,Canada,CAN,North America,Gymnastics,11.0,24.0,2.182
+238.0,Mohamed Abdellah,M,2024.0,South Korea,KOR,Asia,Cycling,5.0,19.0,3.8
+238.0,Mohamed Abdellah,M,2026.0,Netherlands,NED,Europe,Wrestling,5.0,10.0,2.0
+239.0,Ayoub Abdellaoui,M,1992.0,Brazil,BRA,South America,Boxing,2.0,7.0,3.5
+240.0,Leila Abdelmoez,F,1994.0,Norway,NOR,Europe,Judo,8.0,16.0,2.0
+241.0,Sayed Abdelmonem Sayed Hamed,M,1996.0,Sweden,SWE,Europe,Archery,2.0,10.0,5.0
+242.0,Ahmed Abdelrahman,M,1998.0,Spain,ESP,Europe,Alpine Skiing,8.0,35.0,4.375
+243.0,Ihab Abdelrahman El-Sayed Abdelrahman,M,2000.0,Switzerland,SUI,Europe,Figure Skating,5.0,13.0,2.6
+244.0,Raouf Abdelraouf,M,2002.0,Ukraine,UKR,Europe/Asia,Speed Skating,7.0,18.0,2.571
+244.0,Raouf Abdelraouf,M,2004.0,Kenya,KEN,Africa,Biathlon,7.0,16.0,2.286
+244.0,Raouf Abdelraouf,M,2006.0,Jamaica,JAM,North America,Ice Hockey,8.0,13.0,1.625
+244.0,Raouf Abdelraouf,M,2008.0,New Zealand,NZL,Oceania,Snowboarding,5.0,22.0,4.4
+244.0,Raouf Abdelraouf,M,2010.0,Cuba,CUB,North America,Cross-Country Skiing,9.0,12.0,1.333
+245.0,Abouelfetoh Abdelrazek,M,2012.0,Hungary,HUN,Europe,Weightlifting,4.0,8.0,2.0
+246.0,Mamdouh Abdelrehim,M,2014.0,Poland,POL,Europe,Fencing,7.0,24.0,3.429
+247.0,El-Hachemi Abdenouz,M,2016.0,South Africa,RSA,Africa,Taekwondo,6.0,14.0,2.333
+248.0,Rda Abdenouz,M,2018.0,Ethiopia,ETH,Africa,Canoeing,10.0,49.0,4.9
+248.0,Rda Abdenouz,M,2020.0,Argentina,ARG,South America,Sailing,8.0,43.0,5.375
+249.0,Mouni Abderrahim,F,2022.0,Czech Republic,CZE,Europe,Equestrian,5.0,25.0,5.0
+249.0,Mouni Abderrahim,F,2024.0,Austria,AUT,Europe,Triathlon,4.0,7.0,1.75
+250.0,Saeid Morad Abdevali,M,2026.0,Finland,FIN,Europe,Badminton,2.0,10.0,5.0
+250.0,Saeid Morad Abdevali,M,1992.0,Romania,ROU,Europe,Rowing,6.0,41.0,6.833
+251.0,Bashir Abdi,M,1994.0,Denmark,DEN,Europe,Shooting,5.0,33.0,6.6
+251.0,Bashir Abdi,M,1996.0,Croatia,CRO,Europe,Athletics,10.0,22.0,2.2
+252.0,Youcef Abdi,M,1998.0,Kazakhstan,KAZ,Europe/Asia,Swimming,4.0,17.0,4.25
+252.0,Youcef Abdi,M,2000.0,Belarus,BLR,Europe,Gymnastics,4.0,9.0,2.25
+253.0,Jamal Abdi Hassan Abdullah,M,2002.0,Bulgaria,BUL,Europe,Cycling,4.0,7.0,1.75
+253.0,Jamal Abdi Hassan Abdullah,M,2004.0,Slovakia,SVK,Europe,Wrestling,3.0,10.0,3.333
+254.0,Talal Omar Abdillahi,M,2006.0,Georgia,GEO,Europe/Asia,Boxing,3.0,3.0,1.0
+254.0,Talal Omar Abdillahi,M,2008.0,Azerbaijan,AZE,Europe/Asia,Judo,7.0,23.0,3.286
+255.0,Mahmoud Ahmed Abdin,M,2010.0,Colombia,COL,South America,Archery,6.0,31.0,5.167
+255.0,Mahmoud Ahmed Abdin,M,2012.0,Mexico,MEX,North America,Alpine Skiing,6.0,14.0,2.333
+255.0,Mahmoud Ahmed Abdin,M,2014.0,India,IND,Asia,Figure Skating,10.0,52.0,5.2
+255.0,Mahmoud Ahmed Abdin,M,2016.0,Belgium,BEL,Europe,Speed Skating,11.0,49.0,4.455
+255.0,Mahmoud Ahmed Abdin,M,2018.0,Greece,GRE,Europe,Biathlon,3.0,4.0,1.333
+255.0,Mahmoud Ahmed Abdin,M,2020.0,Turkey,TUR,Europe/Asia,Ice Hockey,10.0,35.0,3.5
+255.0,Mahmoud Ahmed Abdin,M,2022.0,Iran,IRI,Asia,Snowboarding,3.0,11.0,3.667
+256.0,"Abdihakim ""Abdi"" Abdirahman",M,2024.0,North Korea,PRK,Asia,Cross-Country Skiing,6.0,18.0,3.0
+256.0,"Abdihakim ""Abdi"" Abdirahman",M,2026.0,Thailand,THA,Asia,Weightlifting,8.0,18.0,2.25
+256.0,"Abdihakim ""Abdi"" Abdirahman",M,1992.0,Indonesia,INA,Asia,Fencing,3.0,8.0,2.667
+256.0,"Abdihakim ""Abdi"" Abdirahman",M,1994.0,Nigeria,NGR,Africa,Taekwondo,7.0,35.0,5.0
+257.0,Ali Abdo,M,1996.0,Egypt,EGY,Africa,Canoeing,5.0,14.0,2.8
+257.0,Ali Abdo,M,1998.0,Morocco,MAR,Africa,Sailing,7.0,23.0,3.286
+257.0,Ali Abdo,M,2000.0,Algeria,ALG,Africa,Equestrian,8.0,41.0,5.125
+258.0,Hamza Abdo,M,2002.0,Tunisia,TUN,Africa,Triathlon,9.0,28.0,3.111
+259.0,Reema Abdo,F,2004.0,Chile,CHI,South America,Badminton,5.0,7.0,1.4
+259.0,Reema Abdo,F,2006.0,Venezuela,VEN,South America,Rowing,7.0,48.0,6.857
+259.0,Reema Abdo,F,2008.0,Fiji,FIJ,Oceania,Shooting,2.0,13.0,6.5
+260.0,Ahmed Abdo Mustafa,M,2010.0,Slovenia,SLO,Europe,Athletics,7.0,19.0,2.714
+261.0,Nasrollah Abdollahi,M,2012.0,Serbia,SRB,Europe,Swimming,8.0,40.0,5.0
+262.0,Yhyacinthe Mewoli Abdon,M,2014.0,Ireland,IRL,Europe,Gymnastics,2.0,8.0,4.0
+263.0,Hassane Abdou,M,2016.0,United States,USA,North America,Cycling,7.0,37.0,5.286
+264.0,Justin Abdou,M,2018.0,China,CHN,Asia,Wrestling,7.0,29.0,4.143
+265.0,Moustafa Ahmed Ismail Abdou Ali Arfah,M,2020.0,Great Britain,GBR,Europe,Boxing,4.0,6.0,1.5
+266.0,Raouf Abdou,M,2022.0,Germany,GER,Europe,Judo,6.0,32.0,5.333
+267.0,Mohamed Abdou El-Souad,M,2024.0,Russia,RUS,Europe/Asia,Archery,11.0,18.0,1.636
+267.0,Mohamed Abdou El-Souad,M,2026.0,Japan,JPN,Asia,Alpine Skiing,8.0,29.0,3.625
+267.0,Mohamed Abdou El-Souad,M,1992.0,Australia,AUS,Oceania,Figure Skating,4.0,20.0,5.0
+267.0,Mohamed Abdou El-Souad,M,1994.0,France,FRA,Europe,Speed Skating,8.0,40.0,5.0
+268.0,Brahim Daoud Abdoulaye,M,1996.0,Italy,ITA,Europe,Biathlon,2.0,10.0,5.0
+269.0,Fawziya Abdoulkarim,F,1998.0,Canada,CAN,North America,Ice Hockey,5.0,16.0,3.2
+270.0,Alaa El-Din Abdoun,M,2000.0,South Korea,KOR,Asia,Snowboarding,6.0,32.0,5.333
+271.0,Ibrahim Abdrabbou,M,2002.0,Netherlands,NED,Europe,Cross-Country Skiing,6.0,12.0,2.0
+272.0,Berik Abdrakhmanov,M,2004.0,Brazil,BRA,South America,Weightlifting,7.0,18.0,2.571
+273.0,Maizurah Abdul Rahim,F,2006.0,Norway,NOR,Europe,Fencing,2.0,7.0,3.5
+274.0,Mehdi Fahim Abdul Al-Sada,M,2008.0,Sweden,SWE,Europe,Taekwondo,10.0,28.0,2.8
+275.0,Bashir Abdullah Abdul Aziz,M,2010.0,Spain,ESP,Europe,Canoeing,7.0,14.0,2.0
+276.0,Chairil Anwar Abdul Aziz,M,2012.0,Switzerland,SUI,Europe,Sailing,10.0,54.0,5.4
+276.0,Chairil Anwar Abdul Aziz,M,2014.0,Ukraine,UKR,Europe/Asia,Equestrian,2.0,7.0,3.5
+277.0,Shaimaa Abdul Aziz,F,2016.0,Kenya,KEN,Africa,Triathlon,7.0,23.0,3.286
+277.0,Shaimaa Abdul Aziz,F,2018.0,Jamaica,JAM,North America,Badminton,11.0,40.0,3.636
+277.0,Shaimaa Abdul Aziz,F,2020.0,New Zealand,NZL,Oceania,Rowing,7.0,48.0,6.857
+278.0,Mohamed Abdul Hadj,M,2022.0,Cuba,CUB,North America,Shooting,10.0,67.0,6.7
+279.0,Jefri Kiko Bolkiah Abdul Hakeem,M,2024.0,Hungary,HUN,Europe,Athletics,4.0,13.0,3.25
+279.0,Jefri Kiko Bolkiah Abdul Hakeem,M,2026.0,Poland,POL,Europe,Swimming,7.0,28.0,4.0
+280.0,Mohamed Abdul Hamid,M,1992.0,South Africa,RSA,Africa,Gymnastics,4.0,9.0,2.25
+281.0,S. Abdul Hamid,M,1994.0,Ethiopia,ETH,Africa,Cycling,9.0,28.0,3.111
+281.0,S. Abdul Hamid,M,1996.0,Argentina,ARG,South America,Wrestling,8.0,24.0,3.0
+282.0,Hadi Abdul Jabbar,M,1998.0,Czech Republic,CZE,Europe,Boxing,5.0,22.0,4.4
+282.0,Hadi Abdul Jabbar,M,2000.0,Austria,AUT,Europe,Judo,2.0,9.0,4.5
+283.0,Mohamed Abed Abdul Jawad,M,2002.0,Finland,FIN,Europe,Archery,5.0,23.0,4.6
+284.0,Anouar Abdul Kader,M,2004.0,Romania,ROU,Europe,Alpine Skiing,7.0,17.0,2.429
+285.0,Talal Hassoun Abdul Kader,M,2006.0,Denmark,DEN,Europe,Figure Skating,8.0,13.0,1.625
+286.0,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,2008.0,Croatia,CRO,Europe,Speed Skating,10.0,36.0,3.6
+286.0,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,2010.0,Kazakhstan,KAZ,Europe/Asia,Biathlon,5.0,24.0,4.8
+287.0,Taha Abdul Karim,M,2012.0,Belarus,BLR,Europe,Ice Hockey,10.0,13.0,1.3
+288.0,Masoud Abdul Khamis Al-Rahman,M,2014.0,Bulgaria,BUL,Europe,Snowboarding,4.0,7.0,1.75
+289.0,Abdul Haji Abdul Latheef,M,2016.0,Slovakia,SVK,Europe,Cross-Country Skiing,5.0,21.0,4.2
+290.0,Fatima Abdul Majeed Hameed Al-Kirashi,F,2018.0,Georgia,GEO,Europe/Asia,Weightlifting,3.0,13.0,4.333
+291.0,Majed Ahmed Abdul Mohamed,M,2020.0,Azerbaijan,AZE,Europe/Asia,Fencing,7.0,18.0,2.571
+292.0,Firouz Abdul Mohammadian,M,2022.0,Colombia,COL,South America,Taekwondo,3.0,13.0,4.333
+293.0,Hussam Abdul Rahman,M,2024.0,Mexico,MEX,North America,Canoeing,2.0,8.0,4.0
+294.0,Mohamed Ghulom Abdul Rahman,M,2026.0,India,IND,Asia,Sailing,6.0,16.0,2.667
+295.0,Suleman Abdul Rahman,M,1992.0,Belgium,BEL,Europe,Equestrian,10.0,54.0,5.4
+296.0,Zambrose Abdul Rahman,M,1994.0,Greece,GRE,Europe,Triathlon,3.0,3.0,1.0
+297.0,Lala Abdul Rashid,M,1996.0,Turkey,TUR,Europe/Asia,Badminton,2.0,5.0,2.5
+298.0,Muhammad Abdul Rashid,M,1998.0,Iran,IRI,Asia,Rowing,9.0,62.0,6.889
+299.0,Dana Abdul Razak (Hussain-),F,2000.0,North Korea,PRK,Asia,Shooting,11.0,74.0,6.727
+299.0,Dana Abdul Razak (Hussain-),F,2002.0,Thailand,THA,Asia,Athletics,11.0,26.0,2.364
+300.0,A. Abdul Razzak,M,2004.0,Indonesia,INA,Asia,Swimming,10.0,41.0,4.1
+300.0,A. Abdul Razzak,M,2006.0,Nigeria,NGR,Africa,Gymnastics,4.0,20.0,5.0
+301.0,Mohamed Abdul Razzak,M,2008.0,Egypt,EGY,Africa,Cycling,8.0,30.0,3.75
+302.0,Muhammad Abdul Razzaq,M,2010.0,Morocco,MAR,Africa,Wrestling,4.0,9.0,2.25
+303.0,Hazim Abdul Ridha,M,2012.0,Algeria,ALG,Africa,Boxing,4.0,6.0,1.5
+304.0,Rauf Abdul Seoud,M,2014.0,Tunisia,TUN,Africa,Judo,3.0,14.0,4.667
+304.0,Rauf Abdul Seoud,M,2016.0,Chile,CHI,South America,Archery,6.0,11.0,1.833
+305.0,Samir Ahmed Abdul Shakour,M,2018.0,Venezuela,VEN,South America,Alpine Skiing,9.0,13.0,1.444
+306.0,Nabil Abdul Tahlak,M,2020.0,Fiji,FIJ,Oceania,Figure Skating,6.0,9.0,1.5
+307.0,Fahmi Ahmed Abdul Wahab Al-Tahri,M,2022.0,Slovenia,SLO,Europe,Speed Skating,10.0,17.0,1.7
+308.0,Mohamed Abdul Wahab Al-Salah,M,2024.0,Serbia,SRB,Europe,Biathlon,6.0,32.0,5.333
+308.0,Mohamed Abdul Wahab Al-Salah,M,2026.0,Ireland,IRL,Europe,Ice Hockey,6.0,10.0,1.667
+309.0,Qazi Abdul Waheed,M,1992.0,United States,USA,North America,Snowboarding,3.0,14.0,4.667
+310.0,Patmawati Abdul Wahid,F,1994.0,China,CHN,Asia,Cross-Country Skiing,6.0,22.0,3.667
+311.0,Haidar Abdul-Amir Hassan,M,1996.0,Great Britain,GBR,Europe,Weightlifting,11.0,51.0,4.636
+312.0,Haidar Abdul-Razzaq Hassan,M,1998.0,Germany,GER,Europe,Fencing,9.0,31.0,3.444
+313.0,"Lawal Kolawole ""Kola"" Abdulai",M,2000.0,Russia,RUS,Europe/Asia,Taekwondo,11.0,54.0,4.909
+313.0,"Lawal Kolawole ""Kola"" Abdulai",M,2002.0,Japan,JPN,Asia,Canoeing,4.0,12.0,3.0
+313.0,"Lawal Kolawole ""Kola"" Abdulai",M,2004.0,Australia,AUS,Oceania,Sailing,5.0,17.0,3.4
+313.0,"Lawal Kolawole ""Kola"" Abdulai",M,2006.0,France,FRA,Europe,Equestrian,8.0,31.0,3.875
+314.0,"Rukayatu ""Ruky"" Abdulai",F,2008.0,Italy,ITA,Europe,Triathlon,9.0,32.0,3.556
+315.0,Mona Ahmad Abdulaziz Hassanein,F,2010.0,Canada,CAN,North America,Badminton,2.0,9.0,4.5
+316.0,Zagalav Abdulbekovich Abdulbekov,M,2012.0,South Korea,KOR,Asia,Rowing,9.0,62.0,6.889
+317.0,Roosevelt M. Abdulgafur,M,2014.0,Netherlands,NED,Europe,Shooting,11.0,74.0,6.727
+317.0,Roosevelt M. Abdulgafur,M,2016.0,Brazil,BRA,South America,Athletics,4.0,7.0,1.75
+317.0,Roosevelt M. Abdulgafur,M,2018.0,Norway,NOR,Europe,Swimming,5.0,18.0,3.6
+317.0,Roosevelt M. Abdulgafur,M,2020.0,Sweden,SWE,Europe,Gymnastics,4.0,10.0,2.5
+317.0,Roosevelt M. Abdulgafur,M,2022.0,Spain,ESP,Europe,Cycling,9.0,28.0,3.111
+318.0,Ahmed Abdulkareem Ahmed,M,2024.0,Switzerland,SUI,Europe,Wrestling,5.0,25.0,5.0
+319.0,Gamal Ahmed Abdulla,M,2026.0,Ukraine,UKR,Europe/Asia,Boxing,5.0,25.0,5.0
+320.0,Mohamed Sayed Abdulla,M,1992.0,Kenya,KEN,Africa,Judo,2.0,4.0,2.0
+321.0,Ahmad Hassan Abdullah,M,1994.0,Jamaica,JAM,North America,Archery,10.0,41.0,4.1
+322.0,Ahmed Ghanim Abdullah,M,1996.0,New Zealand,NZL,Oceania,Alpine Skiing,7.0,35.0,5.0
+323.0,Aquil Hashim Abdullah (Shumate-),M,1998.0,Cuba,CUB,North America,Figure Skating,5.0,16.0,3.2
+324.0,Atallah Abdullah,M,2000.0,Hungary,HUN,Europe,Speed Skating,5.0,17.0,3.4
+325.0,Magdy Ahmed Abdullah,M,2002.0,Poland,POL,Europe,Biathlon,10.0,28.0,2.8
+326.0,Mohamed Abdullah,M,2004.0,South Africa,RSA,Africa,Ice Hockey,11.0,34.0,3.091
+326.0,Mohamed Abdullah,M,2006.0,Ethiopia,ETH,Africa,Snowboarding,11.0,44.0,4.0
+326.0,Mohamed Abdullah,M,2008.0,Argentina,ARG,South America,Cross-Country Skiing,2.0,10.0,5.0
+326.0,Mohamed Abdullah,M,2010.0,Czech Republic,CZE,Europe,Weightlifting,11.0,22.0,2.0
+326.0,Mohamed Abdullah,M,2012.0,Austria,AUT,Europe,Fencing,11.0,27.0,2.455
+326.0,Mohamed Abdullah,M,2014.0,Finland,FIN,Europe,Taekwondo,11.0,57.0,5.182
+327.0,Mohamed Samy Abdullah,M,2016.0,Romania,ROU,Europe,Canoeing,4.0,12.0,3.0
+328.0,Mohamed Abdullah,M,2018.0,Denmark,DEN,Europe,Sailing,2.0,5.0,2.5
+329.0,Osama Abdullah,M,2020.0,Croatia,CRO,Europe,Equestrian,4.0,21.0,5.25
+330.0,Tewfik Abdullah,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Triathlon,9.0,15.0,1.667
+331.0,Wan Azlan Abdullah,M,2024.0,Belarus,BLR,Europe,Badminton,11.0,50.0,4.545
+331.0,Wan Azlan Abdullah,M,2026.0,Bulgaria,BUL,Europe,Rowing,10.0,69.0,6.9
+331.0,Wan Azlan Abdullah,M,1992.0,Slovakia,SVK,Europe,Shooting,10.0,67.0,6.7
+331.0,Wan Azlan Abdullah,M,1994.0,Georgia,GEO,Europe/Asia,Athletics,7.0,37.0,5.286
+332.0,Zarinah Abdullah,F,1996.0,Azerbaijan,AZE,Europe/Asia,Swimming,3.0,10.0,3.333
+332.0,Zarinah Abdullah,F,1998.0,Colombia,COL,South America,Gymnastics,3.0,15.0,5.0
+333.0,Abdel Wahab Abdullah Salih,M,2000.0,Mexico,MEX,North America,Cycling,5.0,9.0,1.8
+333.0,Abdel Wahab Abdullah Salih,M,2002.0,India,IND,Asia,Wrestling,4.0,5.0,1.25
+334.0,Abubakar Sadiq Abdullahi,M,2004.0,Belgium,BEL,Europe,Boxing,8.0,36.0,4.5
+335.0,Abdulqdir Abdullayev,M,2006.0,Greece,GRE,Europe,Judo,10.0,35.0,3.5
+336.0,Arif Yadulla Abdullayev,M,2008.0,Turkey,TUR,Europe/Asia,Archery,5.0,13.0,2.6
+336.0,Arif Yadulla Abdullayev,M,2010.0,Iran,IRI,Asia,Alpine Skiing,11.0,33.0,3.0
+337.0,Mukhammad Kadyr Abdullayev,M,2012.0,North Korea,PRK,Asia,Figure Skating,10.0,39.0,3.9
+337.0,Mukhammad Kadyr Abdullayev,M,2014.0,Thailand,THA,Asia,Speed Skating,7.0,21.0,3.0
+338.0,Muminzhon Abdullayev,M,2016.0,Indonesia,INA,Asia,Biathlon,9.0,31.0,3.444
+338.0,Muminzhon Abdullayev,M,2018.0,Nigeria,NGR,Africa,Ice Hockey,6.0,24.0,4.0
+339.0,Namiq Yadulla Abdullayev,M,2020.0,Egypt,EGY,Africa,Snowboarding,2.0,4.0,2.0
+339.0,Namiq Yadulla Abdullayev,M,2022.0,Morocco,MAR,Africa,Cross-Country Skiing,10.0,37.0,3.7
+339.0,Namiq Yadulla Abdullayev,M,2024.0,Algeria,ALG,Africa,Weightlifting,8.0,39.0,4.875
+340.0,Laye Abdullayeva,F,2026.0,Tunisia,TUN,Africa,Fencing,11.0,25.0,2.273
+341.0,lqar Abdulov,M,1992.0,Chile,CHI,South America,Taekwondo,7.0,22.0,3.143
+342.0,Abdullah Abdulrahman Zeyab,M,1994.0,Venezuela,VEN,South America,Canoeing,11.0,34.0,3.091
+343.0,Abir Abdulrahman Khalil Mahmoud Khalil,F,1996.0,Fiji,FIJ,Oceania,Sailing,7.0,35.0,5.0
+343.0,Abir Abdulrahman Khalil Mahmoud Khalil,F,1998.0,Slovenia,SLO,Europe,Equestrian,5.0,20.0,4.0
+344.0,Amer Abdulrahman Abdallah Hussain Al-Hammadi,M,2000.0,Serbia,SRB,Europe,Triathlon,4.0,6.0,1.5
+345.0,Omar Abdulrahman Ahmad Al-Raaqi Al-Amoudi,M,2002.0,Ireland,IRL,Europe,Badminton,11.0,44.0,4.0
+346.0,Shaza Yahia Nazih Abdulrahman El-Sayed,F,2004.0,United States,USA,North America,Rowing,11.0,76.0,6.909
+346.0,Shaza Yahia Nazih Abdulrahman El-Sayed,F,2006.0,China,CHN,Asia,Shooting,10.0,67.0,6.7
+346.0,Shaza Yahia Nazih Abdulrahman El-Sayed,F,2008.0,Great Britain,GBR,Europe,Athletics,6.0,32.0,5.333
+347.0,Najim Abdulrazak Al-Enazy,M,2010.0,Germany,GER,Europe,Swimming,5.0,25.0,5.0
+348.0,Zeyad Abdulrazak Al-Khudhur Al-Enazy,M,2012.0,Russia,RUS,Europe/Asia,Gymnastics,2.0,8.0,4.0
+348.0,Zeyad Abdulrazak Al-Khudhur Al-Enazy,M,2014.0,Japan,JPN,Asia,Cycling,2.0,5.0,2.5
+349.0,Waheed Abdulridha Waheed Karaawi,M,2016.0,Australia,AUS,Oceania,Wrestling,8.0,18.0,2.25
+350.0,Mohamed Abdultwab Ibrahim Abd El-Baki,M,2018.0,France,FRA,Europe,Boxing,9.0,48.0,5.333
+350.0,Mohamed Abdultwab Ibrahim Abd El-Baki,M,2020.0,Italy,ITA,Europe,Judo,10.0,19.0,1.9
+351.0,Julius Shareef Abdur-Rahim,M,2022.0,Canada,CAN,North America,Archery,9.0,47.0,5.222
+352.0,Sherzod Abdurahmonov,M,2024.0,South Korea,KOR,Asia,Alpine Skiing,4.0,8.0,2.0
+353.0,Rasul Abduraim,M,2026.0,Netherlands,NED,Europe,Figure Skating,10.0,37.0,3.7
+353.0,Rasul Abduraim,M,1992.0,Brazil,BRA,South America,Speed Skating,10.0,22.0,2.2
+354.0,Bekzod Makhamadzhonovich Abdurakhmonov,M,1994.0,Norway,NOR,Europe,Biathlon,9.0,23.0,2.556
+355.0,Mukhamadmurod Abdurakhmonov,M,1996.0,Sweden,SWE,Europe,Ice Hockey,8.0,14.0,1.75
+356.0,Adlan Aliyevich Abdurashidov,M,1998.0,Spain,ESP,Europe,Snowboarding,5.0,16.0,3.2
+357.0,Yusup Abdusalomov,M,2000.0,Switzerland,SUI,Europe,Cross-Country Skiing,10.0,46.0,4.6
+357.0,Yusup Abdusalomov,M,2002.0,Ukraine,UKR,Europe/Asia,Weightlifting,6.0,23.0,3.833
+357.0,Yusup Abdusalomov,M,2004.0,Kenya,KEN,Africa,Fencing,2.0,5.0,2.5
+358.0,Fawzi Abdussalam,M,2006.0,Jamaica,JAM,North America,Taekwondo,9.0,12.0,1.333
+359.0,Andrey Khakimovich Abduvaliyev,M,2008.0,New Zealand,NZL,Oceania,Canoeing,2.0,10.0,5.0
+359.0,Andrey Khakimovich Abduvaliyev,M,2010.0,Cuba,CUB,North America,Sailing,11.0,55.0,5.0
+360.0,Dzhamolidin Mirgarifanovich Abduzhaparov,M,2012.0,Hungary,HUN,Europe,Equestrian,4.0,18.0,4.5
+360.0,Dzhamolidin Mirgarifanovich Abduzhaparov,M,2014.0,Poland,POL,Europe,Triathlon,3.0,16.0,5.333
+361.0,Aybek Abdymomunov,M,2016.0,South Africa,RSA,Africa,Badminton,5.0,21.0,4.2
+362.0,Isao Ko Abe,M,2018.0,Ethiopia,ETH,Africa,Rowing,8.0,55.0,6.875
+363.0,Kazumi Abe,M,2020.0,Argentina,ARG,South America,Shooting,5.0,33.0,6.6
+363.0,Kazumi Abe,M,2022.0,Czech Republic,CZE,Europe,Athletics,7.0,17.0,2.429
+363.0,Kazumi Abe,M,2024.0,Austria,AUT,Europe,Swimming,11.0,43.0,3.909
+363.0,Kazumi Abe,M,2026.0,Finland,FIN,Europe,Gymnastics,6.0,32.0,5.333
+364.0,Kazuo Abe,M,1992.0,Romania,ROU,Europe,Cycling,3.0,11.0,3.667
+365.0,Kinya Abe,M,1994.0,Denmark,DEN,Europe,Wrestling,2.0,4.0,2.0
+366.0,Kiyoshi Abe,M,1996.0,Croatia,CRO,Europe,Boxing,9.0,48.0,5.333
+367.0,Masashi Abe,M,1998.0,Kazakhstan,KAZ,Europe/Asia,Judo,7.0,20.0,2.857
+367.0,Masashi Abe,M,2000.0,Belarus,BLR,Europe,Archery,2.0,9.0,4.5
+367.0,Masashi Abe,M,2002.0,Bulgaria,BUL,Europe,Alpine Skiing,11.0,29.0,2.636
+367.0,Masashi Abe,M,2004.0,Slovakia,SVK,Europe,Figure Skating,7.0,20.0,2.857
+367.0,Masashi Abe,M,2006.0,Georgia,GEO,Europe/Asia,Speed Skating,2.0,4.0,2.0
+368.0,Naoki Abe,M,2008.0,Azerbaijan,AZE,Europe/Asia,Biathlon,2.0,8.0,4.0
+368.0,Naoki Abe,M,2010.0,Colombia,COL,South America,Ice Hockey,8.0,34.0,4.25
+369.0,Osamu Abe,M,2012.0,Mexico,MEX,North America,Snowboarding,9.0,23.0,2.556
+370.0,Shigeaki Abe,M,2014.0,India,IND,Asia,Cross-Country Skiing,10.0,42.0,4.2
+370.0,Shigeaki Abe,M,2016.0,Belgium,BEL,Europe,Weightlifting,10.0,39.0,3.9
+371.0,Shinnosuke Abe,M,2018.0,Greece,GRE,Europe,Fencing,5.0,20.0,4.0
+371.0,Shinnosuke Abe,M,2020.0,Turkey,TUR,Europe/Asia,Taekwondo,8.0,23.0,2.875
+372.0,"Sanshiro ""Sonny"" Abe",M,2022.0,Iran,IRI,Asia,Canoeing,4.0,21.0,5.25
+373.0,Tadashi Abe,M,2024.0,North Korea,PRK,Asia,Sailing,6.0,8.0,1.333
+373.0,Tadashi Abe,M,2026.0,Thailand,THA,Asia,Equestrian,6.0,15.0,2.5
+373.0,Tadashi Abe,M,1992.0,Indonesia,INA,Asia,Triathlon,7.0,18.0,2.571
+374.0,Tadatoshi Abe,M,1994.0,Nigeria,NGR,Africa,Badminton,10.0,52.0,5.2
+375.0,Wakako Abe,F,1996.0,Egypt,EGY,Africa,Rowing,7.0,48.0,6.857
+376.0,Yoshiyuki Abe,M,1998.0,Morocco,MAR,Africa,Shooting,7.0,47.0,6.714
+377.0,Yuki Abe,M,2000.0,Algeria,ALG,Africa,Athletics,3.0,4.0,1.333
+378.0,Angelik Abebame,F,2002.0,Tunisia,TUN,Africa,Swimming,6.0,20.0,3.333
+379.0,Addis Abebe,M,2004.0,Chile,CHI,South America,Gymnastics,9.0,32.0,3.556
+379.0,Addis Abebe,M,2006.0,Venezuela,VEN,South America,Cycling,9.0,45.0,5.0
+380.0,Biruk Abebe,M,2008.0,Fiji,FIJ,Oceania,Wrestling,4.0,18.0,4.5
+380.0,Biruk Abebe,M,2010.0,Slovenia,SLO,Europe,Boxing,6.0,22.0,3.667
+381.0,Benaissa Abed,M,2012.0,Serbia,SRB,Europe,Judo,9.0,35.0,3.889
+382.0,Soha Abed Elaal,F,2014.0,Ireland,IRL,Europe,Archery,2.0,10.0,5.0
+383.0,Mojtaba Abedini Shormasti,M,2016.0,United States,USA,North America,Alpine Skiing,5.0,21.0,4.2
+383.0,Mojtaba Abedini Shormasti,M,2018.0,China,CHN,Asia,Figure Skating,7.0,18.0,2.571
+384.0,Thophile Abega Mbida,M,2020.0,Great Britain,GBR,Europe,Speed Skating,11.0,48.0,4.364
+385.0,"Max ""Xam"" Abegglen",M,2022.0,Germany,GER,Europe,Biathlon,2.0,3.0,1.5
+385.0,"Max ""Xam"" Abegglen",M,2024.0,Russia,RUS,Europe/Asia,Ice Hockey,2.0,10.0,5.0
+386.0,Alexandre Abeid,M,2026.0,Japan,JPN,Asia,Snowboarding,10.0,40.0,4.0
+386.0,Alexandre Abeid,M,1992.0,Australia,AUS,Oceania,Cross-Country Skiing,4.0,16.0,4.0
+387.0,Sonia Abejn Esteban,F,1994.0,France,FRA,Europe,Weightlifting,5.0,6.0,1.2
+388.0,Abel Carlos da Silva Braga,M,1996.0,Italy,ITA,Europe,Fencing,10.0,39.0,3.9
+389.0,Adolf Gaston Abel,M,1998.0,Canada,CAN,North America,Taekwondo,4.0,8.0,2.0
+389.0,Adolf Gaston Abel,M,2000.0,South Korea,KOR,Asia,Canoeing,11.0,20.0,1.818
+390.0,Brooke Abel,F,2002.0,Netherlands,NED,Europe,Sailing,8.0,24.0,3.0
+391.0,Clarence John Abel,M,2004.0,Brazil,BRA,South America,Equestrian,10.0,39.0,3.9
+392.0,George Gordon Abel,M,2006.0,Norway,NOR,Europe,Triathlon,4.0,8.0,2.0
+393.0,Gnther Abel,M,2008.0,Sweden,SWE,Europe,Badminton,6.0,15.0,2.5
+393.0,Gnther Abel,M,2010.0,Spain,ESP,Europe,Rowing,11.0,76.0,6.909
+394.0,Irene Abel,F,2012.0,Switzerland,SUI,Europe,Shooting,4.0,26.0,6.5
+394.0,Irene Abel,F,2014.0,Ukraine,UKR,Europe/Asia,Athletics,10.0,22.0,2.2
+394.0,Irene Abel,F,2016.0,Kenya,KEN,Africa,Swimming,4.0,21.0,5.25
+394.0,Irene Abel,F,2018.0,Jamaica,JAM,North America,Gymnastics,11.0,56.0,5.091
+394.0,Irene Abel,F,2020.0,New Zealand,NZL,Oceania,Cycling,5.0,12.0,2.4
+394.0,Irene Abel,F,2022.0,Cuba,CUB,North America,Wrestling,9.0,45.0,5.0
+395.0,Jennifer Abel,F,2024.0,Hungary,HUN,Europe,Boxing,8.0,36.0,4.5
+395.0,Jennifer Abel,F,2026.0,Poland,POL,Europe,Judo,5.0,24.0,4.8
+395.0,Jennifer Abel,F,1992.0,South Africa,RSA,Africa,Archery,6.0,31.0,5.167
+395.0,Jennifer Abel,F,1994.0,Ethiopia,ETH,Africa,Alpine Skiing,3.0,7.0,2.333
+395.0,Jennifer Abel,F,1996.0,Argentina,ARG,South America,Figure Skating,11.0,48.0,4.364
+396.0,Katja Abel,F,1998.0,Czech Republic,CZE,Europe,Speed Skating,6.0,23.0,3.833
+396.0,Katja Abel,F,2000.0,Austria,AUT,Europe,Biathlon,7.0,17.0,2.429
+396.0,Katja Abel,F,2002.0,Finland,FIN,Europe,Ice Hockey,3.0,8.0,2.667
+396.0,Katja Abel,F,2004.0,Romania,ROU,Europe,Snowboarding,6.0,16.0,2.667
+396.0,Katja Abel,F,2006.0,Denmark,DEN,Europe,Cross-Country Skiing,9.0,10.0,1.111
+397.0,Mara Abel Diguez,F,2008.0,Croatia,CRO,Europe,Weightlifting,2.0,7.0,3.5
+397.0,Mara Abel Diguez,F,2010.0,Kazakhstan,KAZ,Europe/Asia,Fencing,9.0,39.0,4.333
+398.0,Roger Abel,M,2012.0,Belarus,BLR,Europe,Taekwondo,3.0,10.0,3.333
+398.0,Roger Abel,M,2014.0,Bulgaria,BUL,Europe,Canoeing,3.0,13.0,4.333
+398.0,Roger Abel,M,2016.0,Slovakia,SVK,Europe,Sailing,5.0,18.0,3.6
+398.0,Roger Abel,M,2018.0,Georgia,GEO,Europe/Asia,Equestrian,2.0,3.0,1.5
+398.0,Roger Abel,M,2020.0,Azerbaijan,AZE,Europe/Asia,Triathlon,7.0,23.0,3.286
+398.0,Roger Abel,M,2022.0,Colombia,COL,South America,Badminton,4.0,21.0,5.25
+399.0,Egil Sten Abel,M,2024.0,Mexico,MEX,North America,Rowing,9.0,62.0,6.889
+400.0,Yaritza Abel Rojas,F,2026.0,India,IND,Asia,Shooting,5.0,33.0,6.6
+401.0,Abelardo Fernndez Antua,M,1992.0,Belgium,BEL,Europe,Athletics,11.0,40.0,3.636
+402.0,Arthur Abele,M,1994.0,Greece,GRE,Europe,Swimming,3.0,4.0,1.333
+402.0,Arthur Abele,M,1996.0,Turkey,TUR,Europe/Asia,Gymnastics,7.0,19.0,2.714
+403.0,Ruth Abeles,F,1998.0,Iran,IRI,Asia,Cycling,2.0,2.0,1.0
+403.0,Ruth Abeles,F,2000.0,North Korea,PRK,Asia,Wrestling,2.0,5.0,2.5
+403.0,Ruth Abeles,F,2002.0,Thailand,THA,Asia,Boxing,3.0,8.0,2.667
+403.0,Ruth Abeles,F,2004.0,Indonesia,INA,Asia,Judo,3.0,8.0,2.667
+403.0,Ruth Abeles,F,2006.0,Nigeria,NGR,Africa,Archery,4.0,5.0,1.25
+404.0,"Louis Grenville ""Lou"" Abell",M,2008.0,Egypt,EGY,Africa,Alpine Skiing,6.0,15.0,2.5
+404.0,"Louis Grenville ""Lou"" Abell",M,2010.0,Morocco,MAR,Africa,Figure Skating,4.0,11.0,2.75
+405.0,Jos Javier Abella Fanjul,M,2012.0,Algeria,ALG,Africa,Speed Skating,11.0,31.0,2.818
+406.0,Ramn Neptuno Abella Caside,M,2014.0,Tunisia,TUN,Africa,Biathlon,2.0,8.0,4.0
+407.0,Ral Daniel Abella,M,2016.0,Chile,CHI,South America,Ice Hockey,10.0,34.0,3.4
+407.0,Ral Daniel Abella,M,2018.0,Venezuela,VEN,South America,Snowboarding,3.0,5.0,1.667
+407.0,Ral Daniel Abella,M,2020.0,Fiji,FIJ,Oceania,Cross-Country Skiing,6.0,20.0,3.333
+408.0,Alfonso Abelln Lpez,M,2022.0,Slovenia,SLO,Europe,Weightlifting,11.0,47.0,4.273
+409.0,Juan Luis Abelln Pallahi,M,2024.0,Serbia,SRB,Europe,Fencing,5.0,6.0,1.2
+410.0,Edwige Marie Abna Fouda,F,2026.0,Ireland,IRL,Europe,Taekwondo,5.0,13.0,2.6
+411.0,Gezahgne Abera,M,1992.0,United States,USA,North America,Canoeing,11.0,14.0,1.273
+412.0,Tesfaye Abera Dibaba,M,1994.0,China,CHN,Asia,Sailing,11.0,27.0,2.455
+413.0,Hugo Ral Aberastegui,M,1996.0,Great Britain,GBR,Europe,Equestrian,6.0,19.0,3.167
+413.0,Hugo Ral Aberastegui,M,1998.0,Germany,GER,Europe,Triathlon,6.0,10.0,1.667
+413.0,Hugo Ral Aberastegui,M,2000.0,Russia,RUS,Europe/Asia,Badminton,9.0,28.0,3.111
+414.0,Arvid berg,M,2002.0,Japan,JPN,Asia,Rowing,6.0,41.0,6.833
+415.0,Bjrn Olof Conny berg,M,2004.0,Australia,AUS,Oceania,Shooting,5.0,33.0,6.6
+416.0,Nils Georg berg,M,2006.0,France,FRA,Europe,Athletics,8.0,42.0,5.25
+416.0,Nils Georg berg,M,2008.0,Italy,ITA,Europe,Swimming,7.0,29.0,4.143
+417.0,Sara Helena berg,F,2010.0,Canada,CAN,North America,Gymnastics,7.0,21.0,3.0
+418.0,Karl Konrad berg,M,2012.0,South Korea,KOR,Asia,Cycling,9.0,44.0,4.889
+419.0,Majken berg,F,2014.0,Netherlands,NED,Europe,Wrestling,4.0,8.0,2.0
+420.0,"Olof Viktor ""Olle"" berg",M,2016.0,Brazil,BRA,South America,Boxing,3.0,7.0,2.333
+421.0,Mohamed Aberhoune,M,2018.0,Norway,NOR,Europe,Judo,2.0,10.0,5.0
+422.0,"Julianne ""Anne"" Abernathy",F,2020.0,Sweden,SWE,Europe,Archery,11.0,46.0,4.182
+422.0,"Julianne ""Anne"" Abernathy",F,2022.0,Spain,ESP,Europe,Alpine Skiing,2.0,6.0,3.0
+422.0,"Julianne ""Anne"" Abernathy",F,2024.0,Switzerland,SUI,Europe,Figure Skating,7.0,37.0,5.286
+422.0,"Julianne ""Anne"" Abernathy",F,2026.0,Ukraine,UKR,Europe/Asia,Speed Skating,5.0,21.0,4.2
+422.0,"Julianne ""Anne"" Abernathy",F,1992.0,Kenya,KEN,Africa,Biathlon,10.0,44.0,4.4
+423.0,Michael Brent Abernathy,M,1994.0,Jamaica,JAM,North America,Ice Hockey,7.0,23.0,3.286
+424.0,Moira Abernethy (-Ford),F,1996.0,New Zealand,NZL,Oceania,Snowboarding,5.0,21.0,4.2
+424.0,Moira Abernethy (-Ford),F,1998.0,Cuba,CUB,North America,Cross-Country Skiing,5.0,20.0,4.0
+425.0,Salim Abes,M,2000.0,Hungary,HUN,Europe,Weightlifting,4.0,5.0,1.25
+426.0,Edme Abetel (-Barr),F,2002.0,Poland,POL,Europe,Fencing,2.0,7.0,3.5
+427.0,Pasqualino Abeti,M,2004.0,South Africa,RSA,Africa,Taekwondo,10.0,45.0,4.5
+428.0,Elvan Abeylegesse,F,2006.0,Ethiopia,ETH,Africa,Canoeing,3.0,13.0,4.333
+428.0,Elvan Abeylegesse,F,2008.0,Argentina,ARG,South America,Sailing,9.0,31.0,3.444
+428.0,Elvan Abeylegesse,F,2010.0,Czech Republic,CZE,Europe,Equestrian,11.0,46.0,4.182
+428.0,Elvan Abeylegesse,F,2012.0,Austria,AUT,Europe,Triathlon,8.0,41.0,5.125
+429.0,Ruwani Abeymanne,F,2014.0,Finland,FIN,Europe,Badminton,6.0,17.0,2.833
+429.0,Ruwani Abeymanne,F,2016.0,Romania,ROU,Europe,Rowing,5.0,34.0,6.8
+430.0,Matthew Duncan Abeysinghe,M,2018.0,Denmark,DEN,Europe,Shooting,11.0,74.0,6.727
+431.0,Narek Abgaryan,M,2020.0,Croatia,CRO,Europe,Athletics,11.0,54.0,4.909
+432.0,Koutoua Francis Abia,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Swimming,6.0,9.0,1.5
+432.0,Koutoua Francis Abia,M,2024.0,Belarus,BLR,Europe,Gymnastics,7.0,13.0,1.857
+432.0,Koutoua Francis Abia,M,2026.0,Bulgaria,BUL,Europe,Cycling,4.0,11.0,2.75
+432.0,Koutoua Francis Abia,M,1992.0,Slovakia,SVK,Europe,Wrestling,7.0,19.0,2.714
+433.0,Pablo Abin Vicen,M,1994.0,Georgia,GEO,Europe/Asia,Boxing,8.0,10.0,1.25
+433.0,Pablo Abin Vicen,M,1996.0,Azerbaijan,AZE,Europe/Asia,Judo,5.0,21.0,4.2
+433.0,Pablo Abin Vicen,M,1998.0,Colombia,COL,South America,Archery,11.0,56.0,5.091
+434.0,David Abibssira,M,2000.0,Mexico,MEX,North America,Alpine Skiing,5.0,22.0,4.4
+435.0,Silke Abicht,F,2002.0,India,IND,Asia,Figure Skating,5.0,8.0,1.6
+436.0,Haithem Abid,M,2004.0,Belgium,BEL,Europe,Speed Skating,4.0,5.0,1.25
+437.0,Younis Abid Sadkhan,M,2006.0,Greece,GRE,Europe,Biathlon,4.0,14.0,3.5
+438.0,Jaiye Abidoye,M,2008.0,Turkey,TUR,Europe/Asia,Ice Hockey,8.0,11.0,1.375
+438.0,Jaiye Abidoye,M,2010.0,Iran,IRI,Asia,Snowboarding,6.0,22.0,3.667
+439.0,Sagat Abikeyeva,F,2012.0,North Korea,PRK,Asia,Cross-Country Skiing,4.0,18.0,4.5
+440.0,Mitsuhiro Abiko,M,2014.0,Thailand,THA,Asia,Weightlifting,8.0,29.0,3.625
+441.0,Tomomi Abiko,F,2016.0,Indonesia,INA,Asia,Fencing,3.0,8.0,2.667
+442.0,"Catherine ""Kate"" Abilla Awino",F,2018.0,Nigeria,NGR,Africa,Taekwondo,11.0,13.0,1.182
+443.0,Ismail Abilov (-Nizamolu),M,2020.0,Egypt,EGY,Africa,Canoeing,8.0,12.0,1.5
+443.0,Ismail Abilov (-Nizamolu),M,2022.0,Morocco,MAR,Africa,Sailing,7.0,35.0,5.0
+444.0,Camille Anne Franoise Abily,F,2024.0,Algeria,ALG,Africa,Equestrian,11.0,57.0,5.182
+444.0,Camille Anne Franoise Abily,F,2026.0,Tunisia,TUN,Africa,Triathlon,4.0,17.0,4.25
+445.0,Endurance Abinuwa,F,1992.0,Chile,CHI,South America,Badminton,5.0,15.0,3.0
+446.0,Bode Abiodun,M,1994.0,Venezuela,VEN,South America,Rowing,11.0,76.0,6.909
+447.0,Firmin Abissi,M,1996.0,Fiji,FIJ,Oceania,Shooting,11.0,74.0,6.727
+447.0,Firmin Abissi,M,1998.0,Slovenia,SLO,Europe,Athletics,3.0,5.0,1.667
+448.0,Sarah Abitbol,F,2000.0,Serbia,SRB,Europe,Swimming,5.0,12.0,2.4
+449.0,Inga Eduardovna Abitova,F,2002.0,Ireland,IRL,Europe,Gymnastics,6.0,23.0,3.833
+450.0,Ceyhun Abiyev,M,2004.0,United States,USA,North America,Cycling,11.0,31.0,2.818
+451.0,Diana Monteiro Abla,F,2006.0,China,CHN,Asia,Wrestling,10.0,16.0,1.6
+452.0,Enver Nazymovych Ablaiev,M,2008.0,Great Britain,GBR,Europe,Boxing,4.0,16.0,4.0
+452.0,Enver Nazymovych Ablaiev,M,2010.0,Germany,GER,Europe,Judo,9.0,22.0,2.444
+452.0,Enver Nazymovych Ablaiev,M,2012.0,Russia,RUS,Europe/Asia,Archery,8.0,22.0,2.75
+453.0,Leslie Ablett,M,2014.0,Japan,JPN,Asia,Alpine Skiing,7.0,26.0,3.714
+453.0,Leslie Ablett,M,2016.0,Australia,AUS,Oceania,Figure Skating,6.0,13.0,2.167
+454.0,"Edgar Allen ""Ed"" Ablowich",M,2018.0,France,FRA,Europe,Speed Skating,5.0,17.0,3.4
+455.0,Denis Mikhaylovich Ablyazin,M,2020.0,Italy,ITA,Europe,Biathlon,3.0,10.0,3.333
+455.0,Denis Mikhaylovich Ablyazin,M,2022.0,Canada,CAN,North America,Ice Hockey,3.0,5.0,1.667
+455.0,Denis Mikhaylovich Ablyazin,M,2024.0,South Korea,KOR,Asia,Snowboarding,2.0,7.0,3.5
+455.0,Denis Mikhaylovich Ablyazin,M,2026.0,Netherlands,NED,Europe,Cross-Country Skiing,5.0,19.0,3.8
+455.0,Denis Mikhaylovich Ablyazin,M,1992.0,Brazil,BRA,South America,Weightlifting,4.0,15.0,3.75
+455.0,Denis Mikhaylovich Ablyazin,M,1994.0,Norway,NOR,Europe,Fencing,7.0,36.0,5.143
+455.0,Denis Mikhaylovich Ablyazin,M,1996.0,Sweden,SWE,Europe,Taekwondo,7.0,21.0,3.0
+455.0,Denis Mikhaylovich Ablyazin,M,1998.0,Spain,ESP,Europe,Canoeing,8.0,10.0,1.25
+455.0,Denis Mikhaylovich Ablyazin,M,2000.0,Switzerland,SUI,Europe,Sailing,5.0,17.0,3.4
+455.0,Denis Mikhaylovich Ablyazin,M,2002.0,Ukraine,UKR,Europe/Asia,Equestrian,7.0,21.0,3.0
+456.0,Karin Abma,F,2004.0,Kenya,KEN,Africa,Triathlon,7.0,36.0,5.143
+457.0,Thorine Christelle Aboa Mbeza,F,2006.0,Jamaica,JAM,North America,Badminton,11.0,48.0,4.364
+458.0,Felix Ahmed Aboagye,M,2008.0,New Zealand,NZL,Oceania,Rowing,6.0,41.0,6.833
+459.0,Bukola Dammy Abogunloko,F,2010.0,Cuba,CUB,North America,Shooting,10.0,67.0,6.7
+460.0,Viktor Andreyevich Aboimov,M,2012.0,Hungary,HUN,Europe,Athletics,9.0,42.0,4.667
+460.0,Viktor Andreyevich Aboimov,M,2014.0,Poland,POL,Europe,Swimming,11.0,32.0,2.909
+460.0,Viktor Andreyevich Aboimov,M,2016.0,South Africa,RSA,Africa,Gymnastics,11.0,14.0,1.273
+460.0,Viktor Andreyevich Aboimov,M,2018.0,Ethiopia,ETH,Africa,Cycling,8.0,22.0,2.75
+461.0,Mohamed Aboker,M,2020.0,Argentina,ARG,South America,Wrestling,4.0,11.0,2.75
+461.0,Mohamed Aboker,M,2022.0,Czech Republic,CZE,Europe,Boxing,7.0,21.0,3.0
+462.0,Ilze bola,F,2024.0,Austria,AUT,Europe,Judo,11.0,49.0,4.455
+463.0,Agnese boltia,F,2026.0,Finland,FIN,Europe,Archery,7.0,38.0,5.429
+463.0,Agnese boltia,F,1992.0,Romania,ROU,Europe,Alpine Skiing,5.0,17.0,3.4
+463.0,Agnese boltia,F,1994.0,Denmark,DEN,Europe,Figure Skating,11.0,15.0,1.364
+464.0,Abdul Razzak Aboobakur,M,1996.0,Croatia,CRO,Europe,Speed Skating,6.0,15.0,2.5
+465.0,"Matthew ""Matt"" Abood",M,1998.0,Kazakhstan,KAZ,Europe/Asia,Biathlon,8.0,22.0,2.75
+465.0,"Matthew ""Matt"" Abood",M,2000.0,Belarus,BLR,Europe,Ice Hockey,10.0,41.0,4.1
+466.0,Piroska Abos Gvorgyzakab,F,2002.0,Bulgaria,BUL,Europe,Snowboarding,8.0,42.0,5.25
+466.0,Piroska Abos Gvorgyzakab,F,2004.0,Slovakia,SVK,Europe,Cross-Country Skiing,4.0,6.0,1.5
+466.0,Piroska Abos Gvorgyzakab,F,2006.0,Georgia,GEO,Europe/Asia,Weightlifting,9.0,31.0,3.444
+467.0,Jean-Pierre Abossolo-Ze,M,2008.0,Azerbaijan,AZE,Europe/Asia,Fencing,7.0,14.0,2.0
+467.0,Jean-Pierre Abossolo-Ze,M,2010.0,Colombia,COL,South America,Taekwondo,11.0,37.0,3.364
+468.0,Abdelhalim Muhammad Abou,M,2012.0,Mexico,MEX,North America,Canoeing,7.0,13.0,1.857
+469.0,Tarek Abou Al Dahab,M,2014.0,India,IND,Asia,Sailing,3.0,10.0,3.333
+469.0,Tarek Abou Al Dahab,M,2016.0,Belgium,BEL,Europe,Equestrian,9.0,12.0,1.333
+469.0,Tarek Abou Al Dahab,M,2018.0,Greece,GRE,Europe,Triathlon,3.0,16.0,5.333
+469.0,Tarek Abou Al Dahab,M,2020.0,Turkey,TUR,Europe/Asia,Badminton,7.0,37.0,5.286
+469.0,Tarek Abou Al Dahab,M,2022.0,Iran,IRI,Asia,Rowing,11.0,76.0,6.909
+469.0,Tarek Abou Al Dahab,M,2024.0,North Korea,PRK,Asia,Shooting,7.0,47.0,6.714
+470.0,Bachir Hani Abou Assi,M,2026.0,Thailand,THA,Asia,Athletics,10.0,16.0,1.6
+471.0,Ashraf Abou El-Hassan,M,1992.0,Indonesia,INA,Asia,Swimming,3.0,7.0,2.333
+471.0,Ashraf Abou El-Hassan,M,1994.0,Nigeria,NGR,Africa,Gymnastics,6.0,29.0,4.833
+471.0,Ashraf Abou El-Hassan,M,1996.0,Egypt,EGY,Africa,Cycling,10.0,34.0,3.4
+472.0,Galal El-Din Abdel Meguid Abou El-Kheir,M,1998.0,Morocco,MAR,Africa,Wrestling,7.0,33.0,4.714
+473.0,Magdy Abou El-Magd,M,2000.0,Algeria,ALG,Africa,Boxing,8.0,32.0,4.0
+474.0,Essameldin Abou El-Nein,M,2002.0,Tunisia,TUN,Africa,Judo,7.0,26.0,3.714
+475.0,Abdel Khlik Abou El-Yazi,M,2004.0,Chile,CHI,South America,Archery,3.0,14.0,4.667
+476.0,Mohamed Moustafa Abou Elea,M,2006.0,Venezuela,VEN,South America,Alpine Skiing,5.0,15.0,3.0
+477.0,Mahmoud Abou Elelaa,M,2008.0,Fiji,FIJ,Oceania,Figure Skating,8.0,11.0,1.375
+478.0,Mohammed Tawfiq Abou Habaga,M,2010.0,Slovenia,SLO,Europe,Speed Skating,2.0,7.0,3.5
+479.0,Zaid Abou Hamed,M,2012.0,Serbia,SRB,Europe,Biathlon,5.0,20.0,4.0
+480.0,Youssef Kamel Mohamed Abou Ouf,M,2014.0,Ireland,IRL,Europe,Ice Hockey,10.0,34.0,3.4
+480.0,Youssef Kamel Mohamed Abou Ouf,M,2016.0,United States,USA,North America,Snowboarding,4.0,5.0,1.25
+481.0,Gaber Mooti Abou Zeid,M,2018.0,China,CHN,Asia,Cross-Country Skiing,4.0,21.0,5.25
+481.0,Gaber Mooti Abou Zeid,M,2020.0,Great Britain,GBR,Europe,Weightlifting,10.0,24.0,2.4
+482.0,Taher Abou Zeid Sayid Amer,M,2022.0,Germany,GER,Europe,Fencing,2.0,5.0,2.5
+483.0,Ahmed Farid Abou-Shadi,M,2024.0,Russia,RUS,Europe/Asia,Taekwondo,7.0,28.0,4.0
+483.0,Ahmed Farid Abou-Shadi,M,2026.0,Japan,JPN,Asia,Canoeing,4.0,11.0,2.75
+483.0,Ahmed Farid Abou-Shadi,M,1992.0,Australia,AUS,Oceania,Sailing,11.0,39.0,3.545
+483.0,Ahmed Farid Abou-Shadi,M,1994.0,France,FRA,Europe,Equestrian,2.0,4.0,2.0
+484.0,Abdel Fattah Abou-Shanab,M,1996.0,Italy,ITA,Europe,Triathlon,11.0,37.0,3.364
+484.0,Abdel Fattah Abou-Shanab,M,1998.0,Canada,CAN,North America,Badminton,7.0,22.0,3.143
+485.0,Sadoon Mohamed Aboub,M,2000.0,South Korea,KOR,Asia,Rowing,2.0,13.0,6.5
+486.0,Zakaria Aboub,M,2002.0,Netherlands,NED,Europe,Shooting,10.0,67.0,6.7
+487.0,Inni Aboubacar,M,2004.0,Brazil,BRA,South America,Athletics,5.0,11.0,2.2
+488.0,Ibrahim Mohamedin Aboubaker,M,2006.0,Norway,NOR,Europe,Swimming,11.0,29.0,2.636
+488.0,Ibrahim Mohamedin Aboubaker,M,2008.0,Sweden,SWE,Europe,Gymnastics,10.0,41.0,4.1
+489.0,Ahmed Ghmin Aboud,M,2010.0,Spain,ESP,Europe,Cycling,5.0,11.0,2.2
+490.0,Fathi Khalifa Aboud,M,2012.0,Switzerland,SUI,Europe,Wrestling,6.0,28.0,4.667
+491.0,Kamel Aboud,M,2014.0,Ukraine,UKR,Europe/Asia,Boxing,4.0,7.0,1.75
+492.0,Marwan Suhail Aboud,M,2016.0,Kenya,KEN,Africa,Judo,4.0,13.0,3.25
+493.0,Rabah Aboud,M,2018.0,Jamaica,JAM,North America,Archery,7.0,12.0,1.714
+494.0,Mamdouh Taha Al-Husseini Abouebaid,M,2020.0,New Zealand,NZL,Oceania,Alpine Skiing,9.0,39.0,4.333
+495.0,Alaaeldin Ahmad El-Sayyid Abouelkassem,M,2022.0,Cuba,CUB,North America,Figure Skating,5.0,12.0,2.4
+495.0,Alaaeldin Ahmad El-Sayyid Abouelkassem,M,2024.0,Hungary,HUN,Europe,Speed Skating,10.0,21.0,2.1
+495.0,Alaaeldin Ahmad El-Sayyid Abouelkassem,M,2026.0,Poland,POL,Europe,Biathlon,11.0,17.0,1.545
+495.0,Alaaeldin Ahmad El-Sayyid Abouelkassem,M,1992.0,South Africa,RSA,Africa,Ice Hockey,5.0,17.0,3.4
+496.0,Haysam Farouk Abouelw,M,1994.0,Ethiopia,ETH,Africa,Snowboarding,2.0,3.0,1.5
+497.0,Waguih Rauf Aboul Seoud,M,1996.0,Argentina,ARG,South America,Cross-Country Skiing,5.0,13.0,2.6
+498.0,El-Sayed Aboumedan,M,1998.0,Czech Republic,CZE,Europe,Weightlifting,10.0,50.0,5.0
+499.0,Dany Abounaoum,M,2000.0,Austria,AUT,Europe,Fencing,6.0,19.0,3.167
+499.0,Dany Abounaoum,M,2002.0,Finland,FIN,Europe,Taekwondo,10.0,33.0,3.3
+500.0,Sdonoud Janvier Abouta,M,2004.0,Romania,ROU,Europe,Canoeing,10.0,49.0,4.9
+501.0,Mohamed Mohamed Mohamed Aboutrika,M,2006.0,Denmark,DEN,Europe,Sailing,5.0,13.0,2.6
+502.0,Ahmad Shah Abouwi,M,2008.0,Croatia,CRO,Europe,Equestrian,6.0,13.0,2.167
+503.0,Adeola Aboyade-Cole,M,2010.0,Kazakhstan,KAZ,Europe/Asia,Triathlon,2.0,2.0,1.0
+504.0,Cheryl Abplanalp,F,2012.0,Belarus,BLR,Europe,Badminton,9.0,47.0,5.222
+505.0,"Alexander ""Alex"" Abraham (Steglitz)",M,2014.0,Bulgaria,BUL,Europe,Rowing,3.0,20.0,6.667
+506.0,Andrei Abraham,M,2016.0,Slovakia,SVK,Europe,Shooting,9.0,60.0,6.667
+506.0,Andrei Abraham,M,2018.0,Georgia,GEO,Europe/Asia,Athletics,11.0,21.0,1.909
+506.0,Andrei Abraham,M,2020.0,Azerbaijan,AZE,Europe/Asia,Swimming,10.0,12.0,1.2
+506.0,Andrei Abraham,M,2022.0,Colombia,COL,South America,Gymnastics,10.0,34.0,3.4
+506.0,Andrei Abraham,M,2024.0,Mexico,MEX,North America,Cycling,4.0,7.0,1.75
+506.0,Andrei Abraham,M,2026.0,India,IND,Asia,Wrestling,11.0,42.0,3.818
+506.0,Andrei Abraham,M,1992.0,Belgium,BEL,Europe,Boxing,9.0,19.0,2.111
+506.0,Andrei Abraham,M,1994.0,Greece,GRE,Europe,Judo,3.0,11.0,3.667
+507.0,Attila brahm,M,1996.0,Turkey,TUR,Europe/Asia,Archery,3.0,13.0,4.333
+507.0,Attila brahm,M,1998.0,Iran,IRI,Asia,Alpine Skiing,7.0,28.0,4.0
+507.0,Attila brahm,M,2000.0,North Korea,PRK,Asia,Figure Skating,2.0,8.0,4.0
+508.0,Bernhard Abraham,M,2002.0,Thailand,THA,Asia,Speed Skating,2.0,8.0,4.0
+509.0,Gary Abraham,M,2004.0,Indonesia,INA,Asia,Biathlon,8.0,30.0,3.75
+509.0,Gary Abraham,M,2006.0,Nigeria,NGR,Africa,Ice Hockey,3.0,13.0,4.333
+509.0,Gary Abraham,M,2008.0,Egypt,EGY,Africa,Snowboarding,9.0,26.0,2.889
+509.0,Gary Abraham,M,2010.0,Morocco,MAR,Africa,Cross-Country Skiing,2.0,7.0,3.5
+509.0,Gary Abraham,M,2012.0,Algeria,ALG,Africa,Weightlifting,5.0,21.0,4.2
+510.0,Melita Isidora Abraham Schssler,F,2014.0,Tunisia,TUN,Africa,Fencing,5.0,11.0,2.2
+511.0,Tadesse Abraham,M,2016.0,Chile,CHI,South America,Taekwondo,5.0,21.0,4.2
+512.0,Shiny Kurisingal Abraham-Wilson,F,2018.0,Venezuela,VEN,South America,Canoeing,2.0,8.0,4.0
+512.0,Shiny Kurisingal Abraham-Wilson,F,2020.0,Fiji,FIJ,Oceania,Sailing,11.0,24.0,2.182
+512.0,Shiny Kurisingal Abraham-Wilson,F,2022.0,Slovenia,SLO,Europe,Equestrian,4.0,18.0,4.5
+512.0,Shiny Kurisingal Abraham-Wilson,F,2024.0,Serbia,SRB,Europe,Triathlon,7.0,12.0,1.714
+512.0,Shiny Kurisingal Abraham-Wilson,F,2026.0,Ireland,IRL,Europe,Badminton,9.0,29.0,3.222
+512.0,Shiny Kurisingal Abraham-Wilson,F,1992.0,United States,USA,North America,Rowing,7.0,48.0,6.857
+513.0,Mariola Teresa Abrahamczyk (-Fronckowiak),F,1994.0,China,CHN,Asia,Shooting,2.0,13.0,6.5
+514.0,Ara Abrahamian,M,1996.0,Great Britain,GBR,Europe,Athletics,10.0,14.0,1.4
+514.0,Ara Abrahamian,M,1998.0,Germany,GER,Europe,Swimming,10.0,34.0,3.4
+514.0,Ara Abrahamian,M,2000.0,Russia,RUS,Europe/Asia,Gymnastics,2.0,8.0,4.0
+515.0,Stphan Abrahamian Gonzalez,M,2002.0,Japan,JPN,Asia,Cycling,2.0,8.0,4.0
+516.0,Clyde Abrahams,M,2004.0,Australia,AUS,Oceania,Wrestling,11.0,41.0,3.727
+517.0,Glen Abrahams Martnez,M,2006.0,France,FRA,Europe,Boxing,9.0,18.0,2.0
+517.0,Glen Abrahams Martnez,M,2008.0,Italy,ITA,Europe,Judo,3.0,15.0,5.0
+518.0,Guy A. Abrahams,M,2010.0,Canada,CAN,North America,Archery,4.0,20.0,5.0
+518.0,Guy A. Abrahams,M,2012.0,South Korea,KOR,Asia,Alpine Skiing,4.0,9.0,2.25
+519.0,Harold Maurice Abrahams,M,2014.0,Netherlands,NED,Europe,Figure Skating,7.0,20.0,2.857
+519.0,Harold Maurice Abrahams,M,2016.0,Brazil,BRA,South America,Speed Skating,7.0,19.0,2.714
+519.0,Harold Maurice Abrahams,M,2018.0,Norway,NOR,Europe,Biathlon,8.0,30.0,3.75
+519.0,Harold Maurice Abrahams,M,2020.0,Sweden,SWE,Europe,Ice Hockey,6.0,27.0,4.5
+519.0,Harold Maurice Abrahams,M,2022.0,Spain,ESP,Europe,Snowboarding,10.0,46.0,4.6
+519.0,Harold Maurice Abrahams,M,2024.0,Switzerland,SUI,Europe,Cross-Country Skiing,7.0,19.0,2.714
+519.0,Harold Maurice Abrahams,M,2026.0,Ukraine,UKR,Europe/Asia,Weightlifting,5.0,7.0,1.4
+520.0,Sidney Solomon Abrahams,M,1992.0,Kenya,KEN,Africa,Fencing,7.0,34.0,4.857
+520.0,Sidney Solomon Abrahams,M,1994.0,Jamaica,JAM,North America,Taekwondo,6.0,11.0,1.833
+520.0,Sidney Solomon Abrahams,M,1996.0,New Zealand,NZL,Oceania,Canoeing,11.0,52.0,4.727
+521.0,Isak Abrahamsen,M,1998.0,Cuba,CUB,North America,Sailing,3.0,9.0,3.0
+522.0,Knut Leo Abrahamsen,M,2000.0,Hungary,HUN,Europe,Equestrian,8.0,40.0,5.0
+523.0,Trond Sevg Abrahamsen,M,2002.0,Poland,POL,Europe,Triathlon,5.0,25.0,5.0
+523.0,Trond Sevg Abrahamsen,M,2004.0,South Africa,RSA,Africa,Badminton,8.0,38.0,4.75
+524.0,"Donald Robert Abrahamson, Jr.",M,2006.0,Ethiopia,ETH,Africa,Rowing,3.0,20.0,6.667
+525.0,Richard Neal Abrahamson,M,2008.0,Argentina,ARG,South America,Shooting,11.0,74.0,6.727
+525.0,Richard Neal Abrahamson,M,2010.0,Czech Republic,CZE,Europe,Athletics,10.0,49.0,4.9
+526.0,Kurt Christer Abrahamsson (-Abris),M,2012.0,Austria,AUT,Europe,Swimming,7.0,15.0,2.143
+527.0,Erik Adolf Efraim Abrahamsson,M,2014.0,Finland,FIN,Europe,Gymnastics,4.0,8.0,2.0
+528.0,Karl Gran Abrahamsson,M,2016.0,Romania,ROU,Europe,Cycling,11.0,36.0,3.273
+528.0,Karl Gran Abrahamsson,M,2018.0,Denmark,DEN,Europe,Wrestling,8.0,17.0,2.125
+528.0,Karl Gran Abrahamsson,M,2020.0,Croatia,CRO,Europe,Boxing,3.0,15.0,5.0
+528.0,Karl Gran Abrahamsson,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Judo,4.0,13.0,3.25
+528.0,Karl Gran Abrahamsson,M,2024.0,Belarus,BLR,Europe,Archery,7.0,36.0,5.143
+529.0,Karl Gustaf Emanuel Abrahamsson,M,2026.0,Bulgaria,BUL,Europe,Alpine Skiing,6.0,20.0,3.333
+530.0,Ulf Thommy Abrahamsson,M,1992.0,Slovakia,SVK,Europe,Figure Skating,8.0,35.0,4.375
+531.0,"Fletcher Abram, Jr.",M,1994.0,Georgia,GEO,Europe/Asia,Speed Skating,3.0,10.0,3.333
+532.0,Iason Abramashvili,M,1996.0,Azerbaijan,AZE,Europe/Asia,Biathlon,3.0,12.0,4.0
+532.0,Iason Abramashvili,M,1998.0,Colombia,COL,South America,Ice Hockey,6.0,21.0,3.5
+532.0,Iason Abramashvili,M,2000.0,Mexico,MEX,North America,Snowboarding,3.0,6.0,2.0
+532.0,Iason Abramashvili,M,2002.0,India,IND,Asia,Cross-Country Skiing,4.0,6.0,1.5
+532.0,Iason Abramashvili,M,2004.0,Belgium,BEL,Europe,Weightlifting,3.0,16.0,5.333
+532.0,Iason Abramashvili,M,2006.0,Greece,GRE,Europe,Fencing,4.0,20.0,5.0
+533.0,Yelena Vasilyevna Abramchuk (Kopets-),F,2008.0,Turkey,TUR,Europe/Asia,Taekwondo,5.0,26.0,5.2
+534.0,Oleksandr Volodymyrovych Abramenko,M,2010.0,Iran,IRI,Asia,Canoeing,10.0,28.0,2.8
+534.0,Oleksandr Volodymyrovych Abramenko,M,2012.0,North Korea,PRK,Asia,Sailing,8.0,33.0,4.125
+534.0,Oleksandr Volodymyrovych Abramenko,M,2014.0,Thailand,THA,Asia,Equestrian,11.0,36.0,3.273
+535.0,Yevgeny Sergeyevich Abramenko,M,2016.0,Indonesia,INA,Asia,Triathlon,7.0,19.0,2.714
+535.0,Yevgeny Sergeyevich Abramenko,M,2018.0,Nigeria,NGR,Africa,Badminton,10.0,35.0,3.5
+535.0,Yevgeny Sergeyevich Abramenko,M,2020.0,Egypt,EGY,Africa,Rowing,2.0,13.0,6.5
+535.0,Yevgeny Sergeyevich Abramenko,M,2022.0,Morocco,MAR,Africa,Shooting,5.0,33.0,6.6
+535.0,Yevgeny Sergeyevich Abramenko,M,2024.0,Algeria,ALG,Africa,Athletics,5.0,7.0,1.4
+535.0,Yevgeny Sergeyevich Abramenko,M,2026.0,Tunisia,TUN,Africa,Swimming,9.0,38.0,4.222
+535.0,Yevgeny Sergeyevich Abramenko,M,1992.0,Chile,CHI,South America,Gymnastics,8.0,14.0,1.75
+535.0,Yevgeny Sergeyevich Abramenko,M,1994.0,Venezuela,VEN,South America,Cycling,8.0,12.0,1.5
+535.0,Yevgeny Sergeyevich Abramenko,M,1996.0,Fiji,FIJ,Oceania,Wrestling,3.0,15.0,5.0
+536.0,Lahcen Abrami,M,1998.0,Slovenia,SLO,Europe,Boxing,3.0,11.0,3.667
+537.0,Ek'aterina Abramia,F,2000.0,Serbia,SRB,Europe,Judo,2.0,9.0,4.5
+538.0,Jernej Abrami,M,2002.0,Ireland,IRL,Europe,Archery,5.0,16.0,3.2
+539.0,Levan Abramishvili,M,2004.0,United States,USA,North America,Alpine Skiing,10.0,53.0,5.3
+539.0,Levan Abramishvili,M,2006.0,China,CHN,Asia,Figure Skating,2.0,3.0,1.5
+540.0,Andrey Vasilyevich Abramov,M,2008.0,Great Britain,GBR,Europe,Speed Skating,9.0,13.0,1.444
+541.0,Andrey Viktorovich Abramov,M,2010.0,Germany,GER,Europe,Biathlon,5.0,20.0,4.0
+541.0,Andrey Viktorovich Abramov,M,2012.0,Russia,RUS,Europe/Asia,Ice Hockey,7.0,31.0,4.429
+542.0,Nikolay Kuzmich Abramov,M,2014.0,Japan,JPN,Asia,Snowboarding,10.0,39.0,3.9
+543.0,Pavel Sergeyevich Abramov,M,2016.0,Australia,AUS,Oceania,Cross-Country Skiing,4.0,10.0,2.5
+544.0,Sergey Mikhaylovich Abramov,M,2018.0,France,FRA,Europe,Weightlifting,4.0,18.0,4.5
+545.0,Valery Aleksandrovich Abramov,M,2020.0,Italy,ITA,Europe,Fencing,7.0,11.0,1.571
+546.0,Inna Vladimirovna Abramova,F,2022.0,Canada,CAN,North America,Taekwondo,9.0,15.0,1.667
+546.0,Inna Vladimirovna Abramova,F,2024.0,South Korea,KOR,Asia,Canoeing,9.0,27.0,3.0
+547.0,Nelli Mikhaylovna Abramova,F,2026.0,Netherlands,NED,Europe,Sailing,9.0,15.0,1.667
+548.0,Yekaterina Konstantinovna Abramova,F,1992.0,Brazil,BRA,South America,Equestrian,11.0,18.0,1.636
+548.0,Yekaterina Konstantinovna Abramova,F,1994.0,Norway,NOR,Europe,Triathlon,5.0,25.0,5.0
+548.0,Yekaterina Konstantinovna Abramova,F,1996.0,Sweden,SWE,Europe,Badminton,5.0,25.0,5.0
+548.0,Yekaterina Konstantinovna Abramova,F,1998.0,Spain,ESP,Europe,Rowing,7.0,48.0,6.857
+549.0,Alen Abramovi,M,2000.0,Switzerland,SUI,Europe,Shooting,5.0,33.0,6.6
+549.0,Alen Abramovi,M,2002.0,Ukraine,UKR,Europe/Asia,Athletics,10.0,17.0,1.7
+550.0,Dmitry Vladimirovich Abramovich,M,2004.0,Kenya,KEN,Africa,Swimming,8.0,12.0,1.5
+550.0,Dmitry Vladimirovich Abramovich,M,2006.0,Jamaica,JAM,North America,Gymnastics,10.0,48.0,4.8
+551.0,Aliyah Abrams,F,2008.0,New Zealand,NZL,Oceania,Cycling,11.0,14.0,1.273
+552.0,Colin Winston Abrams,M,2010.0,Cuba,CUB,North America,Wrestling,6.0,9.0,1.5
+553.0,John Charles Abrams,M,2012.0,Hungary,HUN,Europe,Boxing,8.0,36.0,4.5
+553.0,John Charles Abrams,M,2014.0,Poland,POL,Europe,Judo,9.0,45.0,5.0
+554.0,Benik Abramyan,M,2016.0,South Africa,RSA,Africa,Archery,2.0,5.0,2.5
+555.0,Antnio da Cunha Meneses Martins Abrantes,M,2018.0,Ethiopia,ETH,Africa,Alpine Skiing,4.0,9.0,2.25
+555.0,Antnio da Cunha Meneses Martins Abrantes,M,2020.0,Argentina,ARG,South America,Figure Skating,11.0,46.0,4.182
+555.0,Antnio da Cunha Meneses Martins Abrantes,M,2022.0,Czech Republic,CZE,Europe,Speed Skating,2.0,9.0,4.5
+555.0,Antnio da Cunha Meneses Martins Abrantes,M,2024.0,Austria,AUT,Europe,Biathlon,10.0,54.0,5.4
+556.0,Arnaldo Lus Isaas Abrantes,M,2026.0,Finland,FIN,Europe,Ice Hockey,10.0,17.0,1.7
+556.0,Arnaldo Lus Isaas Abrantes,M,1992.0,Romania,ROU,Europe,Snowboarding,2.0,9.0,4.5
+557.0,Arnaldo Joaquim Castro Abrantes,M,1994.0,Denmark,DEN,Europe,Cross-Country Skiing,11.0,17.0,1.545
+558.0,David Abrard,M,1996.0,Croatia,CRO,Europe,Weightlifting,10.0,25.0,2.5
+559.0,Tsvetelina Abrasheva,F,1998.0,Kazakhstan,KAZ,Europe/Asia,Fencing,3.0,8.0,2.667
+560.0,Amir Abrashi,M,2000.0,Belarus,BLR,Europe,Taekwondo,2.0,6.0,3.0
+561.0,Thomas Abratis,M,2002.0,Bulgaria,BUL,Europe,Canoeing,11.0,27.0,2.455
+561.0,Thomas Abratis,M,2004.0,Slovakia,SVK,Europe,Sailing,8.0,28.0,3.5
+562.0,Pawe Abratkiewicz,M,2006.0,Georgia,GEO,Europe/Asia,Equestrian,8.0,32.0,4.0
+562.0,Pawe Abratkiewicz,M,2008.0,Azerbaijan,AZE,Europe/Asia,Triathlon,3.0,10.0,3.333
+562.0,Pawe Abratkiewicz,M,2010.0,Colombia,COL,South America,Badminton,5.0,23.0,4.6
+562.0,Pawe Abratkiewicz,M,2012.0,Mexico,MEX,North America,Rowing,10.0,69.0,6.9
+562.0,Pawe Abratkiewicz,M,2014.0,India,IND,Asia,Shooting,11.0,74.0,6.727
+562.0,Pawe Abratkiewicz,M,2016.0,Belgium,BEL,Europe,Athletics,2.0,4.0,2.0
+563.0,Diogo Ferreira Tribolet de Abreu,M,2018.0,Greece,GRE,Europe,Swimming,8.0,37.0,4.625
+564.0,Eloy Abreu Morales,M,2020.0,Turkey,TUR,Europe/Asia,Gymnastics,5.0,18.0,3.6
+565.0,Glauclio Serro Abreu,M,2022.0,Iran,IRI,Asia,Cycling,2.0,7.0,3.5
+566.0,Jos Filipe Abreu,M,2024.0,North Korea,PRK,Asia,Wrestling,6.0,14.0,2.333
+566.0,Jos Filipe Abreu,M,2026.0,Thailand,THA,Asia,Boxing,8.0,28.0,3.5
+566.0,Jos Filipe Abreu,M,1992.0,Indonesia,INA,Asia,Judo,11.0,59.0,5.364
+566.0,Jos Filipe Abreu,M,1994.0,Nigeria,NGR,Africa,Archery,11.0,42.0,3.818
+566.0,Jos Filipe Abreu,M,1996.0,Egypt,EGY,Africa,Alpine Skiing,11.0,42.0,3.818
+566.0,Jos Filipe Abreu,M,1998.0,Morocco,MAR,Africa,Figure Skating,2.0,8.0,4.0
+566.0,Jos Filipe Abreu,M,2000.0,Algeria,ALG,Africa,Speed Skating,9.0,13.0,1.444
+567.0,Emilio Julio Abreu,M,2002.0,Tunisia,TUN,Africa,Biathlon,2.0,7.0,3.5
+567.0,Emilio Julio Abreu,M,2004.0,Chile,CHI,South America,Ice Hockey,6.0,29.0,4.833
+567.0,Emilio Julio Abreu,M,2006.0,Venezuela,VEN,South America,Snowboarding,9.0,33.0,3.667
+568.0,Morais Santos Abreu,M,2008.0,Fiji,FIJ,Oceania,Cross-Country Skiing,3.0,16.0,5.333
+569.0,Paulo Francisco Joazeiro de Abreu,M,2010.0,Slovenia,SLO,Europe,Weightlifting,2.0,10.0,5.0
+570.0,Pedro Abreu Pascal,M,2012.0,Serbia,SRB,Europe,Fencing,4.0,5.0,1.25
+571.0,Rubn Abreu Rivero,M,2014.0,Ireland,IRL,Europe,Taekwondo,6.0,28.0,4.667
+572.0,Rui Pinto de Abreu,M,2016.0,United States,USA,North America,Canoeing,5.0,20.0,4.0
+572.0,Rui Pinto de Abreu,M,2018.0,China,CHN,Asia,Sailing,11.0,36.0,3.273
+572.0,Rui Pinto de Abreu,M,2020.0,Great Britain,GBR,Europe,Equestrian,3.0,15.0,5.0
+572.0,Rui Pinto de Abreu,M,2022.0,Germany,GER,Europe,Triathlon,6.0,31.0,5.167
+572.0,Rui Pinto de Abreu,M,2024.0,Russia,RUS,Europe/Asia,Badminton,7.0,27.0,3.857
+573.0,Franck Abrial,M,2026.0,Japan,JPN,Asia,Rowing,11.0,76.0,6.909
+574.0,rika Abril Surez,F,1992.0,Australia,AUS,Oceania,Shooting,8.0,53.0,6.625
+574.0,rika Abril Surez,F,1994.0,France,FRA,Europe,Athletics,8.0,25.0,3.125
+575.0,Laura Valentina Abril Restrepo,F,1996.0,Italy,ITA,Europe,Swimming,2.0,6.0,3.0
+576.0,"Alejandro ""lex"" Abrines Redondo",M,1998.0,Canada,CAN,North America,Gymnastics,9.0,17.0,1.889
+577.0,Knut Richard brink,M,2000.0,South Korea,KOR,Asia,Cycling,4.0,8.0,2.0
+577.0,Knut Richard brink,M,2002.0,Netherlands,NED,Europe,Wrestling,9.0,41.0,4.556
+578.0,Bourhan Abro,M,2004.0,Brazil,BRA,South America,Boxing,3.0,5.0,1.667
+579.0,Anastasiya Aleksandrovna Abrosimova,F,2006.0,Norway,NOR,Europe,Judo,10.0,19.0,1.9
+580.0,Svetlana Olegovna Abrosimova,F,2008.0,Sweden,SWE,Europe,Archery,8.0,15.0,1.875
+580.0,Svetlana Olegovna Abrosimova,F,2010.0,Spain,ESP,Europe,Alpine Skiing,10.0,22.0,2.2
+581.0,Elisabeta Abrudeanu,F,2012.0,Switzerland,SUI,Europe,Figure Skating,3.0,14.0,4.667
+581.0,Elisabeta Abrudeanu,F,2014.0,Ukraine,UKR,Europe/Asia,Speed Skating,6.0,26.0,4.333
+581.0,Elisabeta Abrudeanu,F,2016.0,Kenya,KEN,Africa,Biathlon,5.0,15.0,3.0
+581.0,Elisabeta Abrudeanu,F,2018.0,Jamaica,JAM,North America,Ice Hockey,8.0,26.0,3.25
+581.0,Elisabeta Abrudeanu,F,2020.0,New Zealand,NZL,Oceania,Snowboarding,10.0,44.0,4.4
+581.0,Elisabeta Abrudeanu,F,2022.0,Cuba,CUB,North America,Cross-Country Skiing,8.0,39.0,4.875
+581.0,Elisabeta Abrudeanu,F,2024.0,Hungary,HUN,Europe,Weightlifting,10.0,53.0,5.3
+582.0,Saypulla Atavovich Absaidov,M,2026.0,Poland,POL,Europe,Fencing,8.0,42.0,5.25
+583.0,Julien Absalon,M,1992.0,South Africa,RSA,Africa,Taekwondo,8.0,39.0,4.875
+583.0,Julien Absalon,M,1994.0,Ethiopia,ETH,Africa,Canoeing,3.0,16.0,5.333
+583.0,Julien Absalon,M,1996.0,Argentina,ARG,South America,Sailing,2.0,9.0,4.5
+583.0,Julien Absalon,M,1998.0,Czech Republic,CZE,Europe,Equestrian,4.0,8.0,2.0
+584.0,Ayele Abshero Biza,M,2000.0,Austria,AUT,Europe,Triathlon,8.0,40.0,5.0
+585.0,Brian Kenneth Abshire,M,2002.0,Finland,FIN,Europe,Badminton,5.0,22.0,4.4
+586.0,Tobias Abstreiter,M,2004.0,Romania,ROU,Europe,Rowing,8.0,55.0,6.875
+587.0,Gudrun Maria Abt,F,2006.0,Denmark,DEN,Europe,Shooting,4.0,26.0,6.5
+587.0,Gudrun Maria Abt,F,2008.0,Croatia,CRO,Europe,Athletics,11.0,52.0,4.727
+588.0,"Aleksandr Viktorovich ""Sasha"" Abt",M,2010.0,Kazakhstan,KAZ,Europe/Asia,Swimming,9.0,19.0,2.111
+589.0,Najmeh Abtin,F,2012.0,Belarus,BLR,Europe,Gymnastics,4.0,21.0,5.25
+590.0,Mohamed Abu Abdullah,M,2014.0,Bulgaria,BUL,Europe,Cycling,4.0,18.0,4.5
+591.0,Abdul Wahab Abu Al-Hail Labid,M,2016.0,Slovakia,SVK,Europe,Wrestling,3.0,15.0,5.0
+592.0,Mohamed Ahmed Abu Ali,M,2018.0,Georgia,GEO,Europe/Asia,Boxing,10.0,22.0,2.2
+592.0,Mohamed Ahmed Abu Ali,M,2020.0,Azerbaijan,AZE,Europe/Asia,Judo,8.0,21.0,2.625
+593.0,Methkal Marouf Abu Drais,M,2022.0,Colombia,COL,South America,Archery,11.0,22.0,2.0
+593.0,Methkal Marouf Abu Drais,M,2024.0,Mexico,MEX,North America,Alpine Skiing,11.0,23.0,2.091
+594.0,Lailin Abu Hassan,M,2026.0,India,IND,Asia,Figure Skating,6.0,7.0,1.167
+594.0,Lailin Abu Hassan,M,1992.0,Belgium,BEL,Europe,Speed Skating,11.0,21.0,1.909
+595.0,Majed Abu Maraheel,M,1994.0,Greece,GRE,Europe,Biathlon,3.0,11.0,3.667
+596.0,Maher Abu Rmilah,M,1996.0,Turkey,TUR,Europe/Asia,Ice Hockey,8.0,39.0,4.875
+597.0,Mohamed Ahmed Abu Sobea,M,1998.0,Iran,IRI,Asia,Snowboarding,5.0,17.0,3.4
+598.0,Omar Abu-Fares,M,2000.0,North Korea,PRK,Asia,Cross-Country Skiing,6.0,9.0,1.5
+598.0,Omar Abu-Fares,M,2002.0,Thailand,THA,Asia,Weightlifting,9.0,47.0,5.222
+599.0,Bektas Abubakirov,M,2004.0,Indonesia,INA,Asia,Fencing,5.0,10.0,2.0
+600.0,Nagmeldin Ali Abubakr,M,2006.0,Nigeria,NGR,Africa,Taekwondo,8.0,28.0,3.5
+600.0,Nagmeldin Ali Abubakr,M,2008.0,Egypt,EGY,Africa,Canoeing,7.0,35.0,5.0
+601.0,Sanna Abubkheet,F,2010.0,Morocco,MAR,Africa,Sailing,8.0,40.0,5.0
+602.0,Abudoureheman,M,2012.0,Algeria,ALG,Africa,Equestrian,5.0,20.0,4.0
+603.0,Juma Abudu,M,2014.0,Tunisia,TUN,Africa,Triathlon,11.0,31.0,2.818
+604.0,"Folashade ""Shade"" Abugan",F,2016.0,Chile,CHI,South America,Badminton,10.0,24.0,2.4
+604.0,"Folashade ""Shade"" Abugan",F,2018.0,Venezuela,VEN,South America,Rowing,10.0,69.0,6.9
+605.0,Fernando J. Abugattas Aboino,M,2020.0,Fiji,FIJ,Oceania,Shooting,4.0,26.0,6.5
+606.0,Roberto Abugattas Aboino,M,2022.0,Slovenia,SLO,Europe,Athletics,10.0,38.0,3.8
+606.0,Roberto Abugattas Aboino,M,2024.0,Serbia,SRB,Europe,Swimming,5.0,17.0,3.4
+607.0,Hamza Abughalia,M,2026.0,Ireland,IRL,Europe,Gymnastics,11.0,44.0,4.0
+608.0,Ahmad Abughaush,M,1992.0,United States,USA,North America,Cycling,7.0,11.0,1.571
+609.0,Fartun Abukar Omar,F,1994.0,China,CHN,Asia,Wrestling,9.0,44.0,4.889
+610.0,Ginko Abukawa-Chiba,F,1996.0,Great Britain,GBR,Europe,Boxing,7.0,28.0,4.0
+610.0,Ginko Abukawa-Chiba,F,1998.0,Germany,GER,Europe,Judo,3.0,6.0,2.0
+610.0,Ginko Abukawa-Chiba,F,2000.0,Russia,RUS,Europe/Asia,Archery,7.0,32.0,4.571
+610.0,Ginko Abukawa-Chiba,F,2002.0,Japan,JPN,Asia,Alpine Skiing,9.0,34.0,3.778
+610.0,Ginko Abukawa-Chiba,F,2004.0,Australia,AUS,Oceania,Figure Skating,6.0,27.0,4.5
+610.0,Ginko Abukawa-Chiba,F,2006.0,France,FRA,Europe,Speed Skating,6.0,11.0,1.833
+610.0,Ginko Abukawa-Chiba,F,2008.0,Italy,ITA,Europe,Biathlon,9.0,30.0,3.333
+610.0,Ginko Abukawa-Chiba,F,2010.0,Canada,CAN,North America,Ice Hockey,10.0,47.0,4.7
+610.0,Ginko Abukawa-Chiba,F,2012.0,South Korea,KOR,Asia,Snowboarding,2.0,9.0,4.5
+610.0,Ginko Abukawa-Chiba,F,2014.0,Netherlands,NED,Europe,Cross-Country Skiing,3.0,10.0,3.333
+610.0,Ginko Abukawa-Chiba,F,2016.0,Brazil,BRA,South America,Weightlifting,7.0,37.0,5.286
+610.0,Ginko Abukawa-Chiba,F,2018.0,Norway,NOR,Europe,Fencing,11.0,43.0,3.909
+611.0,Mohammed Abukhousa,M,2020.0,Sweden,SWE,Europe,Taekwondo,6.0,20.0,3.333
+612.0,Mohammad Abulibdeh,M,2022.0,Spain,ESP,Europe,Canoeing,6.0,12.0,2.0
+613.0,Kariman Abuljadayel,F,2024.0,Switzerland,SUI,Europe,Sailing,4.0,7.0,1.75
+614.0,Jos Manuel Abundis Sandoval,M,2026.0,Ukraine,UKR,Europe/Asia,Equestrian,2.0,10.0,5.0
+615.0,Abdullah Abuqrais,M,1992.0,Kenya,KEN,Africa,Triathlon,10.0,24.0,2.4
+615.0,Abdullah Abuqrais,M,1994.0,Jamaica,JAM,North America,Badminton,3.0,10.0,3.333
+616.0,Shigeru Aburaya,M,1996.0,New Zealand,NZL,Oceania,Rowing,10.0,69.0,6.9
+617.0,Cristobal Alejandro Aburto Tinoco,M,1998.0,Cuba,CUB,North America,Shooting,5.0,33.0,6.6
+618.0,Aleksandr Veniaminovich Abushakhmetov,M,2000.0,Hungary,HUN,Europe,Athletics,10.0,15.0,1.5
+618.0,Aleksandr Veniaminovich Abushakhmetov,M,2002.0,Poland,POL,Europe,Swimming,2.0,2.0,1.0
+618.0,Aleksandr Veniaminovich Abushakhmetov,M,2004.0,South Africa,RSA,Africa,Gymnastics,11.0,47.0,4.273
+618.0,Aleksandr Veniaminovich Abushakhmetov,M,2006.0,Ethiopia,ETH,Africa,Cycling,9.0,33.0,3.667
+619.0,Magomedgasan Mingazhutdinovich Abushev,M,2008.0,Argentina,ARG,South America,Wrestling,10.0,13.0,1.3
+620.0,Kanat Kalizhanovich Abutalipov,M,2010.0,Czech Republic,CZE,Europe,Boxing,11.0,51.0,4.636
+620.0,Kanat Kalizhanovich Abutalipov,M,2012.0,Austria,AUT,Europe,Judo,10.0,53.0,5.3
+621.0,Anas Sameer N. H. Abuyousuf,M,2014.0,Finland,FIN,Europe,Archery,7.0,33.0,4.714
+622.0,Ali Abuzamia,M,2016.0,Romania,ROU,Europe,Alpine Skiing,3.0,4.0,1.333
+623.0,Irina Alekseyevna Abysova,F,2018.0,Denmark,DEN,Europe,Figure Skating,8.0,30.0,3.75
+623.0,Irina Alekseyevna Abysova,F,2020.0,Croatia,CRO,Europe,Speed Skating,10.0,47.0,4.7
+624.0,Srr Acar,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Biathlon,5.0,13.0,2.6
+625.0,E. Doan Acarbay,M,2024.0,Belarus,BLR,Europe,Ice Hockey,4.0,17.0,4.25
+625.0,E. Doan Acarbay,M,2026.0,Bulgaria,BUL,Europe,Snowboarding,2.0,6.0,3.0
+625.0,E. Doan Acarbay,M,1992.0,Slovakia,SVK,Europe,Cross-Country Skiing,10.0,52.0,5.2
+625.0,E. Doan Acarbay,M,1994.0,Georgia,GEO,Europe/Asia,Weightlifting,11.0,55.0,5.0
+626.0,Alain Acart,M,1996.0,Azerbaijan,AZE,Europe/Asia,Fencing,5.0,22.0,4.4
+626.0,Alain Acart,M,1998.0,Colombia,COL,South America,Taekwondo,10.0,12.0,1.2
+627.0,Andreea Roxana Acatrinei,F,2000.0,Mexico,MEX,North America,Canoeing,2.0,6.0,3.0
+627.0,Andreea Roxana Acatrinei,F,2002.0,India,IND,Asia,Sailing,10.0,15.0,1.5
+627.0,Andreea Roxana Acatrinei,F,2004.0,Belgium,BEL,Europe,Equestrian,4.0,21.0,5.25
+627.0,Andreea Roxana Acatrinei,F,2006.0,Greece,GRE,Europe,Triathlon,2.0,6.0,3.0
+628.0,Jacques Accambray,M,2008.0,Turkey,TUR,Europe/Asia,Badminton,10.0,52.0,5.2
+628.0,Jacques Accambray,M,2010.0,Iran,IRI,Asia,Rowing,3.0,20.0,6.667
+629.0,William Accambray,M,2012.0,North Korea,PRK,Asia,Shooting,10.0,67.0,6.7
+630.0,Anna Accensi Abella,F,2014.0,Thailand,THA,Asia,Athletics,4.0,10.0,2.5
+631.0,Ezio Acchini,M,2016.0,Indonesia,INA,Asia,Swimming,3.0,5.0,1.667
+632.0,Mario Acchini,M,2018.0,Nigeria,NGR,Africa,Gymnastics,10.0,48.0,4.8
+633.0,Martina Accola,F,2020.0,Egypt,EGY,Africa,Cycling,5.0,19.0,3.8
+633.0,Martina Accola,F,2022.0,Morocco,MAR,Africa,Wrestling,4.0,5.0,1.25
+634.0,Paul Accola,M,2024.0,Algeria,ALG,Africa,Boxing,5.0,21.0,4.2
+634.0,Paul Accola,M,2026.0,Tunisia,TUN,Africa,Judo,11.0,48.0,4.364
+634.0,Paul Accola,M,1992.0,Chile,CHI,South America,Archery,4.0,13.0,3.25
+634.0,Paul Accola,M,1994.0,Venezuela,VEN,South America,Alpine Skiing,3.0,15.0,5.0
+634.0,Paul Accola,M,1996.0,Fiji,FIJ,Oceania,Figure Skating,10.0,42.0,4.2
+634.0,Paul Accola,M,1998.0,Slovenia,SLO,Europe,Speed Skating,11.0,20.0,1.818
+634.0,Paul Accola,M,2000.0,Serbia,SRB,Europe,Biathlon,11.0,38.0,3.455
+634.0,Paul Accola,M,2002.0,Ireland,IRL,Europe,Ice Hockey,4.0,6.0,1.5
+634.0,Paul Accola,M,2004.0,United States,USA,North America,Snowboarding,9.0,31.0,3.444
+634.0,Paul Accola,M,2006.0,China,CHN,Asia,Cross-Country Skiing,7.0,38.0,5.429
+634.0,Paul Accola,M,2008.0,Great Britain,GBR,Europe,Weightlifting,5.0,16.0,3.2
+634.0,Paul Accola,M,2010.0,Germany,GER,Europe,Fencing,3.0,12.0,4.0
+634.0,Paul Accola,M,2012.0,Russia,RUS,Europe/Asia,Taekwondo,8.0,20.0,2.5
+634.0,Paul Accola,M,2014.0,Japan,JPN,Asia,Canoeing,5.0,18.0,3.6
+634.0,Paul Accola,M,2016.0,Australia,AUS,Oceania,Sailing,6.0,12.0,2.0
+634.0,Paul Accola,M,2018.0,France,FRA,Europe,Equestrian,8.0,17.0,2.125
+634.0,Paul Accola,M,2020.0,Italy,ITA,Europe,Triathlon,6.0,31.0,5.167
+635.0,Alfredo Accorsi,M,2022.0,Canada,CAN,North America,Badminton,7.0,9.0,1.286
+636.0,Enrique Accorsi Teuthorn,M,2024.0,South Korea,KOR,Asia,Rowing,11.0,76.0,6.909
+636.0,Enrique Accorsi Teuthorn,M,2026.0,Netherlands,NED,Europe,Shooting,6.0,40.0,6.667
+637.0,Eusebio Acea Colarte,M,1992.0,Brazil,BRA,South America,Athletics,6.0,28.0,4.667
+638.0,Raidel Acea Morales,M,1994.0,Norway,NOR,Europe,Swimming,7.0,37.0,5.286
+639.0,Domingo Gmez-Acedo Villanueva,M,1996.0,Sweden,SWE,Europe,Gymnastics,9.0,27.0,3.0
+640.0,Carmen Acedo Jorge,F,1998.0,Spain,ESP,Europe,Cycling,6.0,15.0,2.5
+641.0,Jos Aceituno,M,2000.0,Switzerland,SUI,Europe,Wrestling,6.0,16.0,2.667
+642.0,Ervin S. Acel,M,2002.0,Ukraine,UKR,Europe/Asia,Boxing,7.0,37.0,5.286
+643.0,Marco Acerbi,M,2004.0,Kenya,KEN,Africa,Judo,4.0,12.0,3.0
+644.0,Claudia Acerenza Marez,F,2006.0,Jamaica,JAM,North America,Archery,4.0,15.0,3.75
+644.0,Claudia Acerenza Marez,F,2008.0,New Zealand,NZL,Oceania,Alpine Skiing,8.0,22.0,2.75
+645.0,Elmer ngel Acevedo,M,2010.0,Cuba,CUB,North America,Figure Skating,7.0,11.0,1.571
+646.0,Anibl Santiago Acevedo,M,2012.0,Hungary,HUN,Europe,Speed Skating,8.0,11.0,1.375
+647.0,Eyne Acevedo Tabares,M,2014.0,Poland,POL,Europe,Biathlon,6.0,23.0,3.833
+648.0,Fabio Acevedo,M,2016.0,South Africa,RSA,Africa,Ice Hockey,4.0,21.0,5.25
+648.0,Fabio Acevedo,M,2018.0,Ethiopia,ETH,Africa,Snowboarding,10.0,18.0,1.8
+649.0,Fernando Acevedo Portugues,M,2020.0,Argentina,ARG,South America,Cross-Country Skiing,3.0,10.0,3.333
+649.0,Fernando Acevedo Portugues,M,2022.0,Czech Republic,CZE,Europe,Weightlifting,4.0,19.0,4.75
+650.0,Javier Carlos Acevedo,M,2024.0,Austria,AUT,Europe,Fencing,8.0,28.0,3.5
+650.0,Javier Carlos Acevedo,M,2026.0,Finland,FIN,Europe,Taekwondo,11.0,24.0,2.182
+651.0,Jos Eduardo Acevedo Herrera,M,1992.0,Romania,ROU,Europe,Canoeing,8.0,23.0,2.875
+652.0,Nicole Jocelin Acevedo Tangarife,F,1994.0,Denmark,DEN,Europe,Sailing,7.0,8.0,1.143
+653.0,Sharon Evelin Acevedo Tangarife,F,1996.0,Croatia,CRO,Europe,Equestrian,3.0,9.0,3.0
+654.0,Daniel Aceves Villagrn,M,1998.0,Kazakhstan,KAZ,Europe/Asia,Triathlon,4.0,17.0,4.25
+655.0,Roberto Aceves Villagrn,M,2000.0,Belarus,BLR,Europe,Badminton,7.0,37.0,5.286
+656.0,David Laurence Acfield,M,2002.0,Bulgaria,BUL,Europe,Rowing,11.0,76.0,6.909
+656.0,David Laurence Acfield,M,2004.0,Slovakia,SVK,Europe,Shooting,7.0,47.0,6.714
+657.0,Mohamed Ali Acha-Cheloi,M,2006.0,Georgia,GEO,Europe/Asia,Athletics,5.0,10.0,2.0
+658.0,Jaouad Achab,M,2008.0,Azerbaijan,AZE,Europe/Asia,Swimming,7.0,36.0,5.143
+659.0,Mustapha Achab,M,2010.0,Colombia,COL,South America,Gymnastics,9.0,18.0,2.0
+660.0,Karem Faride Achach Ramrez,F,2012.0,Mexico,MEX,North America,Cycling,3.0,3.0,1.0
+661.0,Emilio Achacoso,M,2014.0,India,IND,Asia,Wrestling,4.0,12.0,3.0
+662.0,Loreto Achaerandio Snchez-Marn,F,2016.0,Belgium,BEL,Europe,Boxing,6.0,8.0,1.333
+663.0,Sharath Kamal Achanta,M,2018.0,Greece,GRE,Europe,Judo,5.0,15.0,3.0
+663.0,Sharath Kamal Achanta,M,2020.0,Turkey,TUR,Europe/Asia,Archery,11.0,18.0,1.636
+663.0,Sharath Kamal Achanta,M,2022.0,Iran,IRI,Asia,Alpine Skiing,7.0,16.0,2.286
+664.0,Kieron Robert Achara,M,2024.0,North Korea,PRK,Asia,Figure Skating,5.0,8.0,1.6
+665.0,Gilbert Achard-Picard,M,2026.0,Thailand,THA,Asia,Speed Skating,3.0,10.0,3.333
+666.0,Aziz Acharki,M,1992.0,Indonesia,INA,Asia,Biathlon,3.0,8.0,2.667
+667.0,"Benjamin ""Ben"" Acheampong",M,1994.0,Nigeria,NGR,Africa,Ice Hockey,4.0,21.0,5.25
+668.0,Gemma Acheampong,F,1996.0,Egypt,EGY,Africa,Snowboarding,2.0,6.0,3.0
+669.0,Joachim Yaw Acheampong,M,1998.0,Morocco,MAR,Africa,Cross-Country Skiing,6.0,29.0,4.833
+670.0,Alfred Achermann,M,2000.0,Algeria,ALG,Africa,Weightlifting,11.0,18.0,1.636
+671.0,Ghassan Achi,M,2002.0,Tunisia,TUN,Africa,Fencing,2.0,7.0,3.5
+671.0,Ghassan Achi,M,2004.0,Chile,CHI,South America,Taekwondo,8.0,35.0,4.375
+672.0,Wilson Achia,M,2006.0,Venezuela,VEN,South America,Canoeing,8.0,22.0,2.75
+673.0,Abdel Hak Achik,M,2008.0,Fiji,FIJ,Oceania,Sailing,11.0,54.0,4.909
+674.0,Mohamed Abdelhak Achik,M,2010.0,Slovenia,SLO,Europe,Equestrian,11.0,24.0,2.182
+674.0,Mohamed Abdelhak Achik,M,2012.0,Serbia,SRB,Europe,Triathlon,8.0,10.0,1.25
+674.0,Mohamed Abdelhak Achik,M,2014.0,Ireland,IRL,Europe,Badminton,2.0,4.0,2.0
+675.0,"Onochie Lawrence ""Larry"" Achike",M,2016.0,United States,USA,North America,Rowing,3.0,20.0,6.667
+675.0,"Onochie Lawrence ""Larry"" Achike",M,2018.0,China,CHN,Asia,Shooting,9.0,60.0,6.667
+676.0,Gaston Achille,M,2020.0,Great Britain,GBR,Europe,Athletics,6.0,10.0,1.667
+677.0,Georges Achille-Fould,F,2022.0,Germany,GER,Europe,Swimming,8.0,42.0,5.25
+678.0,"Jacob Hendrik ""Jack"" Achilles",M,2024.0,Russia,RUS,Europe/Asia,Gymnastics,3.0,4.0,1.333
+678.0,"Jacob Hendrik ""Jack"" Achilles",M,2026.0,Japan,JPN,Asia,Cycling,9.0,34.0,3.778
+679.0,Ioan Valeriu Achiriloaie,M,1992.0,Australia,AUS,Oceania,Wrestling,2.0,8.0,4.0
+679.0,Ioan Valeriu Achiriloaie,M,1994.0,France,FRA,Europe,Boxing,4.0,5.0,1.25
+680.0,Rita Nikolayevna Achkina,F,1996.0,Italy,ITA,Europe,Judo,8.0,13.0,1.625
+680.0,Rita Nikolayevna Achkina,F,1998.0,Canada,CAN,North America,Archery,5.0,22.0,4.4
+680.0,Rita Nikolayevna Achkina,F,2000.0,South Korea,KOR,Asia,Alpine Skiing,3.0,10.0,3.333
+681.0,Janet Achola,F,2002.0,Netherlands,NED,Europe,Figure Skating,10.0,20.0,2.0
+682.0,Julius Achon,M,2004.0,Brazil,BRA,South America,Speed Skating,8.0,26.0,3.25
+682.0,Julius Achon,M,2006.0,Norway,NOR,Europe,Biathlon,3.0,6.0,2.0
+683.0,Natalie Chioma Achonwa,F,2008.0,Sweden,SWE,Europe,Ice Hockey,8.0,36.0,4.5
+683.0,Natalie Chioma Achonwa,F,2010.0,Spain,ESP,Europe,Snowboarding,4.0,20.0,5.0
+684.0,Ahmed Mohamed Achouche,M,2012.0,Switzerland,SUI,Europe,Cross-Country Skiing,8.0,15.0,1.875
+684.0,Ahmed Mohamed Achouche,M,2014.0,Ukraine,UKR,Europe/Asia,Weightlifting,7.0,11.0,1.571
+685.0,Dallal Merwa Achour,F,2016.0,Kenya,KEN,Africa,Fencing,8.0,27.0,3.375
+686.0,Khaled Achour,M,2018.0,Jamaica,JAM,North America,Taekwondo,6.0,7.0,1.167
+687.0,Haykel Al-Achouri,M,2020.0,New Zealand,NZL,Oceania,Canoeing,9.0,35.0,3.889
+687.0,Haykel Al-Achouri,M,2022.0,Cuba,CUB,North America,Sailing,3.0,9.0,3.0
+688.0,Said Achtar,M,2024.0,Hungary,HUN,Europe,Equestrian,5.0,16.0,3.2
+689.0,Roger Achten,M,2026.0,Poland,POL,Europe,Triathlon,11.0,31.0,2.818
+689.0,Roger Achten,M,1992.0,South Africa,RSA,Africa,Badminton,8.0,37.0,4.625
+689.0,Roger Achten,M,1994.0,Ethiopia,ETH,Africa,Rowing,4.0,27.0,6.75
+689.0,Roger Achten,M,1996.0,Argentina,ARG,South America,Shooting,8.0,53.0,6.625
+690.0,Chantal Achterberg,F,1998.0,Czech Republic,CZE,Europe,Athletics,8.0,28.0,3.5
+690.0,Chantal Achterberg,F,2000.0,Austria,AUT,Europe,Swimming,5.0,27.0,5.4
+691.0,Assumpta Achuo-Bei,F,2002.0,Finland,FIN,Europe,Gymnastics,9.0,43.0,4.778
+691.0,Assumpta Achuo-Bei,F,2004.0,Romania,ROU,Europe,Cycling,2.0,5.0,2.5
+692.0,"James Dudley ""Jim"" Achurch",M,2006.0,Denmark,DEN,Europe,Wrestling,8.0,12.0,1.5
+693.0,Gabriel Achy Assi,M,2008.0,Croatia,CRO,Europe,Boxing,8.0,13.0,1.625
+694.0,Oliver M. Acii,F,2010.0,Kazakhstan,KAZ,Europe/Asia,Judo,11.0,48.0,4.364
+694.0,Oliver M. Acii,F,2012.0,Belarus,BLR,Europe,Archery,7.0,19.0,2.714
+695.0,Ricardo Augusto Amaral Acioly,M,2014.0,Bulgaria,BUL,Europe,Alpine Skiing,8.0,18.0,2.25
+696.0,Charles Acke,M,2016.0,Slovakia,SVK,Europe,Figure Skating,5.0,16.0,3.2
+697.0,Fausto Alesio Acke (Padovini-),M,2018.0,Georgia,GEO,Europe/Asia,Speed Skating,5.0,10.0,2.0
+698.0,Paul Douglas Ackerley,M,2020.0,Azerbaijan,AZE,Europe/Asia,Biathlon,9.0,48.0,5.333
+699.0,"Charles Edwin ""Charley"" Ackerly",M,2022.0,Colombia,COL,South America,Ice Hockey,9.0,28.0,3.111
+700.0,"Nathaniel Leedom ""Nate"" Ackerman",M,2024.0,Mexico,MEX,North America,Snowboarding,11.0,24.0,2.182
+701.0,Georg Ackermann,M,2026.0,India,IND,Asia,Cross-Country Skiing,3.0,14.0,4.667
+702.0,Ronny Ackermann,M,1992.0,Belgium,BEL,Europe,Weightlifting,6.0,21.0,3.5
+702.0,Ronny Ackermann,M,1994.0,Greece,GRE,Europe,Fencing,6.0,29.0,4.833
+702.0,Ronny Ackermann,M,1996.0,Turkey,TUR,Europe/Asia,Taekwondo,11.0,41.0,3.727
+702.0,Ronny Ackermann,M,1998.0,Iran,IRI,Asia,Canoeing,2.0,6.0,3.0
+702.0,Ronny Ackermann,M,2000.0,North Korea,PRK,Asia,Sailing,2.0,6.0,3.0
+702.0,Ronny Ackermann,M,2002.0,Thailand,THA,Asia,Equestrian,11.0,17.0,1.545
+702.0,Ronny Ackermann,M,2004.0,Indonesia,INA,Asia,Triathlon,11.0,27.0,2.455
+702.0,Ronny Ackermann,M,2006.0,Nigeria,NGR,Africa,Badminton,4.0,18.0,4.5
+703.0,"Marianne ""Marjan"" Ackermans-Thomas",F,2008.0,Egypt,EGY,Africa,Rowing,11.0,76.0,6.909
+704.0,Dsir Antoine Acket,M,2010.0,Morocco,MAR,Africa,Shooting,7.0,47.0,6.714
+704.0,Dsir Antoine Acket,M,2012.0,Algeria,ALG,Africa,Athletics,2.0,5.0,2.5
+705.0,Donat Acklin,M,2014.0,Tunisia,TUN,Africa,Swimming,6.0,22.0,3.667
+705.0,Donat Acklin,M,2016.0,Chile,CHI,South America,Gymnastics,8.0,23.0,2.875
+705.0,Donat Acklin,M,2018.0,Venezuela,VEN,South America,Cycling,2.0,8.0,4.0
+705.0,Donat Acklin,M,2020.0,Fiji,FIJ,Oceania,Wrestling,10.0,37.0,3.7
+705.0,Donat Acklin,M,2022.0,Slovenia,SLO,Europe,Boxing,8.0,40.0,5.0
+706.0,Guido Acklin,M,2024.0,Serbia,SRB,Europe,Judo,4.0,7.0,1.75
+706.0,Guido Acklin,M,2026.0,Ireland,IRL,Europe,Archery,6.0,7.0,1.167
+706.0,Guido Acklin,M,1992.0,United States,USA,North America,Alpine Skiing,9.0,44.0,4.889
+707.0,Urban Acman,M,1994.0,China,CHN,Asia,Figure Skating,8.0,28.0,3.5
+708.0,Alberto Enrique Acosta Palma,M,1996.0,Great Britain,GBR,Europe,Speed Skating,9.0,29.0,3.222
+708.0,Alberto Enrique Acosta Palma,M,1998.0,Germany,GER,Europe,Biathlon,3.0,9.0,3.0
+709.0,Asuncin Acosta Galano,F,2000.0,Russia,RUS,Europe/Asia,Ice Hockey,5.0,13.0,2.6
+709.0,Asuncin Acosta Galano,F,2002.0,Japan,JPN,Asia,Snowboarding,6.0,30.0,5.0
+710.0,Bryan Josu Acosta Ramos,M,2004.0,Australia,AUS,Oceania,Cross-Country Skiing,7.0,30.0,4.286
+711.0,Carlos Acosta,M,2006.0,France,FRA,Europe,Weightlifting,6.0,13.0,2.167
+712.0,Hctor H. Acosta,M,2008.0,Italy,ITA,Europe,Fencing,11.0,14.0,1.273
+712.0,Hctor H. Acosta,M,2010.0,Canada,CAN,North America,Taekwondo,10.0,38.0,3.8
+713.0,Jos Eugenio Acosta,M,2012.0,South Korea,KOR,Asia,Canoeing,7.0,32.0,4.571
+713.0,Jos Eugenio Acosta,M,2014.0,Netherlands,NED,Europe,Sailing,2.0,8.0,4.0
+713.0,Jos Eugenio Acosta,M,2016.0,Brazil,BRA,South America,Equestrian,6.0,24.0,4.0
+713.0,Jos Eugenio Acosta,M,2018.0,Norway,NOR,Europe,Triathlon,5.0,20.0,4.0
+714.0,Juan Acosta Umazabal,M,2020.0,Sweden,SWE,Europe,Badminton,2.0,6.0,3.0
+715.0,Julio Csar Acosta Gonzlez,M,2022.0,Spain,ESP,Europe,Rowing,11.0,76.0,6.909
+716.0,Lautaro Germn Acosta,M,2024.0,Switzerland,SUI,Europe,Shooting,8.0,53.0,6.625
+717.0,Leopoldo Acosta,M,2026.0,Ukraine,UKR,Europe/Asia,Athletics,5.0,17.0,3.4
+718.0,Luis Angel Acosta,M,1992.0,Kenya,KEN,Africa,Swimming,5.0,9.0,1.8
+718.0,Luis Angel Acosta,M,1994.0,Jamaica,JAM,North America,Gymnastics,2.0,6.0,3.0
+719.0,Luz Mercedes Acosta Valdez,F,1996.0,New Zealand,NZL,Oceania,Cycling,7.0,16.0,2.286
+719.0,Luz Mercedes Acosta Valdez,F,1998.0,Cuba,CUB,North America,Wrestling,2.0,2.0,1.0
+720.0,Marcelo Alberto Acosta Jimnez,M,2000.0,Hungary,HUN,Europe,Boxing,11.0,23.0,2.091
+720.0,Marcelo Alberto Acosta Jimnez,M,2002.0,Poland,POL,Europe,Judo,6.0,12.0,2.0
+720.0,Marcelo Alberto Acosta Jimnez,M,2004.0,South Africa,RSA,Africa,Archery,4.0,21.0,5.25
+721.0,Mara Jos Acosta Acosta,F,2006.0,Ethiopia,ETH,Africa,Alpine Skiing,3.0,5.0,1.667
+722.0,Mariano Acosta,M,2008.0,Argentina,ARG,South America,Figure Skating,5.0,19.0,3.8
+722.0,Mariano Acosta,M,2010.0,Czech Republic,CZE,Europe,Speed Skating,11.0,24.0,2.182
+723.0,Osmay Acosta Duarte,M,2012.0,Austria,AUT,Europe,Biathlon,11.0,28.0,2.545
+724.0,Pedro Javier Acosta Snchez,M,2014.0,Finland,FIN,Europe,Ice Hockey,11.0,18.0,1.636
+725.0,Roslandy del Valle Acosta Alvarado,F,2016.0,Romania,ROU,Europe,Snowboarding,3.0,14.0,4.667
+726.0,Tanya Acosta,F,2018.0,Denmark,DEN,Europe,Cross-Country Skiing,6.0,10.0,1.667
+727.0,Martn Ral Acosta y Lara Daz,M,2020.0,Croatia,CRO,Europe,Weightlifting,7.0,18.0,2.571
+727.0,Martn Ral Acosta y Lara Daz,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Fencing,8.0,35.0,4.375
+728.0,George Wilson Acquaah,M,2024.0,Belarus,BLR,Europe,Taekwondo,7.0,26.0,3.714
+728.0,George Wilson Acquaah,M,2026.0,Bulgaria,BUL,Europe,Canoeing,3.0,8.0,2.667
+729.0,Robert Acquafresca,M,1992.0,Slovakia,SVK,Europe,Sailing,2.0,4.0,2.0
+730.0,Edward Acquah,M,1994.0,Georgia,GEO,Europe/Asia,Equestrian,3.0,6.0,2.0
+731.0,Oliver Acquah,M,1996.0,Azerbaijan,AZE,Europe/Asia,Triathlon,2.0,4.0,2.0
+731.0,Oliver Acquah,M,1998.0,Colombia,COL,South America,Badminton,10.0,37.0,3.7
+732.0,"Samuel ""Sam"" Acquah",M,2000.0,Mexico,MEX,North America,Rowing,3.0,20.0,6.667
+733.0,Ilona cs (-Zimmermann),F,2002.0,India,IND,Asia,Shooting,6.0,40.0,6.667
+733.0,Ilona cs (-Zimmermann),F,2004.0,Belgium,BEL,Europe,Athletics,5.0,22.0,4.4
+734.0,Otto Mnsted Acthon,M,2006.0,Greece,GRE,Europe,Swimming,6.0,19.0,3.167
+734.0,Otto Mnsted Acthon,M,2008.0,Turkey,TUR,Europe/Asia,Gymnastics,2.0,5.0,2.5
+734.0,Otto Mnsted Acthon,M,2010.0,Iran,IRI,Asia,Cycling,4.0,6.0,1.5
+734.0,Otto Mnsted Acthon,M,2012.0,North Korea,PRK,Asia,Wrestling,5.0,27.0,5.4
+735.0,"Benjamin Maxwell ""Ben"" Acton",M,2014.0,Thailand,THA,Asia,Boxing,10.0,53.0,5.3
+736.0,Brigitte Acton (-Smith),F,2016.0,Indonesia,INA,Asia,Judo,3.0,4.0,1.333
+736.0,Brigitte Acton (-Smith),F,2018.0,Nigeria,NGR,Africa,Archery,4.0,18.0,4.5
+736.0,Brigitte Acton (-Smith),F,2020.0,Egypt,EGY,Africa,Alpine Skiing,10.0,24.0,2.4
+736.0,Brigitte Acton (-Smith),F,2022.0,Morocco,MAR,Africa,Figure Skating,4.0,19.0,4.75
+737.0,"Amelia Lynn ""Amy"" Acuff (-Harvey)",F,2024.0,Algeria,ALG,Africa,Speed Skating,11.0,42.0,3.818
+737.0,"Amelia Lynn ""Amy"" Acuff (-Harvey)",F,2026.0,Tunisia,TUN,Africa,Biathlon,9.0,24.0,2.667
+737.0,"Amelia Lynn ""Amy"" Acuff (-Harvey)",F,1992.0,Chile,CHI,South America,Ice Hockey,11.0,31.0,2.818
+737.0,"Amelia Lynn ""Amy"" Acuff (-Harvey)",F,1994.0,Venezuela,VEN,South America,Snowboarding,8.0,12.0,1.5
+737.0,"Amelia Lynn ""Amy"" Acuff (-Harvey)",F,1996.0,Fiji,FIJ,Oceania,Cross-Country Skiing,7.0,20.0,2.857
+738.0,Crox Ernesto Acua Rodrguez,M,1998.0,Slovenia,SLO,Europe,Weightlifting,6.0,17.0,2.833
+738.0,Crox Ernesto Acua Rodrguez,M,2000.0,Serbia,SRB,Europe,Fencing,5.0,8.0,1.6
+739.0,Jorge Acua,M,2002.0,Ireland,IRL,Europe,Taekwondo,3.0,14.0,4.667
+740.0,"ngel ""Mudo"" Acua Lizana",M,2004.0,United States,USA,North America,Canoeing,9.0,25.0,2.778
+741.0,Ricardo Acua,M,2006.0,China,CHN,Asia,Sailing,8.0,26.0,3.25
+742.0,Roberto Acua,M,2008.0,Great Britain,GBR,Europe,Equestrian,3.0,3.0,1.0
+743.0,Arslanbek Aylow,M,2010.0,Germany,GER,Europe,Triathlon,6.0,14.0,2.333
+744.0,Jzsef Aczl (-Eisenhoffer),M,2012.0,Russia,RUS,Europe/Asia,Badminton,8.0,28.0,3.5
+745.0,Kazimierz Piotr Adach,M,2014.0,Japan,JPN,Asia,Rowing,2.0,13.0,6.5
+746.0,Goro Adachi,M,2016.0,Australia,AUS,Oceania,Shooting,11.0,74.0,6.727
+746.0,Goro Adachi,M,2018.0,France,FRA,Europe,Athletics,5.0,23.0,4.6
+747.0,Kiyoshi Adachi,M,2020.0,Italy,ITA,Europe,Swimming,4.0,17.0,4.25
+748.0,Mariko Adachi,F,2022.0,Canada,CAN,North America,Gymnastics,4.0,20.0,5.0
+749.0,Miho Adachi,F,2024.0,South Korea,KOR,Asia,Cycling,9.0,36.0,4.0
+750.0,Seiya Adachi,M,2026.0,Netherlands,NED,Europe,Wrestling,9.0,45.0,5.0
+751.0,Takumi Adachi,M,1992.0,Brazil,BRA,South America,Boxing,10.0,32.0,3.2
+752.0,Yumi Adachi,F,1994.0,Norway,NOR,Europe,Judo,3.0,13.0,4.333
+753.0,Yurie Adachi,F,1996.0,Sweden,SWE,Europe,Archery,5.0,15.0,3.0
+754.0,Craig Robert Adair,M,1998.0,Spain,ESP,Europe,Alpine Skiing,8.0,24.0,3.0
+754.0,Craig Robert Adair,M,2000.0,Switzerland,SUI,Europe,Figure Skating,8.0,14.0,1.75
+755.0,Ali Enver Adakan,M,2002.0,Ukraine,UKR,Europe/Asia,Speed Skating,2.0,5.0,2.5
+755.0,Ali Enver Adakan,M,2004.0,Kenya,KEN,Africa,Biathlon,11.0,28.0,2.545
+756.0,Adalberto Pereira da Silva,M,2006.0,Jamaica,JAM,North America,Ice Hockey,11.0,57.0,5.182
+757.0,Adam,M,2008.0,New Zealand,NZL,Oceania,Snowboarding,10.0,28.0,2.8
+758.0,Adam,M,2010.0,Cuba,CUB,North America,Cross-Country Skiing,11.0,20.0,1.818
+759.0,Ahmed Adam,M,2012.0,Hungary,HUN,Europe,Weightlifting,10.0,27.0,2.7
+760.0,Constantin Adam,M,2014.0,Poland,POL,Europe,Fencing,10.0,14.0,1.4
+761.0,Gal Adam,M,2016.0,South Africa,RSA,Africa,Taekwondo,5.0,21.0,4.2
+762.0,"Gordon Belgum ""Gordy"" Adam",M,2018.0,Ethiopia,ETH,Africa,Canoeing,8.0,24.0,3.0
+763.0,Herman Adam Negrete,M,2020.0,Argentina,ARG,South America,Sailing,7.0,18.0,2.571
+764.0,Idrissa Adam,M,2022.0,Czech Republic,CZE,Europe,Equestrian,7.0,31.0,4.429
+765.0,Jean-Paul Adam,M,2024.0,Austria,AUT,Europe,Triathlon,11.0,27.0,2.455
+765.0,Jean-Paul Adam,M,2026.0,Finland,FIN,Europe,Badminton,10.0,17.0,1.7
+765.0,Jean-Paul Adam,M,1992.0,Romania,ROU,Europe,Rowing,4.0,27.0,6.75
+766.0,Ji Adam,M,1994.0,Denmark,DEN,Europe,Shooting,3.0,20.0,6.667
+766.0,Ji Adam,M,1996.0,Croatia,CRO,Europe,Athletics,6.0,22.0,3.667
+766.0,Ji Adam,M,1998.0,Kazakhstan,KAZ,Europe/Asia,Swimming,6.0,26.0,4.333
+767.0,"Johannes ""Johann"" Adam",M,2000.0,Belarus,BLR,Europe,Gymnastics,4.0,20.0,5.0
+767.0,"Johannes ""Johann"" Adam",M,2002.0,Bulgaria,BUL,Europe,Cycling,5.0,16.0,3.2
+767.0,"Johannes ""Johann"" Adam",M,2004.0,Slovakia,SVK,Europe,Wrestling,3.0,14.0,4.667
+767.0,"Johannes ""Johann"" Adam",M,2006.0,Georgia,GEO,Europe/Asia,Boxing,4.0,10.0,2.5
+768.0,Joseph Adam,M,2008.0,Azerbaijan,AZE,Europe/Asia,Judo,7.0,32.0,4.571
+769.0,Leonie Adam,F,2010.0,Colombia,COL,South America,Archery,10.0,52.0,5.2
+770.0,Marcus Adam,M,2012.0,Mexico,MEX,North America,Alpine Skiing,5.0,7.0,1.4
+770.0,Marcus Adam,M,2014.0,India,IND,Asia,Figure Skating,9.0,46.0,5.111
+770.0,Marcus Adam,M,2016.0,Belgium,BEL,Europe,Speed Skating,5.0,11.0,2.2
+770.0,Marcus Adam,M,2018.0,Greece,GRE,Europe,Biathlon,7.0,32.0,4.571
+771.0,Marianne Adam,F,2020.0,Turkey,TUR,Europe/Asia,Ice Hockey,2.0,7.0,3.5
+771.0,Marianne Adam,F,2022.0,Iran,IRI,Asia,Snowboarding,4.0,20.0,5.0
+772.0,"Michael B. ""Mike"" Adam",M,2024.0,North Korea,PRK,Asia,Cross-Country Skiing,2.0,4.0,2.0
+773.0,Moustafa Adam,M,2026.0,Thailand,THA,Asia,Weightlifting,11.0,51.0,4.636
+773.0,Moustafa Adam,M,1992.0,Indonesia,INA,Asia,Fencing,10.0,38.0,3.8
+773.0,Moustafa Adam,M,1994.0,Nigeria,NGR,Africa,Taekwondo,11.0,37.0,3.364
+773.0,Moustafa Adam,M,1996.0,Egypt,EGY,Africa,Canoeing,9.0,14.0,1.556
+774.0,"Nicolas Dominique ""Nic"" Adam",M,1998.0,Morocco,MAR,Africa,Sailing,3.0,5.0,1.667
+774.0,"Nicolas Dominique ""Nic"" Adam",M,2000.0,Algeria,ALG,Africa,Equestrian,9.0,35.0,3.889
+775.0,Otto Adam,M,2002.0,Tunisia,TUN,Africa,Triathlon,6.0,21.0,3.5
+776.0,Paul Adam,M,2004.0,Chile,CHI,South America,Badminton,6.0,31.0,5.167
+777.0,Pierre Louis Eugne Adam,M,2006.0,Venezuela,VEN,South America,Rowing,6.0,41.0,6.833
+778.0,Sndor dm,M,2008.0,Fiji,FIJ,Oceania,Shooting,4.0,26.0,6.5
+779.0,Shuaib Adam,M,2010.0,Slovenia,SLO,Europe,Athletics,2.0,3.0,1.5
+779.0,Shuaib Adam,M,2012.0,Serbia,SRB,Europe,Swimming,11.0,15.0,1.364
+779.0,Shuaib Adam,M,2014.0,Ireland,IRL,Europe,Gymnastics,5.0,24.0,4.8
+779.0,Shuaib Adam,M,2016.0,United States,USA,North America,Cycling,11.0,22.0,2.0
+779.0,Shuaib Adam,M,2018.0,China,CHN,Asia,Wrestling,3.0,15.0,5.0
+780.0,Tony Adam,M,2020.0,Great Britain,GBR,Europe,Boxing,3.0,13.0,4.333
+781.0,Ahmed Adam Salah,M,2022.0,Germany,GER,Europe,Judo,10.0,28.0,2.8
+782.0,Samba Adama,M,2024.0,Russia,RUS,Europe/Asia,Archery,2.0,7.0,3.5
+782.0,Samba Adama,M,2026.0,Japan,JPN,Asia,Alpine Skiing,5.0,25.0,5.0
+783.0,Stefan Adamczak,M,1992.0,Australia,AUS,Oceania,Figure Skating,8.0,33.0,4.125
+784.0,Matthias Adamczewski,M,1994.0,France,FRA,Europe,Speed Skating,4.0,21.0,5.25
+785.0,Dariusz Adamczuk,M,1996.0,Italy,ITA,Europe,Biathlon,10.0,22.0,2.2
+786.0,Adam Eucharyst Adamczyk,M,1998.0,Canada,CAN,North America,Ice Hockey,7.0,38.0,5.429
+786.0,Adam Eucharyst Adamczyk,M,2000.0,South Korea,KOR,Asia,Snowboarding,7.0,29.0,4.143
+787.0,Edward Adamczyk,M,2002.0,Netherlands,NED,Europe,Cross-Country Skiing,2.0,3.0,1.5
+787.0,Edward Adamczyk,M,2004.0,Brazil,BRA,South America,Weightlifting,2.0,9.0,4.5
+788.0,Lubo Adamec,M,2006.0,Norway,NOR,Europe,Fencing,6.0,16.0,2.667
+788.0,Lubo Adamec,M,2008.0,Sweden,SWE,Europe,Taekwondo,3.0,10.0,3.333
+789.0,Petr Adamec,M,2010.0,Spain,ESP,Europe,Canoeing,3.0,13.0,4.333
+789.0,Petr Adamec,M,2012.0,Switzerland,SUI,Europe,Sailing,11.0,13.0,1.182
+789.0,Petr Adamec,M,2014.0,Ukraine,UKR,Europe/Asia,Equestrian,11.0,15.0,1.364
+790.0,Mara Teresa Adames,F,2016.0,Kenya,KEN,Africa,Triathlon,9.0,37.0,4.111
+790.0,Mara Teresa Adames,F,2018.0,Jamaica,JAM,North America,Badminton,4.0,13.0,3.25
+791.0,Luigi Adami,M,2020.0,New Zealand,NZL,Oceania,Rowing,10.0,69.0,6.9
+792.0,Jina Adamikov-Pelcov,F,2022.0,Cuba,CUB,North America,Shooting,11.0,74.0,6.727
+792.0,Jina Adamikov-Pelcov,F,2024.0,Hungary,HUN,Europe,Athletics,6.0,31.0,5.167
+792.0,Jina Adamikov-Pelcov,F,2026.0,Poland,POL,Europe,Swimming,4.0,17.0,4.25
+792.0,Jina Adamikov-Pelcov,F,1992.0,South Africa,RSA,Africa,Gymnastics,9.0,36.0,4.0
+792.0,Jina Adamikov-Pelcov,F,1994.0,Ethiopia,ETH,Africa,Cycling,10.0,46.0,4.6
+792.0,Jina Adamikov-Pelcov,F,1996.0,Argentina,ARG,South America,Wrestling,10.0,45.0,4.5
+792.0,Jina Adamikov-Pelcov,F,1998.0,Czech Republic,CZE,Europe,Boxing,4.0,20.0,5.0
+792.0,Jina Adamikov-Pelcov,F,2000.0,Austria,AUT,Europe,Judo,10.0,36.0,3.6
+792.0,Jina Adamikov-Pelcov,F,2002.0,Finland,FIN,Europe,Archery,5.0,8.0,1.6
+793.0,Panagiotis Adamidis,M,2004.0,Romania,ROU,Europe,Alpine Skiing,11.0,50.0,4.545
+793.0,Panagiotis Adamidis,M,2006.0,Denmark,DEN,Europe,Figure Skating,11.0,15.0,1.364
+794.0,Janusz Andrzej Adamiec,M,2008.0,Croatia,CRO,Europe,Speed Skating,9.0,48.0,5.333
+794.0,Janusz Andrzej Adamiec,M,2010.0,Kazakhstan,KAZ,Europe/Asia,Biathlon,9.0,19.0,2.111
+794.0,Janusz Andrzej Adamiec,M,2012.0,Belarus,BLR,Europe,Ice Hockey,3.0,4.0,1.333
+795.0,Tomasz Adamiec,M,2014.0,Bulgaria,BUL,Europe,Snowboarding,6.0,26.0,4.333
+795.0,Tomasz Adamiec,M,2016.0,Slovakia,SVK,Europe,Cross-Country Skiing,6.0,14.0,2.333
+796.0,"Sabine Heidrun Adamik (Picken-, -Bothe)",F,2018.0,Georgia,GEO,Europe/Asia,Weightlifting,5.0,9.0,1.8
+797.0,Zoltn Adamik,M,2020.0,Azerbaijan,AZE,Europe/Asia,Fencing,8.0,22.0,2.75
+797.0,Zoltn Adamik,M,2022.0,Colombia,COL,South America,Taekwondo,7.0,34.0,4.857
+798.0,Pirouz Adamiyat,M,2024.0,Mexico,MEX,North America,Canoeing,2.0,9.0,4.5
+799.0,Nafissatou Moussa Adamou,F,2026.0,India,IND,Asia,Sailing,11.0,20.0,1.818
+800.0,Georgi Mirchev Adamov,M,1992.0,Belgium,BEL,Europe,Equestrian,8.0,38.0,4.75
+800.0,Georgi Mirchev Adamov,M,1994.0,Greece,GRE,Europe,Triathlon,11.0,30.0,2.727
+800.0,Georgi Mirchev Adamov,M,1996.0,Turkey,TUR,Europe/Asia,Badminton,6.0,28.0,4.667
+800.0,Georgi Mirchev Adamov,M,1998.0,Iran,IRI,Asia,Rowing,7.0,48.0,6.857
+800.0,Georgi Mirchev Adamov,M,2000.0,North Korea,PRK,Asia,Shooting,11.0,74.0,6.727
+800.0,Georgi Mirchev Adamov,M,2002.0,Thailand,THA,Asia,Athletics,8.0,15.0,1.875
+800.0,Georgi Mirchev Adamov,M,2004.0,Indonesia,INA,Asia,Swimming,9.0,15.0,1.667
+800.0,Georgi Mirchev Adamov,M,2006.0,Nigeria,NGR,Africa,Gymnastics,3.0,13.0,4.333
+800.0,Georgi Mirchev Adamov,M,2008.0,Egypt,EGY,Africa,Cycling,10.0,28.0,2.8
+800.0,Georgi Mirchev Adamov,M,2010.0,Morocco,MAR,Africa,Wrestling,10.0,31.0,3.1
+800.0,Georgi Mirchev Adamov,M,2012.0,Algeria,ALG,Africa,Boxing,4.0,5.0,1.25
+800.0,Georgi Mirchev Adamov,M,2014.0,Tunisia,TUN,Africa,Judo,9.0,39.0,4.333
+800.0,Georgi Mirchev Adamov,M,2016.0,Chile,CHI,South America,Archery,10.0,27.0,2.7
+800.0,Georgi Mirchev Adamov,M,2018.0,Venezuela,VEN,South America,Alpine Skiing,2.0,7.0,3.5
+800.0,Georgi Mirchev Adamov,M,2020.0,Fiji,FIJ,Oceania,Figure Skating,7.0,15.0,2.143
+800.0,Georgi Mirchev Adamov,M,2022.0,Slovenia,SLO,Europe,Speed Skating,11.0,42.0,3.818
+801.0,Tatyana Pavlovna Adamovich,F,2024.0,Serbia,SRB,Europe,Biathlon,3.0,4.0,1.333
+802.0,Tadeusz Ralf Adamowski,M,2026.0,Ireland,IRL,Europe,Ice Hockey,11.0,57.0,5.182
+803.0,Anne Wilma Adams (-King),F,1992.0,United States,USA,North America,Snowboarding,6.0,32.0,5.333
+803.0,Anne Wilma Adams (-King),F,1994.0,China,CHN,Asia,Cross-Country Skiing,8.0,18.0,2.25
+804.0,Antoine Xavier Adams,M,1996.0,Great Britain,GBR,Europe,Weightlifting,10.0,39.0,3.9
+804.0,Antoine Xavier Adams,M,1998.0,Germany,GER,Europe,Fencing,8.0,31.0,3.875
+804.0,Antoine Xavier Adams,M,2000.0,Russia,RUS,Europe/Asia,Taekwondo,6.0,11.0,1.833
+804.0,Antoine Xavier Adams,M,2002.0,Japan,JPN,Asia,Canoeing,7.0,26.0,3.714
+804.0,Antoine Xavier Adams,M,2004.0,Australia,AUS,Oceania,Sailing,10.0,39.0,3.9
+804.0,Antoine Xavier Adams,M,2006.0,France,FRA,Europe,Equestrian,8.0,14.0,1.75
+805.0,April Jane Adams,F,2008.0,Italy,ITA,Europe,Triathlon,4.0,5.0,1.25
+806.0,"Bartlett S. ""Bart"" Adams",M,2010.0,Canada,CAN,North America,Badminton,11.0,15.0,1.364
+807.0,"Benjamin Willard ""Ben"" Adams",M,2012.0,South Korea,KOR,Asia,Rowing,3.0,20.0,6.667
+807.0,"Benjamin Willard ""Ben"" Adams",M,2014.0,Netherlands,NED,Europe,Shooting,4.0,26.0,6.5
+808.0,"Robert ""Bob"" Adams",M,2016.0,Brazil,BRA,South America,Athletics,7.0,25.0,3.571
+809.0,Brian Adams,M,2018.0,Norway,NOR,Europe,Swimming,6.0,31.0,5.167
+810.0,Bridget Shirley Adams (-Bengough),F,2020.0,Sweden,SWE,Europe,Gymnastics,2.0,3.0,1.5
+811.0,Natalie Cammile Adams (-Brannan),F,2022.0,Spain,ESP,Europe,Cycling,8.0,37.0,4.625
+811.0,Natalie Cammile Adams (-Brannan),F,2024.0,Switzerland,SUI,Europe,Wrestling,8.0,17.0,2.125
+812.0,David Dixie Adams,M,2026.0,Ukraine,UKR,Europe/Asia,Boxing,7.0,33.0,4.714
+813.0,Edgar Holmes Adams,M,1992.0,Kenya,KEN,Africa,Judo,2.0,7.0,3.5
+813.0,Edgar Holmes Adams,M,1994.0,Jamaica,JAM,North America,Archery,10.0,14.0,1.4
+813.0,Edgar Holmes Adams,M,1996.0,New Zealand,NZL,Oceania,Alpine Skiing,7.0,20.0,2.857
+813.0,Edgar Holmes Adams,M,1998.0,Cuba,CUB,North America,Figure Skating,3.0,6.0,2.0
+813.0,Edgar Holmes Adams,M,2000.0,Hungary,HUN,Europe,Speed Skating,4.0,12.0,3.0
+814.0,Edward Adams,M,2002.0,Poland,POL,Europe,Biathlon,8.0,39.0,4.875
+815.0,"Francis ""Frank"" Adams",M,2004.0,South Africa,RSA,Africa,Ice Hockey,3.0,11.0,3.667
+815.0,"Francis ""Frank"" Adams",M,2006.0,Ethiopia,ETH,Africa,Snowboarding,6.0,20.0,3.333
+816.0,"Frederick Thomas ""Fred"" Adams",M,2008.0,Argentina,ARG,South America,Cross-Country Skiing,10.0,18.0,1.8
+817.0,"Gerard ""Gerry"" Adams",M,2010.0,Czech Republic,CZE,Europe,Weightlifting,10.0,36.0,3.6
+817.0,"Gerard ""Gerry"" Adams",M,2012.0,Austria,AUT,Europe,Fencing,10.0,35.0,3.5
+818.0,Harry Lester Adams,M,2014.0,Finland,FIN,Europe,Taekwondo,2.0,8.0,4.0
+818.0,Harry Lester Adams,M,2016.0,Romania,ROU,Europe,Canoeing,2.0,9.0,4.5
+818.0,Harry Lester Adams,M,2018.0,Denmark,DEN,Europe,Sailing,6.0,24.0,4.0
+818.0,Harry Lester Adams,M,2020.0,Croatia,CRO,Europe,Equestrian,4.0,8.0,2.0
+818.0,Harry Lester Adams,M,2022.0,Kazakhstan,KAZ,Europe/Asia,Triathlon,4.0,13.0,3.25
+819.0,John E. Adams,M,2024.0,Belarus,BLR,Europe,Badminton,6.0,16.0,2.667
+820.0,"Judith C. ""Judi"" Adams",F,2026.0,Bulgaria,BUL,Europe,Rowing,3.0,20.0,6.667
+820.0,"Judith C. ""Judi"" Adams",F,1992.0,Slovakia,SVK,Europe,Shooting,5.0,33.0,6.6
+821.0,Keith Adams,M,1994.0,Georgia,GEO,Europe/Asia,Athletics,5.0,9.0,1.8
+822.0,Lennox Adams,M,1996.0,Azerbaijan,AZE,Europe/Asia,Swimming,8.0,27.0,3.375
+823.0,Liam Adams,M,1998.0,Colombia,COL,South America,Gymnastics,9.0,40.0,4.444
+824.0,Luke Kendall Adams,M,2000.0,Mexico,MEX,North America,Cycling,11.0,16.0,1.455
+824.0,Luke Kendall Adams,M,2002.0,India,IND,Asia,Wrestling,11.0,56.0,5.091
+824.0,Luke Kendall Adams,M,2004.0,Belgium,BEL,Europe,Boxing,7.0,10.0,1.429
+824.0,Luke Kendall Adams,M,2006.0,Greece,GRE,Europe,Judo,11.0,60.0,5.455
+825.0,Lynda Riley Adams (-Hunt),F,2008.0,Turkey,TUR,Europe/Asia,Archery,7.0,32.0,4.571
+825.0,Lynda Riley Adams (-Hunt),F,2010.0,Iran,IRI,Asia,Alpine Skiing,6.0,19.0,3.167
+826.0,Lyukman Rasakovich Adams,M,2012.0,North Korea,PRK,Asia,Figure Skating,9.0,41.0,4.556
+827.0,Mareike Adams,F,2014.0,Thailand,THA,Asia,Speed Skating,10.0,18.0,1.8
+828.0,Maureen Adams,F,2016.0,Indonesia,INA,Asia,Biathlon,7.0,31.0,4.429
+829.0,"Morgan Orlando Adams, Jr.",M,2018.0,Nigeria,NGR,Africa,Ice Hockey,9.0,16.0,1.778
+830.0,Adrian Neil Adams,M,2020.0,Egypt,EGY,Africa,Snowboarding,6.0,29.0,4.833
+830.0,Adrian Neil Adams,M,2022.0,Morocco,MAR,Africa,Cross-Country Skiing,7.0,14.0,2.0
+830.0,Adrian Neil Adams,M,2024.0,Algeria,ALG,Africa,Weightlifting,8.0,34.0,4.25
+831.0,Nelson Luis Adams,M,2026.0,Tunisia,TUN,Africa,Fencing,10.0,48.0,4.8
+832.0,Nicola Virginia Adams,F,1992.0,Chile,CHI,South America,Taekwondo,11.0,26.0,2.364
+832.0,Nicola Virginia Adams,F,1994.0,Venezuela,VEN,South America,Canoeing,5.0,12.0,2.4
+833.0,Odalys Adams Castillo,F,1996.0,Fiji,FIJ,Oceania,Sailing,6.0,15.0,2.5
+834.0,Paul Adams,M,1998.0,Slovenia,SLO,Europe,Equestrian,9.0,34.0,3.778
+835.0,"Phillip Maxwell ""Phil"" Adams",M,2000.0,Serbia,SRB,Europe,Triathlon,10.0,46.0,4.6
+835.0,"Phillip Maxwell ""Phil"" Adams",M,2002.0,Ireland,IRL,Europe,Badminton,3.0,14.0,4.667
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Global Sports Performance Analytics</title>
+  <meta name="description" content="Olympic Games Performance Analytics Dashboard">
+  <meta name="keywords" content="Olympics, Tableau, Data Analytics, Flask, Dashboard">
+
+  <!-- Favicons -->
+  <link href="static/img/favicon.png" rel="icon">
+  <link href="static/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="static/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="static/vendor/aos/aos.css" rel="stylesheet">
+  <link href="static/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="static/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="static/css/main.css" rel="stylesheet">
+
+  <!-- CUSTOM SPORTS THEME CSS OVERRIDE -->
+  <style>
+    /* Stadium Background for Hero */
+    #hero {
+      background: linear-gradient(rgba(10, 25, 47, 0.85), rgba(10, 25, 47, 0.95)), url('https://images.pexels.com/photos/848618/pexels-photo-848618.jpeg?auto=compress&cs=tinysrgb&w=1600') center center !important;
+      background-size: cover !important;
+    }
+    
+    /* Olympic Gold Accents */
+    .btn-get-started, .btn-getstarted {
+      background-color: #f4c300 !important;
+      color: #111 !important;
+      font-weight: 700 !important;
+      border-radius: 30px !important;
+      transition: all 0.3s ease;
+    }
+    
+    .btn-get-started:hover, .btn-getstarted:hover {
+      background-color: #d6ab00 !important;
+      transform: scale(1.05);
+    }
+
+    h1.sitename {
+      color: #f4c300 !important;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+    }
+
+    .icon i {
+      color: #df3e41 !important; /* Olympic Red for icons */
+    }
+
+    .header {
+      background-color: rgba(10, 25, 47, 0.95) !important;
+      border-bottom: 2px solid #f4c300;
+    }
+    
+    .floating-sports-image {
+      animation: up-down 2s ease-in-out infinite alternate-reverse both;
+      filter: drop-shadow(0px 10px 20px rgba(0,0,0,0.5));
+    }
+  </style>
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto">
+        <h1 class="sitename">Olympics Analytics</h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#insights">Insights</a></li>
+          <li><a href="#story">Dashboard</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <a class="btn-getstarted" href="#story">Explore Data</a>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
+            <h1>Global Sports Performance Analytics Dashboard</h1>
+            <p>Explore over a century of Olympic history — medal counts, athlete performance, regional efficiency, and trends across nations and sports.</p>
+            <div class="d-flex">
+              <a href="#story" class="btn-get-started">Explore Dashboards</a>
+            </div>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2 hero-img text-center" data-aos="zoom-out" data-aos-delay="200">
+            <!-- Reliable Futuristic Data/Sports Image -->
+            <img src="static/img/olympic-rings.png" class="img-fluid floating-sports-image mt-5" alt="Olympic Rings" style="max-width: 80%;">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+      <div class="container section-title" data-aos="fade-up">
+        <h2>About This Analytics Project</h2>
+      </div>
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-12 content" data-aos="fade-up" data-aos-delay="100">
+            <p class="text-center mb-4">
+              <strong>120+ Years of Olympic Data | 200+ Nations Analyzed | 35+ Sports Categories | 13,000+ Athletes Tracked</strong>
+            </p>
+            <div class="row mt-4">
+                <div class="col-md-4">
+                    <h5><i class="bi bi-check2-circle text-primary"></i> Comprehensive Data</h5>
+                    <p>Analyzed datasets spanning 120+ years of Olympic competition, covering Summer and Winter Games from Athens 1896 to modern editions.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5><i class="bi bi-check2-circle text-primary"></i> Global Coverage</h5>
+                    <p>Data from 200+ National Olympic Committees (NOCs) across every continent, enabling true global comparisons of sporting achievement.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5><i class="bi bi-check2-circle text-primary"></i> Medal Intelligence</h5>
+                    <p>Deep-dive into gold, silver, and bronze medal trends — identifying which nations dominate, which sports they excel in, and how performance evolves.</p>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Data Insights Section -->
+    <section id="insights" class="services section light-background">
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Data Insights</h2>
+        <p>Key discoveries from our analysis of Olympic performance data across eras, regions, and sports.</p>
+      </div>
+      <div class="container">
+        <div class="row gy-4">
+          
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item position-relative w-100">
+              <div class="icon"><i class="bi bi-trophy icon"></i></div>
+              <h4>USA & USSR Dominance</h4>
+              <p>The USA leads all-time medal counts, with the Soviet Union (USSR) historically competitive during the Cold War era (1952-1988).</p>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative w-100">
+              <div class="icon"><i class="bi bi-graph-up-arrow icon"></i></div>
+              <h4>Rising Asian Nations</h4>
+              <p>China, Japan, and South Korea have seen exponential medal growth since the 1980s, reflecting increased sports investment and infrastructure.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative w-100">
+              <div class="icon"><i class="bi bi-gender-female icon"></i></div>
+              <h4>Women's Participation</h4>
+              <p>Female athlete participation grew from under 2% in 1900 to nearly 50% in recent Games, transforming the Olympic landscape.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative w-100">
+              <div class="icon"><i class="bi bi-house-door icon"></i></div>
+              <h4>Host Nation Advantage</h4>
+              <p>Host countries typically outperform their historical averages by 20-40% in medal count, driven by home crowd support and familiarity.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item position-relative w-100">
+              <div class="icon"><i class="bi bi-lightning icon"></i></div>
+              <h4>Sport-Specific Efficiency</h4>
+              <p>Small nations maximize medals through niche sports — e.g., Jamaica in sprinting and Kenya in long-distance running.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item position-relative w-100">
+              <div class="icon"><i class="bi bi-globe icon"></i></div>
+              <h4>Regional Patterns</h4>
+              <p>Europe consistently holds the highest total medal share, while North America and Oceania show strong per-capita efficiency in select disciplines.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Story Section -->
+    <section id="story" class="section">
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Interactive Story</h2>
+        <p>Explore the global and regional performance dashboards.</p>
+      </div>
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        
+        <!-- UPDATED TABLEAU EMBED CODE -->
+        <div class='tableauPlaceholder' id='viz1792910831165' style='position: relative'><noscript><a href='#'><img alt='The Evolution of the Olympics: Performance, Parity, and Geography ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GL&#47;GLOBALSPORTSPERFORMANCEANALYTICS&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GLOBALSPORTSPERFORMANCEANALYTICS&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GL&#47;GLOBALSPORTSPERFORMANCEANALYTICS&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+        <script type='text/javascript'>                    
+            var divElement = document.getElementById('viz1792910831165');                    
+            var vizElement = divElement.getElementsByTagName('object')[0];                    
+            vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+            var scriptElement = document.createElement('script');                    
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+        <!-- END UPDATED TABLEAU EMBED CODE -->
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer id="footer" class="footer">
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">OlympicsAnalytics</strong> <span>All Rights Reserved</span></p>
+      <div class="credits">
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="static/vendor/php-email-form/validate.js"></script>
+  <script src="static/vendor/aos/aos.js"></script>
+  <script src="static/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="static/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="static/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="static/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="static/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="static/js/main.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,61 @@
+noc_code,country,region,year,sports_investment,avg_efficiency_pct,alltime_total_medals
+USA,United States,North America,2026,5439.31,38.97,405
+CHN,China,Asia,2026,6211.45,35.67,427
+GBR,Great Britain,Europe,2026,5038.68,41.04,417
+GER,Germany,Europe,2026,4900.3,39.64,383
+RUS,Russia,Europe/Asia,2026,5544.36,42.58,401
+JPN,Japan,Asia,2026,5301.5,40.51,378
+AUS,Australia,Oceania,2026,5035.31,39.9,398
+FRA,France,Europe,2026,4904.0,40.83,377
+ITA,Italy,Europe,2026,4776.29,39.49,354
+CAN,Canada,North America,2026,4610.8,39.86,356
+KOR,South Korea,Asia,2026,4713.01,41.81,312
+NED,Netherlands,Europe,2026,4148.59,41.98,321
+BRA,Brazil,South America,2026,3858.64,41.25,321
+NOR,Norway,Europe,2026,4290.43,38.65,307
+SWE,Sweden,Europe,2026,4264.2,41.57,301
+ESP,Spain,Europe,2026,4583.47,39.3,297
+SUI,Switzerland,Europe,2026,4138.42,36.61,292
+UKR,Ukraine,Europe/Asia,2026,4098.94,43.38,299
+KEN,Kenya,Africa,2026,3724.01,41.34,289
+JAM,Jamaica,North America,2026,3479.72,43.48,306
+NZL,New Zealand,Oceania,2026,3555.0,43.83,262
+CUB,Cuba,North America,2026,3604.89,43.41,258
+HUN,Hungary,Europe,2026,3767.51,36.72,266
+POL,Poland,Europe,2026,3371.65,41.05,260
+RSA,South Africa,Africa,2026,2999.19,39.17,248
+ETH,Ethiopia,Africa,2026,3270.99,39.3,221
+ARG,Argentina,South America,2026,3266.82,41.45,245
+CZE,Czech Republic,Europe,2026,2704.7,42.9,250
+AUT,Austria,Europe,2026,2625.34,40.48,236
+FIN,Finland,Europe,2026,2688.87,38.97,216
+ROU,Romania,Europe,2026,2925.47,42.09,204
+DEN,Denmark,Europe,2026,2635.24,40.05,202
+CRO,Croatia,Europe,2026,2557.72,38.19,224
+KAZ,Kazakhstan,Europe/Asia,2026,2404.19,38.97,185
+BLR,Belarus,Europe,2026,2588.4,37.21,188
+BUL,Bulgaria,Europe,2026,2358.68,44.16,185
+SVK,Slovakia,Europe,2026,2321.06,39.18,189
+GEO,Georgia,Europe/Asia,2026,2042.67,42.56,184
+AZE,Azerbaijan,Europe/Asia,2026,1929.62,34.93,171
+COL,Colombia,South America,2026,1872.22,42.14,158
+MEX,Mexico,North America,2026,1792.77,36.9,155
+IND,India,Asia,2026,1828.68,42.87,145
+BEL,Belgium,Europe,2026,1597.68,41.54,134
+GRE,Greece,Europe,2026,1504.09,43.53,140
+TUR,Turkey,Europe/Asia,2026,1621.78,40.17,139
+IRI,Iran,Asia,2026,1302.97,43.41,116
+PRK,North Korea,Asia,2026,1180.87,40.97,114
+THA,Thailand,Asia,2026,1047.14,42.31,129
+INA,Indonesia,Asia,2026,1024.42,38.49,106
+NGR,Nigeria,Africa,2026,857.84,39.43,119
+EGY,Egypt,Africa,2026,885.77,40.86,104
+MAR,Morocco,Africa,2026,828.23,42.39,100
+ALG,Algeria,Africa,2026,699.85,42.1,89
+TUN,Tunisia,Africa,2026,646.89,45.73,78
+CHI,Chile,South America,2026,501.01,42.54,79
+VEN,Venezuela,South America,2026,446.8,44.64,74
+FIJ,Fiji,Oceania,2026,399.3,42.07,70
+SLO,Slovenia,Europe,2026,265.15,45.42,57
+SRB,Serbia,Europe,2026,177.77,36.7,58
+IRL,Ireland,Europe,2026,92.97,41.6,50
