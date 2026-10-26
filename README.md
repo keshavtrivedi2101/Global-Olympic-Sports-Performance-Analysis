@@ -3,3 +3,5 @@ Tableau Dashboard 1 - Global Sports Performance Analytics link :- https://public
 Tableau Dashboard 2 - OLYMPIC PERFORMANCE AND REGIONAL EFFICIENCY DASHBOARD :- https://public.tableau.com/views/OLYMPICPERFORMANCEANDREGIONALEFFICIENCYDASHBOARD/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Tableau Story link :- https://public.tableau.com/views/GLOBALSPORTSPERFORMANCEANALYTICS/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+video link :- https://drive.google.com/file/d/13z790-lhs00uVzUxHn23dI8ZiV6StWUM/view?usp=drivesdk
