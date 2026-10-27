@@ -264,3 +264,6 @@ Learning context: SkillWallet — Data Analytics with Tableau
 ---
 
 *Made for learning and portfolio documentation. Verify all metrics against the workbook data before using them in formal reports or funding decisions.*
+
+
+video link :- https://drive.google.com/file/d/1y6Ql9H1v26ApO9vY3ODX4Vqka97y9AeI/view?usp=drivesdk
